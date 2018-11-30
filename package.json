@@ -1,0 +1,17 @@
+{
+  "name": "Pauls_React_Blog",
+  "version": "1.0.0",
+  "description": "Pauls blog front-end in React ",
+  "main": "index.js",
+  "repository": "https://github.com/affinity-digital-ltd/Pauls_React_Blog.git",
+  "author": "Paul Brighton",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
