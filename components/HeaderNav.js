@@ -13,9 +13,9 @@ class HeaderNav extends Component {
   toggleMenu () {
     this.setState({ isOpen: !this.state.isOpen })
     if (this.state.isOpen) {
-      document.querySelector("div[data-behavior='myNav']").style.width = '100%'
-    } else {
       document.querySelector("div[data-behavior='myNav']").style.width = '0%'
+    } else {
+      document.querySelector("div[data-behavior='myNav']").style.width = '100%'
     }
   }
 
