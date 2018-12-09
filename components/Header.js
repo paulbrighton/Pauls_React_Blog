@@ -1,7 +1,7 @@
 import { Component } from 'react'
 import Link from 'next/link'
 
-import HeaderNav from './HeaderNav';
+import HeaderNav from './HeaderNav'
 
 class Header extends Component {
   render () {
