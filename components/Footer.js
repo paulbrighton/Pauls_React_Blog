@@ -15,16 +15,16 @@ class Footer extends Component {
           <h3>Social Media</h3>
           <div className='c-social__brands'>
             <a href='https://twitter.com/paulbrighton_'>
-              <img src='../static/images/twitter.svg' className='c-social__icon c-social__icon--twitter' alt='Twitter logo' />
+              <img src='/static/images/twitter.svg' className='c-social__icon c-social__icon--twitter' alt='Twitter logo' />
             </a>
             <a href='https://www.facebook.com/paul.brighton.10'>
-              <img src='../static/images/facebook.svg' className='c-social__icon c-social__icon--facebook' alt='Facebook logo' />
+              <img src='/static/images/facebook.svg' className='c-social__icon c-social__icon--facebook' alt='Facebook logo' />
             </a>
             <a href='https://www.pinterest.co.uk/paulbrightonfda/'>
-              <img src='../static/images/pinterest.svg' className='c-social__icon c-social__icon--pinterest' alt='Pinterest logo' />
+              <img src='/static/images/pinterest.svg' className='c-social__icon c-social__icon--pinterest' alt='Pinterest logo' />
             </a>
             <a href='https://www.linkedin.com/in/paulbrighton/'>
-              <img src='../static/images/linkedin.svg' className='c-social__icon c-social__icon--linkedin' alt='LinkedIn logo' />
+              <img src='/static/images/linkedin.svg' className='c-social__icon c-social__icon--linkedin' alt='LinkedIn logo' />
             </a>
           </div>
         </div>

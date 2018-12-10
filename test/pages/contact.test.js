@@ -1,4 +1,4 @@
-import Contact from '../../components/Footer'
+import Contact from '../../pages/contact'
 
 describe('<Contact />', () => {
   it('it renders correctly', () => {

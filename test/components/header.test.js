@@ -1,4 +1,4 @@
-import Header from '../../components/Footer'
+import Header from '../../components/Header'
 
 describe('<Header />', () => {
   it('it renders correctly', () => {

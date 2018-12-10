@@ -1,9 +1,9 @@
-import NavBarListItems from '../../components/Footer'
+import NavListItems from '../../components/NavListItems'
 
-describe('<NavBarListItems />', () => {
+describe('<NavListItems />', () => {
   it('it renders correctly', () => {
     const component = shallow(
-      <NavBarListItems />
+      <NavListItems />
     )
 
     expect(component).toMatchSnapshot()

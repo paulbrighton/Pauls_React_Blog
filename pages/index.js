@@ -12,7 +12,7 @@ class Index extends Component {
             <div className='c-headers__divider' />
             <figure>
               <a href='https://twitter.com/paulbrighton_'>
-                <img src='../static/images/welcome_image.jpg' className='c-intro__img' alt='An HTML illustration' />
+                <img src='/static/images/welcome_image.jpg' className='c-intro__img' alt='An HTML illustration' />
               </a>
             </figure>
             <div className='c-intro__text'>
@@ -30,7 +30,7 @@ class Index extends Component {
               <a href='#' className='c-article__path'>
                 <div className='c-article-preview__featured'>
                   <figure>
-                    <img className='c-article-preview__image' src='../static/images/welcome_image.jpg' />
+                    <img className='c-article-preview__image' src='/static/images/welcome_image.jpg' />
                   </figure>
                   <div className='c-article-preview__featured-text'>
                     <h3>Article Title</h3>
@@ -48,7 +48,7 @@ class Index extends Component {
               <a href='#' className='c-article__path'>
                 <div className='c-article-preview'>
                   <figure>
-                    <img className='c-article-preview__image' src='../static/images/welcome_image.jpg' />
+                    <img className='c-article-preview__image' src='/static/images/welcome_image.jpg' />
                   </figure>
                   <div className='c-article-preview__text'>
                     <h3>Article Title</h3>
@@ -58,7 +58,7 @@ class Index extends Component {
               <a href='#' className='c-article__path'>
                 <div className='c-article-preview'>
                   <figure>
-                    <img className='c-article-preview__image' src='../static/images/welcome_image.jpg' />
+                    <img className='c-article-preview__image' src='/static/images/welcome_image.jpg' />
                   </figure>
                   <div className='c-article-preview__text'>
                     <h3>Article Title</h3>
@@ -68,7 +68,7 @@ class Index extends Component {
               <a href='#' className='c-article__path'>
                 <div className='c-article-preview'>
                   <figure>
-                    <img className='c-article-preview__image' src='../static/images/welcome_image.jpg' />
+                    <img className='c-article-preview__image' src='/static/images/welcome_image.jpg' />
                   </figure>
                   <div className='c-article-preview__text'>
                     <h3>Article Title</h3>

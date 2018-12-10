@@ -2,7 +2,7 @@ import { Component } from 'react'
 import Layout from '../components/Layout'
 import UserComments from '../components/UserComments'
 
-class Show extends Component {
+class Article extends Component {
   render () {
     return <Layout>
       <article className='o-main-container'>
@@ -25,4 +25,4 @@ class Show extends Component {
   }
 }
 
-export default Show
+export default Article

@@ -1,4 +1,4 @@
-import Index from '../../components/Footer'
+import Index from '../../pages/index'
 
 describe('<Index />', () => {
   it('it renders correctly', () => {

@@ -1,9 +1,9 @@
-import Show from '../../components/Footer'
+import Article from '../../pages/article'
 
-describe('<Show />', () => {
+describe('<Article />', () => {
   it('it renders correctly', () => {
     const component = shallow(
-      <Show />
+      <Article />
     )
 
     expect(component).toMatchSnapshot()

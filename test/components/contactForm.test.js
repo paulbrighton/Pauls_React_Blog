@@ -1,4 +1,4 @@
-import ContactForm from '../../components/Footer'
+import ContactForm from '../../components/ContactForm'
 
 describe('<ContactForm />', () => {
   it('it renders correctly', () => {

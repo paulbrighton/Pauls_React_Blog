@@ -1,4 +1,4 @@
-import Comments from '../../components/Footer'
+import Comments from '../../components/Comments'
 
 describe('<Comments />', () => {
   it('it renders correctly', () => {

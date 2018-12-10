@@ -1,4 +1,4 @@
-import CommentForm from '../../components/Footer'
+import CommentForm from '../../components/CommentForm'
 
 describe('<CommentForm />', () => {
   it('it renders correctly', () => {

@@ -1,4 +1,4 @@
-import Portfolio from '../../components/Footer'
+import Portfolio from '../../pages/portfolio'
 
 describe('<Portfolio />', () => {
   it('it renders correctly', () => {

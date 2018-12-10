@@ -1,4 +1,4 @@
-import UserComments from '../../components/Footer'
+import UserComments from '../../components/UserComments'
 
 describe('<UserComments  />', () => {
   it('it renders correctly', () => {

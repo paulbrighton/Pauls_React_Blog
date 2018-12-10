@@ -5,34 +5,43 @@ import NavListItems from './NavListItems'
 class HeaderNav extends Component {
   constructor (props) {
     super(props)
-    this.state = { isOpen: false }
+
+    this.state = {
+      isOpen: false,
+      styles: { width: '0%' }
+    }
 
     this.toggleMenu = this.toggleMenu.bind(this)
   }
 
   toggleMenu () {
-    this.setState({ isOpen: !this.state.isOpen })
     if (this.state.isOpen) {
-      document.querySelector("div[data-behavior='myNav']").style.width = '0%'
+      this.setState({
+        styles: { width: '0%' },
+        isOpen: false
+      })
     } else {
-      document.querySelector("div[data-behavior='myNav']").style.width = '100%'
+      this.setState({
+        styles: { width: '100%' },
+        isOpen: true
+      })
     }
   }
 
   render () {
     return <div>
       <nav className='c-header__nav'>
-        <div data-behavior='myNav' className='c-overlay'>
-          <a href='javascript:void(0)' className='c-closebtn' onClick={this.toggleMenu}>&times;</a>
+        <div style={this.state.styles} className='c-overlay'>
+          <a href='#' className='c-closebtn' onClick={this.toggleMenu}>&times;</a>
           <div className='c-overlay-content'>
-            <NavListItems />
+            <NavListItems click={this.toggleMenu} />
           </div>
         </div>
         <span className='c-hamburger-nav' onClick={this.toggleMenu}>&#9776;</span>
       </nav>
       <nav className='c-main-nav'>
         <ul>
-          <NavListItems />
+          <NavListItems click={this.toggleMenu} />
         </ul>
       </nav>
     </div>

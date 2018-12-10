@@ -1,4 +1,4 @@
-import About from '../../components/Footer'
+import About from '../../pages/about'
 
 describe('<About />', () => {
   it('it renders correctly', () => {
