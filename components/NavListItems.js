@@ -1,14 +1,16 @@
 import { Component } from 'react'
 
+import Link from 'next/link'
+
 class NavListItems extends Component {
   render () {
+    const { click } = this.props
+
     return <div>
-      <ul className='c-footer__nav'>
-        <li><a href='#'>Home</a></li>
-        <li><a href='#'>About</a></li>
-        <li><a href='#'>Portfolio</a></li>
-        <li><a href='#'>Contact</a></li>
-      </ul>
+      <li><Link href='/index'><a onClick={click}>Home</a></Link></li>
+      <li><Link href='/about'><a onClick={click}>About</a></Link></li>
+      <li><Link href='/portfolio'><a onClick={click}>Portfolio</a></Link></li>
+      <li><Link href='/contact'><a onClick={click}>Contact</a></Link></li>
     </div>
   }
 }

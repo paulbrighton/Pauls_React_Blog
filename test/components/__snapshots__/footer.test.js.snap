@@ -17,15 +17,116 @@ ShallowWrapper {
     "key": undefined,
     "nodeType": "host",
     "props": Object {
-      "children": <ul>
-        <li>
-          <a
-            href="#"
+      "children": <div
+        className="o-footer__container"
+      >
+        <nav>
+          <ul
+            className="c-footer__nav"
           >
-            Footer Link
-          </a>
-        </li>
-      </ul>,
+            <NavListItems />
+          </ul>
+        </nav>
+        <div
+          className="c-social"
+        >
+          <h3>
+            Social Media
+          </h3>
+          <div
+            className="c-social__brands"
+          >
+            <a
+              href="https://twitter.com/paulbrighton_"
+            >
+              <img
+                alt="Twitter logo"
+                className="c-social__icon c-social__icon--twitter"
+                src="/static/images/twitter.svg"
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/paul.brighton.10"
+            >
+              <img
+                alt="Facebook logo"
+                className="c-social__icon c-social__icon--facebook"
+                src="/static/images/facebook.svg"
+              />
+            </a>
+            <a
+              href="https://www.pinterest.co.uk/paulbrightonfda/"
+            >
+              <img
+                alt="Pinterest logo"
+                className="c-social__icon c-social__icon--pinterest"
+                src="/static/images/pinterest.svg"
+              />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/paulbrighton/"
+            >
+              <img
+                alt="LinkedIn logo"
+                className="c-social__icon c-social__icon--linkedin"
+                src="/static/images/linkedin.svg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="c-useful-websites__links"
+        >
+          <h3>
+            Useful Links
+          </h3>
+          <li>
+            <a
+              href="https://procoders.co.uk/"
+            >
+              ProCoders Bootcamp
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://developer.mozilla.org/en-US/"
+            >
+              MDN Web Docs
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://guides.rubyonrails.org/"
+            >
+              Ruby on Rails Guides
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://caniuse.com/"
+            >
+              CanIUse
+            </a>
+          </li>
+        </div>
+        <div
+          className="c-about-info"
+        >
+          <h3>
+            About
+          </h3>
+          <p>
+            Designed by Paul Brighton
+          </p>
+          <p>
+            Built with Ruby on Rails
+          </p>
+          <p>
+            © 2018 Paul Brighton
+          </p>
+        </div>
+      </div>,
+      "className": "c-footer",
     },
     "ref": null,
     "rendered": Object {
@@ -33,86 +134,127 @@ ShallowWrapper {
       "key": undefined,
       "nodeType": "host",
       "props": Object {
-        "children": <li>
-          <a
-            href="#"
+        "children": Array [
+          <nav>
+            <ul
+              className="c-footer__nav"
+            >
+              <NavListItems />
+            </ul>
+          </nav>,
+          <div
+            className="c-social"
           >
-            Footer Link
-          </a>
-        </li>,
+            <h3>
+              Social Media
+            </h3>
+            <div
+              className="c-social__brands"
+            >
+              <a
+                href="https://twitter.com/paulbrighton_"
+              >
+                <img
+                  alt="Twitter logo"
+                  className="c-social__icon c-social__icon--twitter"
+                  src="/static/images/twitter.svg"
+                />
+              </a>
+              <a
+                href="https://www.facebook.com/paul.brighton.10"
+              >
+                <img
+                  alt="Facebook logo"
+                  className="c-social__icon c-social__icon--facebook"
+                  src="/static/images/facebook.svg"
+                />
+              </a>
+              <a
+                href="https://www.pinterest.co.uk/paulbrightonfda/"
+              >
+                <img
+                  alt="Pinterest logo"
+                  className="c-social__icon c-social__icon--pinterest"
+                  src="/static/images/pinterest.svg"
+                />
+              </a>
+              <a
+                href="https://www.linkedin.com/in/paulbrighton/"
+              >
+                <img
+                  alt="LinkedIn logo"
+                  className="c-social__icon c-social__icon--linkedin"
+                  src="/static/images/linkedin.svg"
+                />
+              </a>
+            </div>
+          </div>,
+          <div
+            className="c-useful-websites__links"
+          >
+            <h3>
+              Useful Links
+            </h3>
+            <li>
+              <a
+                href="https://procoders.co.uk/"
+              >
+                ProCoders Bootcamp
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://developer.mozilla.org/en-US/"
+              >
+                MDN Web Docs
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://guides.rubyonrails.org/"
+              >
+                Ruby on Rails Guides
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://caniuse.com/"
+              >
+                CanIUse
+              </a>
+            </li>
+          </div>,
+          <div
+            className="c-about-info"
+          >
+            <h3>
+              About
+            </h3>
+            <p>
+              Designed by Paul Brighton
+            </p>
+            <p>
+              Built with Ruby on Rails
+            </p>
+            <p>
+              © 2018 Paul Brighton
+            </p>
+          </div>,
+        ],
+        "className": "o-footer__container",
       },
       "ref": null,
-      "rendered": Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": <a
-            href="#"
-          >
-            Footer Link
-          </a>,
-        },
-        "ref": null,
-        "rendered": Object {
+      "rendered": Array [
+        Object {
           "instance": null,
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": "Footer Link",
-            "href": "#",
-          },
-          "ref": null,
-          "rendered": "Footer Link",
-          "type": "a",
-        },
-        "type": "li",
-      },
-      "type": "ul",
-    },
-    "type": "div",
-  },
-  Symbol(enzyme.__nodes__): Array [
-    Object {
-      "instance": null,
-      "key": undefined,
-      "nodeType": "host",
-      "props": Object {
-        "children": <ul>
-          <li>
-            <a
-              href="#"
+            "children": <ul
+              className="c-footer__nav"
             >
-              Footer Link
-            </a>
-          </li>
-        </ul>,
-      },
-      "ref": null,
-      "rendered": Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": <li>
-            <a
-              href="#"
-            >
-              Footer Link
-            </a>
-          </li>,
-        },
-        "ref": null,
-        "rendered": Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": <a
-              href="#"
-            >
-              Footer Link
-            </a>,
+              <NavListItems />
+            </ul>,
           },
           "ref": null,
           "rendered": Object {
@@ -120,18 +262,1220 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Footer Link",
-              "href": "#",
+              "children": <NavListItems />,
+              "className": "c-footer__nav",
             },
             "ref": null,
-            "rendered": "Footer Link",
-            "type": "a",
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            "type": "ul",
           },
-          "type": "li",
+          "type": "nav",
         },
-        "type": "ul",
-      },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h3>
+                Social Media
+              </h3>,
+              <div
+                className="c-social__brands"
+              >
+                <a
+                  href="https://twitter.com/paulbrighton_"
+                >
+                  <img
+                    alt="Twitter logo"
+                    className="c-social__icon c-social__icon--twitter"
+                    src="/static/images/twitter.svg"
+                  />
+                </a>
+                <a
+                  href="https://www.facebook.com/paul.brighton.10"
+                >
+                  <img
+                    alt="Facebook logo"
+                    className="c-social__icon c-social__icon--facebook"
+                    src="/static/images/facebook.svg"
+                  />
+                </a>
+                <a
+                  href="https://www.pinterest.co.uk/paulbrightonfda/"
+                >
+                  <img
+                    alt="Pinterest logo"
+                    className="c-social__icon c-social__icon--pinterest"
+                    src="/static/images/pinterest.svg"
+                  />
+                </a>
+                <a
+                  href="https://www.linkedin.com/in/paulbrighton/"
+                >
+                  <img
+                    alt="LinkedIn logo"
+                    className="c-social__icon c-social__icon--linkedin"
+                    src="/static/images/linkedin.svg"
+                  />
+                </a>
+              </div>,
+            ],
+            "className": "c-social",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Social Media",
+              },
+              "ref": null,
+              "rendered": "Social Media",
+              "type": "h3",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <a
+                    href="https://twitter.com/paulbrighton_"
+                  >
+                    <img
+                      alt="Twitter logo"
+                      className="c-social__icon c-social__icon--twitter"
+                      src="/static/images/twitter.svg"
+                    />
+                  </a>,
+                  <a
+                    href="https://www.facebook.com/paul.brighton.10"
+                  >
+                    <img
+                      alt="Facebook logo"
+                      className="c-social__icon c-social__icon--facebook"
+                      src="/static/images/facebook.svg"
+                    />
+                  </a>,
+                  <a
+                    href="https://www.pinterest.co.uk/paulbrightonfda/"
+                  >
+                    <img
+                      alt="Pinterest logo"
+                      className="c-social__icon c-social__icon--pinterest"
+                      src="/static/images/pinterest.svg"
+                    />
+                  </a>,
+                  <a
+                    href="https://www.linkedin.com/in/paulbrighton/"
+                  >
+                    <img
+                      alt="LinkedIn logo"
+                      className="c-social__icon c-social__icon--linkedin"
+                      src="/static/images/linkedin.svg"
+                    />
+                  </a>,
+                ],
+                "className": "c-social__brands",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <img
+                      alt="Twitter logo"
+                      className="c-social__icon c-social__icon--twitter"
+                      src="/static/images/twitter.svg"
+                    />,
+                    "href": "https://twitter.com/paulbrighton_",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "Twitter logo",
+                      "className": "c-social__icon c-social__icon--twitter",
+                      "src": "/static/images/twitter.svg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  "type": "a",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <img
+                      alt="Facebook logo"
+                      className="c-social__icon c-social__icon--facebook"
+                      src="/static/images/facebook.svg"
+                    />,
+                    "href": "https://www.facebook.com/paul.brighton.10",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "Facebook logo",
+                      "className": "c-social__icon c-social__icon--facebook",
+                      "src": "/static/images/facebook.svg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  "type": "a",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <img
+                      alt="Pinterest logo"
+                      className="c-social__icon c-social__icon--pinterest"
+                      src="/static/images/pinterest.svg"
+                    />,
+                    "href": "https://www.pinterest.co.uk/paulbrightonfda/",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "Pinterest logo",
+                      "className": "c-social__icon c-social__icon--pinterest",
+                      "src": "/static/images/pinterest.svg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  "type": "a",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <img
+                      alt="LinkedIn logo"
+                      className="c-social__icon c-social__icon--linkedin"
+                      src="/static/images/linkedin.svg"
+                    />,
+                    "href": "https://www.linkedin.com/in/paulbrighton/",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "alt": "LinkedIn logo",
+                      "className": "c-social__icon c-social__icon--linkedin",
+                      "src": "/static/images/linkedin.svg",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "img",
+                  },
+                  "type": "a",
+                },
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h3>
+                Useful Links
+              </h3>,
+              <li>
+                <a
+                  href="https://procoders.co.uk/"
+                >
+                  ProCoders Bootcamp
+                </a>
+              </li>,
+              <li>
+                <a
+                  href="https://developer.mozilla.org/en-US/"
+                >
+                  MDN Web Docs
+                </a>
+              </li>,
+              <li>
+                <a
+                  href="https://guides.rubyonrails.org/"
+                >
+                  Ruby on Rails Guides
+                </a>
+              </li>,
+              <li>
+                <a
+                  href="https://caniuse.com/"
+                >
+                  CanIUse
+                </a>
+              </li>,
+            ],
+            "className": "c-useful-websites__links",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Useful Links",
+              },
+              "ref": null,
+              "rendered": "Useful Links",
+              "type": "h3",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  href="https://procoders.co.uk/"
+                >
+                  ProCoders Bootcamp
+                </a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "ProCoders Bootcamp",
+                  "href": "https://procoders.co.uk/",
+                },
+                "ref": null,
+                "rendered": "ProCoders Bootcamp",
+                "type": "a",
+              },
+              "type": "li",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  href="https://developer.mozilla.org/en-US/"
+                >
+                  MDN Web Docs
+                </a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "MDN Web Docs",
+                  "href": "https://developer.mozilla.org/en-US/",
+                },
+                "ref": null,
+                "rendered": "MDN Web Docs",
+                "type": "a",
+              },
+              "type": "li",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  href="https://guides.rubyonrails.org/"
+                >
+                  Ruby on Rails Guides
+                </a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Ruby on Rails Guides",
+                  "href": "https://guides.rubyonrails.org/",
+                },
+                "ref": null,
+                "rendered": "Ruby on Rails Guides",
+                "type": "a",
+              },
+              "type": "li",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <a
+                  href="https://caniuse.com/"
+                >
+                  CanIUse
+                </a>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "CanIUse",
+                  "href": "https://caniuse.com/",
+                },
+                "ref": null,
+                "rendered": "CanIUse",
+                "type": "a",
+              },
+              "type": "li",
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h3>
+                About
+              </h3>,
+              <p>
+                Designed by Paul Brighton
+              </p>,
+              <p>
+                Built with Ruby on Rails
+              </p>,
+              <p>
+                © 2018 Paul Brighton
+              </p>,
+            ],
+            "className": "c-about-info",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "About",
+              },
+              "ref": null,
+              "rendered": "About",
+              "type": "h3",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Designed by Paul Brighton",
+              },
+              "ref": null,
+              "rendered": "Designed by Paul Brighton",
+              "type": "p",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Built with Ruby on Rails",
+              },
+              "ref": null,
+              "rendered": "Built with Ruby on Rails",
+              "type": "p",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "© 2018 Paul Brighton",
+              },
+              "ref": null,
+              "rendered": "© 2018 Paul Brighton",
+              "type": "p",
+            },
+          ],
+          "type": "div",
+        },
+      ],
       "type": "div",
+    },
+    "type": "footer",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="o-footer__container"
+        >
+          <nav>
+            <ul
+              className="c-footer__nav"
+            >
+              <NavListItems />
+            </ul>
+          </nav>
+          <div
+            className="c-social"
+          >
+            <h3>
+              Social Media
+            </h3>
+            <div
+              className="c-social__brands"
+            >
+              <a
+                href="https://twitter.com/paulbrighton_"
+              >
+                <img
+                  alt="Twitter logo"
+                  className="c-social__icon c-social__icon--twitter"
+                  src="/static/images/twitter.svg"
+                />
+              </a>
+              <a
+                href="https://www.facebook.com/paul.brighton.10"
+              >
+                <img
+                  alt="Facebook logo"
+                  className="c-social__icon c-social__icon--facebook"
+                  src="/static/images/facebook.svg"
+                />
+              </a>
+              <a
+                href="https://www.pinterest.co.uk/paulbrightonfda/"
+              >
+                <img
+                  alt="Pinterest logo"
+                  className="c-social__icon c-social__icon--pinterest"
+                  src="/static/images/pinterest.svg"
+                />
+              </a>
+              <a
+                href="https://www.linkedin.com/in/paulbrighton/"
+              >
+                <img
+                  alt="LinkedIn logo"
+                  className="c-social__icon c-social__icon--linkedin"
+                  src="/static/images/linkedin.svg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="c-useful-websites__links"
+          >
+            <h3>
+              Useful Links
+            </h3>
+            <li>
+              <a
+                href="https://procoders.co.uk/"
+              >
+                ProCoders Bootcamp
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://developer.mozilla.org/en-US/"
+              >
+                MDN Web Docs
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://guides.rubyonrails.org/"
+              >
+                Ruby on Rails Guides
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://caniuse.com/"
+              >
+                CanIUse
+              </a>
+            </li>
+          </div>
+          <div
+            className="c-about-info"
+          >
+            <h3>
+              About
+            </h3>
+            <p>
+              Designed by Paul Brighton
+            </p>
+            <p>
+              Built with Ruby on Rails
+            </p>
+            <p>
+              © 2018 Paul Brighton
+            </p>
+          </div>
+        </div>,
+        "className": "c-footer",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <nav>
+              <ul
+                className="c-footer__nav"
+              >
+                <NavListItems />
+              </ul>
+            </nav>,
+            <div
+              className="c-social"
+            >
+              <h3>
+                Social Media
+              </h3>
+              <div
+                className="c-social__brands"
+              >
+                <a
+                  href="https://twitter.com/paulbrighton_"
+                >
+                  <img
+                    alt="Twitter logo"
+                    className="c-social__icon c-social__icon--twitter"
+                    src="/static/images/twitter.svg"
+                  />
+                </a>
+                <a
+                  href="https://www.facebook.com/paul.brighton.10"
+                >
+                  <img
+                    alt="Facebook logo"
+                    className="c-social__icon c-social__icon--facebook"
+                    src="/static/images/facebook.svg"
+                  />
+                </a>
+                <a
+                  href="https://www.pinterest.co.uk/paulbrightonfda/"
+                >
+                  <img
+                    alt="Pinterest logo"
+                    className="c-social__icon c-social__icon--pinterest"
+                    src="/static/images/pinterest.svg"
+                  />
+                </a>
+                <a
+                  href="https://www.linkedin.com/in/paulbrighton/"
+                >
+                  <img
+                    alt="LinkedIn logo"
+                    className="c-social__icon c-social__icon--linkedin"
+                    src="/static/images/linkedin.svg"
+                  />
+                </a>
+              </div>
+            </div>,
+            <div
+              className="c-useful-websites__links"
+            >
+              <h3>
+                Useful Links
+              </h3>
+              <li>
+                <a
+                  href="https://procoders.co.uk/"
+                >
+                  ProCoders Bootcamp
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://developer.mozilla.org/en-US/"
+                >
+                  MDN Web Docs
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://guides.rubyonrails.org/"
+                >
+                  Ruby on Rails Guides
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://caniuse.com/"
+                >
+                  CanIUse
+                </a>
+              </li>
+            </div>,
+            <div
+              className="c-about-info"
+            >
+              <h3>
+                About
+              </h3>
+              <p>
+                Designed by Paul Brighton
+              </p>
+              <p>
+                Built with Ruby on Rails
+              </p>
+              <p>
+                © 2018 Paul Brighton
+              </p>
+            </div>,
+          ],
+          "className": "o-footer__container",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <ul
+                className="c-footer__nav"
+              >
+                <NavListItems />
+              </ul>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <NavListItems />,
+                "className": "c-footer__nav",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {},
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              "type": "ul",
+            },
+            "type": "nav",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h3>
+                  Social Media
+                </h3>,
+                <div
+                  className="c-social__brands"
+                >
+                  <a
+                    href="https://twitter.com/paulbrighton_"
+                  >
+                    <img
+                      alt="Twitter logo"
+                      className="c-social__icon c-social__icon--twitter"
+                      src="/static/images/twitter.svg"
+                    />
+                  </a>
+                  <a
+                    href="https://www.facebook.com/paul.brighton.10"
+                  >
+                    <img
+                      alt="Facebook logo"
+                      className="c-social__icon c-social__icon--facebook"
+                      src="/static/images/facebook.svg"
+                    />
+                  </a>
+                  <a
+                    href="https://www.pinterest.co.uk/paulbrightonfda/"
+                  >
+                    <img
+                      alt="Pinterest logo"
+                      className="c-social__icon c-social__icon--pinterest"
+                      src="/static/images/pinterest.svg"
+                    />
+                  </a>
+                  <a
+                    href="https://www.linkedin.com/in/paulbrighton/"
+                  >
+                    <img
+                      alt="LinkedIn logo"
+                      className="c-social__icon c-social__icon--linkedin"
+                      src="/static/images/linkedin.svg"
+                    />
+                  </a>
+                </div>,
+              ],
+              "className": "c-social",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Social Media",
+                },
+                "ref": null,
+                "rendered": "Social Media",
+                "type": "h3",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <a
+                      href="https://twitter.com/paulbrighton_"
+                    >
+                      <img
+                        alt="Twitter logo"
+                        className="c-social__icon c-social__icon--twitter"
+                        src="/static/images/twitter.svg"
+                      />
+                    </a>,
+                    <a
+                      href="https://www.facebook.com/paul.brighton.10"
+                    >
+                      <img
+                        alt="Facebook logo"
+                        className="c-social__icon c-social__icon--facebook"
+                        src="/static/images/facebook.svg"
+                      />
+                    </a>,
+                    <a
+                      href="https://www.pinterest.co.uk/paulbrightonfda/"
+                    >
+                      <img
+                        alt="Pinterest logo"
+                        className="c-social__icon c-social__icon--pinterest"
+                        src="/static/images/pinterest.svg"
+                      />
+                    </a>,
+                    <a
+                      href="https://www.linkedin.com/in/paulbrighton/"
+                    >
+                      <img
+                        alt="LinkedIn logo"
+                        className="c-social__icon c-social__icon--linkedin"
+                        src="/static/images/linkedin.svg"
+                      />
+                    </a>,
+                  ],
+                  "className": "c-social__brands",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <img
+                        alt="Twitter logo"
+                        className="c-social__icon c-social__icon--twitter"
+                        src="/static/images/twitter.svg"
+                      />,
+                      "href": "https://twitter.com/paulbrighton_",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Twitter logo",
+                        "className": "c-social__icon c-social__icon--twitter",
+                        "src": "/static/images/twitter.svg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    "type": "a",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <img
+                        alt="Facebook logo"
+                        className="c-social__icon c-social__icon--facebook"
+                        src="/static/images/facebook.svg"
+                      />,
+                      "href": "https://www.facebook.com/paul.brighton.10",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Facebook logo",
+                        "className": "c-social__icon c-social__icon--facebook",
+                        "src": "/static/images/facebook.svg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    "type": "a",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <img
+                        alt="Pinterest logo"
+                        className="c-social__icon c-social__icon--pinterest"
+                        src="/static/images/pinterest.svg"
+                      />,
+                      "href": "https://www.pinterest.co.uk/paulbrightonfda/",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "Pinterest logo",
+                        "className": "c-social__icon c-social__icon--pinterest",
+                        "src": "/static/images/pinterest.svg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    "type": "a",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <img
+                        alt="LinkedIn logo"
+                        className="c-social__icon c-social__icon--linkedin"
+                        src="/static/images/linkedin.svg"
+                      />,
+                      "href": "https://www.linkedin.com/in/paulbrighton/",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "alt": "LinkedIn logo",
+                        "className": "c-social__icon c-social__icon--linkedin",
+                        "src": "/static/images/linkedin.svg",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": "img",
+                    },
+                    "type": "a",
+                  },
+                ],
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h3>
+                  Useful Links
+                </h3>,
+                <li>
+                  <a
+                    href="https://procoders.co.uk/"
+                  >
+                    ProCoders Bootcamp
+                  </a>
+                </li>,
+                <li>
+                  <a
+                    href="https://developer.mozilla.org/en-US/"
+                  >
+                    MDN Web Docs
+                  </a>
+                </li>,
+                <li>
+                  <a
+                    href="https://guides.rubyonrails.org/"
+                  >
+                    Ruby on Rails Guides
+                  </a>
+                </li>,
+                <li>
+                  <a
+                    href="https://caniuse.com/"
+                  >
+                    CanIUse
+                  </a>
+                </li>,
+              ],
+              "className": "c-useful-websites__links",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Useful Links",
+                },
+                "ref": null,
+                "rendered": "Useful Links",
+                "type": "h3",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://procoders.co.uk/"
+                  >
+                    ProCoders Bootcamp
+                  </a>,
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "ProCoders Bootcamp",
+                    "href": "https://procoders.co.uk/",
+                  },
+                  "ref": null,
+                  "rendered": "ProCoders Bootcamp",
+                  "type": "a",
+                },
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://developer.mozilla.org/en-US/"
+                  >
+                    MDN Web Docs
+                  </a>,
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "MDN Web Docs",
+                    "href": "https://developer.mozilla.org/en-US/",
+                  },
+                  "ref": null,
+                  "rendered": "MDN Web Docs",
+                  "type": "a",
+                },
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://guides.rubyonrails.org/"
+                  >
+                    Ruby on Rails Guides
+                  </a>,
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Ruby on Rails Guides",
+                    "href": "https://guides.rubyonrails.org/",
+                  },
+                  "ref": null,
+                  "rendered": "Ruby on Rails Guides",
+                  "type": "a",
+                },
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <a
+                    href="https://caniuse.com/"
+                  >
+                    CanIUse
+                  </a>,
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "CanIUse",
+                    "href": "https://caniuse.com/",
+                  },
+                  "ref": null,
+                  "rendered": "CanIUse",
+                  "type": "a",
+                },
+                "type": "li",
+              },
+            ],
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h3>
+                  About
+                </h3>,
+                <p>
+                  Designed by Paul Brighton
+                </p>,
+                <p>
+                  Built with Ruby on Rails
+                </p>,
+                <p>
+                  © 2018 Paul Brighton
+                </p>,
+              ],
+              "className": "c-about-info",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "About",
+                },
+                "ref": null,
+                "rendered": "About",
+                "type": "h3",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Designed by Paul Brighton",
+                },
+                "ref": null,
+                "rendered": "Designed by Paul Brighton",
+                "type": "p",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Built with Ruby on Rails",
+                },
+                "ref": null,
+                "rendered": "Built with Ruby on Rails",
+                "type": "p",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "© 2018 Paul Brighton",
+                },
+                "ref": null,
+                "rendered": "© 2018 Paul Brighton",
+                "type": "p",
+              },
+            ],
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+      "type": "footer",
     },
   ],
   Symbol(enzyme.__options__): Object {

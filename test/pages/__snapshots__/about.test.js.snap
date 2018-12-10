@@ -1,0 +1,4313 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<About /> it renders correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <About />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "children": <div
+        className="o-main-container"
+      >
+        <section
+          className="c-about"
+        >
+          <h2>
+            About Me
+          </h2>
+          <div
+            className="c-header-divider"
+          />
+          <div
+            className="o-about-intro__container"
+          >
+            <div
+              className="c-about__text"
+            >
+              <p>
+                I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+              </p>
+              <p>
+                My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+              </p>
+              <p>
+                Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+              </p>
+              <p>
+                This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+              </p>
+              <p>
+                I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+              </p>
+            </div>
+          </div>
+        </section>
+        <section
+          className="c-about-cv"
+        >
+          <h2>
+            CV
+          </h2>
+          <div
+            className="c-header-divider"
+          />
+          <div
+            className="c-about-cv__category"
+          >
+            <h3>
+              Education
+            </h3>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                {Pro}Coders Full Stack Developer Course
+              </h4>
+              <p>
+                {Pro}Coders
+              </p>
+              <p>
+                06/2018 - Present
+              </p>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                FdA Creative and Digital Industries
+              </h4>
+              <p>
+                Wakefield College University Centre
+              </p>
+              <p>
+                09/2017 - 06/2018
+              </p>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Web Design and Development Certificate (RQF) Level 3
+              </h4>
+              <p>
+                Stonebridge Associated Colleges
+              </p>
+              <p>
+                06/2016 - 04/2017
+              </p>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Adobe Dreamweaver CC (ACA)
+              </h4>
+              <p>
+                Prodigy Learning - LearnKey Training for ACA
+              </p>
+              <p>
+                04/2016 - 03/2017
+              </p>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Digital Studio Photography
+              </h4>
+              <p>
+                Leeds College of Technology
+              </p>
+              <p>
+                04/2011 - 06/2011
+              </p>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+              </h4>
+              <p>
+                I-to-I UK
+              </p>
+              <p>
+                08/2008 to 12/2008
+              </p>
+            </div>
+          </div>
+          <div
+            className="c-about-cv__category c-about-cv__category-lists"
+          >
+            <h3>
+              Skills and Abilities
+            </h3>
+            <ul>
+              <li>
+                HTML and CSS;
+              </li>
+              <li>
+                SASS
+              </li>
+              <li>
+                JavaScript
+              </li>
+              <li>
+                Ruby (on Rails)
+              </li>
+              <li>
+                Git and GitHub
+              </li>
+              <li>
+                Basic knowledge of Adobe InDesign;
+              </li>
+              <li>
+                Good knowledge of Photoshop - Photography and Web Design;
+              </li>
+              <li>
+                Computer literate (Mac and PC);
+              </li>
+              <li>
+                Image processing and retouching;
+              </li>
+              <li>
+                Good communication skills;
+              </li>
+              <li>
+                Ability to prioritise work to meet schedules;
+              </li>
+            </ul>
+          </div>
+          <div
+            className="c-about-cv__category"
+          >
+            <h3>
+              Work Experience
+            </h3>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Stock Photographer
+              </h4>
+              <p>
+                09/2011 - Present
+              </p>
+              <ul>
+                <li>
+                  Food Stock Photography
+                </li>
+                <li>
+                  Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                </li>
+                <li>
+                  Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                </li>
+              </ul>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Photographer - Everyscape
+              </h4>
+              <p>
+                02/2014 - 02/2015
+              </p>
+              <ul>
+                <li>
+                  Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                </li>
+              </ul>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Product Photographer - Trade Furniture Company
+              </h4>
+              <p>
+                03/2013 - 06/2015
+              </p>
+              <ul>
+                <li>
+                  Producing images of solid wood furniture.
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div
+            className="c-about-cv__category c-about-cv__category-lists"
+          >
+            <h3>
+              Hobbies and Interests
+            </h3>
+            <ul>
+              <li>
+                Travelling and interacting with different cultures;
+              </li>
+              <li>
+                Technology;
+              </li>
+              <li>
+                Photography;
+              </li>
+              <li>
+                Web Design and Development;
+              </li>
+              <li>
+                Arthouse and Foreign Movies;
+              </li>
+              <li>
+                News and current affairs;
+              </li>
+              <li>
+                Formula 1
+              </li>
+            </ul>
+          </div>
+        </section>
+      </div>,
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <section
+            className="c-about"
+          >
+            <h2>
+              About Me
+            </h2>
+            <div
+              className="c-header-divider"
+            />
+            <div
+              className="o-about-intro__container"
+            >
+              <div
+                className="c-about__text"
+              >
+                <p>
+                  I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                </p>
+                <p>
+                  My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                </p>
+                <p>
+                  Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                </p>
+                <p>
+                  This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                </p>
+                <p>
+                  I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                </p>
+              </div>
+            </div>
+          </section>,
+          <section
+            className="c-about-cv"
+          >
+            <h2>
+              CV
+            </h2>
+            <div
+              className="c-header-divider"
+            />
+            <div
+              className="c-about-cv__category"
+            >
+              <h3>
+                Education
+              </h3>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  {Pro}Coders Full Stack Developer Course
+                </h4>
+                <p>
+                  {Pro}Coders
+                </p>
+                <p>
+                  06/2018 - Present
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  FdA Creative and Digital Industries
+                </h4>
+                <p>
+                  Wakefield College University Centre
+                </p>
+                <p>
+                  09/2017 - 06/2018
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Web Design and Development Certificate (RQF) Level 3
+                </h4>
+                <p>
+                  Stonebridge Associated Colleges
+                </p>
+                <p>
+                  06/2016 - 04/2017
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Adobe Dreamweaver CC (ACA)
+                </h4>
+                <p>
+                  Prodigy Learning - LearnKey Training for ACA
+                </p>
+                <p>
+                  04/2016 - 03/2017
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Digital Studio Photography
+                </h4>
+                <p>
+                  Leeds College of Technology
+                </p>
+                <p>
+                  04/2011 - 06/2011
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                </h4>
+                <p>
+                  I-to-I UK
+                </p>
+                <p>
+                  08/2008 to 12/2008
+                </p>
+              </div>
+            </div>
+            <div
+              className="c-about-cv__category c-about-cv__category-lists"
+            >
+              <h3>
+                Skills and Abilities
+              </h3>
+              <ul>
+                <li>
+                  HTML and CSS;
+                </li>
+                <li>
+                  SASS
+                </li>
+                <li>
+                  JavaScript
+                </li>
+                <li>
+                  Ruby (on Rails)
+                </li>
+                <li>
+                  Git and GitHub
+                </li>
+                <li>
+                  Basic knowledge of Adobe InDesign;
+                </li>
+                <li>
+                  Good knowledge of Photoshop - Photography and Web Design;
+                </li>
+                <li>
+                  Computer literate (Mac and PC);
+                </li>
+                <li>
+                  Image processing and retouching;
+                </li>
+                <li>
+                  Good communication skills;
+                </li>
+                <li>
+                  Ability to prioritise work to meet schedules;
+                </li>
+              </ul>
+            </div>
+            <div
+              className="c-about-cv__category"
+            >
+              <h3>
+                Work Experience
+              </h3>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Stock Photographer
+                </h4>
+                <p>
+                  09/2011 - Present
+                </p>
+                <ul>
+                  <li>
+                    Food Stock Photography
+                  </li>
+                  <li>
+                    Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                  </li>
+                  <li>
+                    Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Photographer - Everyscape
+                </h4>
+                <p>
+                  02/2014 - 02/2015
+                </p>
+                <ul>
+                  <li>
+                    Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Product Photographer - Trade Furniture Company
+                </h4>
+                <p>
+                  03/2013 - 06/2015
+                </p>
+                <ul>
+                  <li>
+                    Producing images of solid wood furniture.
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              className="c-about-cv__category c-about-cv__category-lists"
+            >
+              <h3>
+                Hobbies and Interests
+              </h3>
+              <ul>
+                <li>
+                  Travelling and interacting with different cultures;
+                </li>
+                <li>
+                  Technology;
+                </li>
+                <li>
+                  Photography;
+                </li>
+                <li>
+                  Web Design and Development;
+                </li>
+                <li>
+                  Arthouse and Foreign Movies;
+                </li>
+                <li>
+                  News and current affairs;
+                </li>
+                <li>
+                  Formula 1
+                </li>
+              </ul>
+            </div>
+          </section>,
+        ],
+        "className": "o-main-container",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h2>
+                About Me
+              </h2>,
+              <div
+                className="c-header-divider"
+              />,
+              <div
+                className="o-about-intro__container"
+              >
+                <div
+                  className="c-about__text"
+                >
+                  <p>
+                    I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                  </p>
+                  <p>
+                    My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                  </p>
+                  <p>
+                    Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                  </p>
+                  <p>
+                    This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                  </p>
+                  <p>
+                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                  </p>
+                </div>
+              </div>,
+            ],
+            "className": "c-about",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "About Me",
+              },
+              "ref": null,
+              "rendered": "About Me",
+              "type": "h2",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "c-header-divider",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <div
+                  className="c-about__text"
+                >
+                  <p>
+                    I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                  </p>
+                  <p>
+                    My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                  </p>
+                  <p>
+                    Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                  </p>
+                  <p>
+                    This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                  </p>
+                  <p>
+                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                  </p>
+                </div>,
+                "className": "o-about-intro__container",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <p>
+                      I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                    </p>,
+                    <p>
+                      My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                    </p>,
+                    <p>
+                      Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                    </p>,
+                    <p>
+                      This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                    </p>,
+                    <p>
+                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                    </p>,
+                  ],
+                  "className": "c-about__text",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.",
+                    },
+                    "ref": null,
+                    "rendered": "I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.",
+                    "type": "p",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.",
+                    },
+                    "ref": null,
+                    "rendered": "My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.",
+                    "type": "p",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.",
+                    },
+                    "ref": null,
+                    "rendered": "Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.",
+                    "type": "p",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
+                    },
+                    "ref": null,
+                    "rendered": "This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
+                    "type": "p",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.",
+                    },
+                    "ref": null,
+                    "rendered": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.",
+                    "type": "p",
+                  },
+                ],
+                "type": "div",
+              },
+              "type": "div",
+            },
+          ],
+          "type": "section",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h2>
+                CV
+              </h2>,
+              <div
+                className="c-header-divider"
+              />,
+              <div
+                className="c-about-cv__category"
+              >
+                <h3>
+                  Education
+                </h3>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    {Pro}Coders Full Stack Developer Course
+                  </h4>
+                  <p>
+                    {Pro}Coders
+                  </p>
+                  <p>
+                    06/2018 - Present
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    FdA Creative and Digital Industries
+                  </h4>
+                  <p>
+                    Wakefield College University Centre
+                  </p>
+                  <p>
+                    09/2017 - 06/2018
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Web Design and Development Certificate (RQF) Level 3
+                  </h4>
+                  <p>
+                    Stonebridge Associated Colleges
+                  </p>
+                  <p>
+                    06/2016 - 04/2017
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Adobe Dreamweaver CC (ACA)
+                  </h4>
+                  <p>
+                    Prodigy Learning - LearnKey Training for ACA
+                  </p>
+                  <p>
+                    04/2016 - 03/2017
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Digital Studio Photography
+                  </h4>
+                  <p>
+                    Leeds College of Technology
+                  </p>
+                  <p>
+                    04/2011 - 06/2011
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                  </h4>
+                  <p>
+                    I-to-I UK
+                  </p>
+                  <p>
+                    08/2008 to 12/2008
+                  </p>
+                </div>
+              </div>,
+              <div
+                className="c-about-cv__category c-about-cv__category-lists"
+              >
+                <h3>
+                  Skills and Abilities
+                </h3>
+                <ul>
+                  <li>
+                    HTML and CSS;
+                  </li>
+                  <li>
+                    SASS
+                  </li>
+                  <li>
+                    JavaScript
+                  </li>
+                  <li>
+                    Ruby (on Rails)
+                  </li>
+                  <li>
+                    Git and GitHub
+                  </li>
+                  <li>
+                    Basic knowledge of Adobe InDesign;
+                  </li>
+                  <li>
+                    Good knowledge of Photoshop - Photography and Web Design;
+                  </li>
+                  <li>
+                    Computer literate (Mac and PC);
+                  </li>
+                  <li>
+                    Image processing and retouching;
+                  </li>
+                  <li>
+                    Good communication skills;
+                  </li>
+                  <li>
+                    Ability to prioritise work to meet schedules;
+                  </li>
+                </ul>
+              </div>,
+              <div
+                className="c-about-cv__category"
+              >
+                <h3>
+                  Work Experience
+                </h3>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Stock Photographer
+                  </h4>
+                  <p>
+                    09/2011 - Present
+                  </p>
+                  <ul>
+                    <li>
+                      Food Stock Photography
+                    </li>
+                    <li>
+                      Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                    </li>
+                    <li>
+                      Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Photographer - Everyscape
+                  </h4>
+                  <p>
+                    02/2014 - 02/2015
+                  </p>
+                  <ul>
+                    <li>
+                      Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Product Photographer - Trade Furniture Company
+                  </h4>
+                  <p>
+                    03/2013 - 06/2015
+                  </p>
+                  <ul>
+                    <li>
+                      Producing images of solid wood furniture.
+                    </li>
+                  </ul>
+                </div>
+              </div>,
+              <div
+                className="c-about-cv__category c-about-cv__category-lists"
+              >
+                <h3>
+                  Hobbies and Interests
+                </h3>
+                <ul>
+                  <li>
+                    Travelling and interacting with different cultures;
+                  </li>
+                  <li>
+                    Technology;
+                  </li>
+                  <li>
+                    Photography;
+                  </li>
+                  <li>
+                    Web Design and Development;
+                  </li>
+                  <li>
+                    Arthouse and Foreign Movies;
+                  </li>
+                  <li>
+                    News and current affairs;
+                  </li>
+                  <li>
+                    Formula 1
+                  </li>
+                </ul>
+              </div>,
+            ],
+            "className": "c-about-cv",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "CV",
+              },
+              "ref": null,
+              "rendered": "CV",
+              "type": "h2",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "c-header-divider",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <h3>
+                    Education
+                  </h3>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      {Pro}Coders Full Stack Developer Course
+                    </h4>
+                    <p>
+                      {Pro}Coders
+                    </p>
+                    <p>
+                      06/2018 - Present
+                    </p>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      FdA Creative and Digital Industries
+                    </h4>
+                    <p>
+                      Wakefield College University Centre
+                    </p>
+                    <p>
+                      09/2017 - 06/2018
+                    </p>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Web Design and Development Certificate (RQF) Level 3
+                    </h4>
+                    <p>
+                      Stonebridge Associated Colleges
+                    </p>
+                    <p>
+                      06/2016 - 04/2017
+                    </p>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Adobe Dreamweaver CC (ACA)
+                    </h4>
+                    <p>
+                      Prodigy Learning - LearnKey Training for ACA
+                    </p>
+                    <p>
+                      04/2016 - 03/2017
+                    </p>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Digital Studio Photography
+                    </h4>
+                    <p>
+                      Leeds College of Technology
+                    </p>
+                    <p>
+                      04/2011 - 06/2011
+                    </p>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                    </h4>
+                    <p>
+                      I-to-I UK
+                    </p>
+                    <p>
+                      08/2008 to 12/2008
+                    </p>
+                  </div>,
+                ],
+                "className": "c-about-cv__category",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Education",
+                  },
+                  "ref": null,
+                  "rendered": "Education",
+                  "type": "h3",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        {Pro}Coders Full Stack Developer Course
+                      </h4>,
+                      <p>
+                        {Pro}Coders
+                      </p>,
+                      <p>
+                        06/2018 - Present
+                      </p>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "{Pro}Coders Full Stack Developer Course",
+                      },
+                      "ref": null,
+                      "rendered": "{Pro}Coders Full Stack Developer Course",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "{Pro}Coders",
+                      },
+                      "ref": null,
+                      "rendered": "{Pro}Coders",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "06/2018 - Present",
+                      },
+                      "ref": null,
+                      "rendered": "06/2018 - Present",
+                      "type": "p",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        FdA Creative and Digital Industries
+                      </h4>,
+                      <p>
+                        Wakefield College University Centre
+                      </p>,
+                      <p>
+                        09/2017 - 06/2018
+                      </p>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "FdA Creative and Digital Industries",
+                      },
+                      "ref": null,
+                      "rendered": "FdA Creative and Digital Industries",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Wakefield College University Centre",
+                      },
+                      "ref": null,
+                      "rendered": "Wakefield College University Centre",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "09/2017 - 06/2018",
+                      },
+                      "ref": null,
+                      "rendered": "09/2017 - 06/2018",
+                      "type": "p",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Web Design and Development Certificate (RQF) Level 3
+                      </h4>,
+                      <p>
+                        Stonebridge Associated Colleges
+                      </p>,
+                      <p>
+                        06/2016 - 04/2017
+                      </p>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Web Design and Development Certificate (RQF) Level 3",
+                      },
+                      "ref": null,
+                      "rendered": "Web Design and Development Certificate (RQF) Level 3",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Stonebridge Associated Colleges",
+                      },
+                      "ref": null,
+                      "rendered": "Stonebridge Associated Colleges",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "06/2016 - 04/2017",
+                      },
+                      "ref": null,
+                      "rendered": "06/2016 - 04/2017",
+                      "type": "p",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Adobe Dreamweaver CC (ACA)
+                      </h4>,
+                      <p>
+                        Prodigy Learning - LearnKey Training for ACA
+                      </p>,
+                      <p>
+                        04/2016 - 03/2017
+                      </p>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Adobe Dreamweaver CC (ACA)",
+                      },
+                      "ref": null,
+                      "rendered": "Adobe Dreamweaver CC (ACA)",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Prodigy Learning - LearnKey Training for ACA",
+                      },
+                      "ref": null,
+                      "rendered": "Prodigy Learning - LearnKey Training for ACA",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "04/2016 - 03/2017",
+                      },
+                      "ref": null,
+                      "rendered": "04/2016 - 03/2017",
+                      "type": "p",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Digital Studio Photography
+                      </h4>,
+                      <p>
+                        Leeds College of Technology
+                      </p>,
+                      <p>
+                        04/2011 - 06/2011
+                      </p>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Digital Studio Photography",
+                      },
+                      "ref": null,
+                      "rendered": "Digital Studio Photography",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Leeds College of Technology",
+                      },
+                      "ref": null,
+                      "rendered": "Leeds College of Technology",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "04/2011 - 06/2011",
+                      },
+                      "ref": null,
+                      "rendered": "04/2011 - 06/2011",
+                      "type": "p",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                      </h4>,
+                      <p>
+                        I-to-I UK
+                      </p>,
+                      <p>
+                        08/2008 to 12/2008
+                      </p>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "TEFL/TESOL Course (85 hours online and 20 hours classroom based)",
+                      },
+                      "ref": null,
+                      "rendered": "TEFL/TESOL Course (85 hours online and 20 hours classroom based)",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "I-to-I UK",
+                      },
+                      "ref": null,
+                      "rendered": "I-to-I UK",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "08/2008 to 12/2008",
+                      },
+                      "ref": null,
+                      "rendered": "08/2008 to 12/2008",
+                      "type": "p",
+                    },
+                  ],
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <h3>
+                    Skills and Abilities
+                  </h3>,
+                  <ul>
+                    <li>
+                      HTML and CSS;
+                    </li>
+                    <li>
+                      SASS
+                    </li>
+                    <li>
+                      JavaScript
+                    </li>
+                    <li>
+                      Ruby (on Rails)
+                    </li>
+                    <li>
+                      Git and GitHub
+                    </li>
+                    <li>
+                      Basic knowledge of Adobe InDesign;
+                    </li>
+                    <li>
+                      Good knowledge of Photoshop - Photography and Web Design;
+                    </li>
+                    <li>
+                      Computer literate (Mac and PC);
+                    </li>
+                    <li>
+                      Image processing and retouching;
+                    </li>
+                    <li>
+                      Good communication skills;
+                    </li>
+                    <li>
+                      Ability to prioritise work to meet schedules;
+                    </li>
+                  </ul>,
+                ],
+                "className": "c-about-cv__category c-about-cv__category-lists",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Skills and Abilities",
+                  },
+                  "ref": null,
+                  "rendered": "Skills and Abilities",
+                  "type": "h3",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <li>
+                        HTML and CSS;
+                      </li>,
+                      <li>
+                        SASS
+                      </li>,
+                      <li>
+                        JavaScript
+                      </li>,
+                      <li>
+                        Ruby (on Rails)
+                      </li>,
+                      <li>
+                        Git and GitHub
+                      </li>,
+                      <li>
+                        Basic knowledge of Adobe InDesign;
+                      </li>,
+                      <li>
+                        Good knowledge of Photoshop - Photography and Web Design;
+                      </li>,
+                      <li>
+                        Computer literate (Mac and PC);
+                      </li>,
+                      <li>
+                        Image processing and retouching;
+                      </li>,
+                      <li>
+                        Good communication skills;
+                      </li>,
+                      <li>
+                        Ability to prioritise work to meet schedules;
+                      </li>,
+                    ],
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "HTML and CSS;",
+                      },
+                      "ref": null,
+                      "rendered": "HTML and CSS;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "SASS",
+                      },
+                      "ref": null,
+                      "rendered": "SASS",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "JavaScript",
+                      },
+                      "ref": null,
+                      "rendered": "JavaScript",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Ruby (on Rails)",
+                      },
+                      "ref": null,
+                      "rendered": "Ruby (on Rails)",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Git and GitHub",
+                      },
+                      "ref": null,
+                      "rendered": "Git and GitHub",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Basic knowledge of Adobe InDesign;",
+                      },
+                      "ref": null,
+                      "rendered": "Basic knowledge of Adobe InDesign;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Good knowledge of Photoshop - Photography and Web Design;",
+                      },
+                      "ref": null,
+                      "rendered": "Good knowledge of Photoshop - Photography and Web Design;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Computer literate (Mac and PC);",
+                      },
+                      "ref": null,
+                      "rendered": "Computer literate (Mac and PC);",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Image processing and retouching;",
+                      },
+                      "ref": null,
+                      "rendered": "Image processing and retouching;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Good communication skills;",
+                      },
+                      "ref": null,
+                      "rendered": "Good communication skills;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Ability to prioritise work to meet schedules;",
+                      },
+                      "ref": null,
+                      "rendered": "Ability to prioritise work to meet schedules;",
+                      "type": "li",
+                    },
+                  ],
+                  "type": "ul",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <h3>
+                    Work Experience
+                  </h3>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Stock Photographer
+                    </h4>
+                    <p>
+                      09/2011 - Present
+                    </p>
+                    <ul>
+                      <li>
+                        Food Stock Photography
+                      </li>
+                      <li>
+                        Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                      </li>
+                      <li>
+                        Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                      </li>
+                    </ul>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Photographer - Everyscape
+                    </h4>
+                    <p>
+                      02/2014 - 02/2015
+                    </p>
+                    <ul>
+                      <li>
+                        Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                      </li>
+                    </ul>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Product Photographer - Trade Furniture Company
+                    </h4>
+                    <p>
+                      03/2013 - 06/2015
+                    </p>
+                    <ul>
+                      <li>
+                        Producing images of solid wood furniture.
+                      </li>
+                    </ul>
+                  </div>,
+                ],
+                "className": "c-about-cv__category",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Work Experience",
+                  },
+                  "ref": null,
+                  "rendered": "Work Experience",
+                  "type": "h3",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Stock Photographer
+                      </h4>,
+                      <p>
+                        09/2011 - Present
+                      </p>,
+                      <ul>
+                        <li>
+                          Food Stock Photography
+                        </li>
+                        <li>
+                          Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                        </li>
+                        <li>
+                          Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Stock Photographer",
+                      },
+                      "ref": null,
+                      "rendered": "Stock Photographer",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "09/2011 - Present",
+                      },
+                      "ref": null,
+                      "rendered": "09/2011 - Present",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <li>
+                            Food Stock Photography
+                          </li>,
+                          <li>
+                            Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                          </li>,
+                          <li>
+                            Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                          </li>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Food Stock Photography",
+                          },
+                          "ref": null,
+                          "rendered": "Food Stock Photography",
+                          "type": "li",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
+                          },
+                          "ref": null,
+                          "rendered": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
+                          "type": "li",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
+                          },
+                          "ref": null,
+                          "rendered": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
+                          "type": "li",
+                        },
+                      ],
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Photographer - Everyscape
+                      </h4>,
+                      <p>
+                        02/2014 - 02/2015
+                      </p>,
+                      <ul>
+                        <li>
+                          Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Photographer - Everyscape",
+                      },
+                      "ref": null,
+                      "rendered": "Photographer - Everyscape",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "02/2014 - 02/2015",
+                      },
+                      "ref": null,
+                      "rendered": "02/2014 - 02/2015",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <li>
+                          Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                        </li>,
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.",
+                        },
+                        "ref": null,
+                        "rendered": "Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.",
+                        "type": "li",
+                      },
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Product Photographer - Trade Furniture Company
+                      </h4>,
+                      <p>
+                        03/2013 - 06/2015
+                      </p>,
+                      <ul>
+                        <li>
+                          Producing images of solid wood furniture.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Product Photographer - Trade Furniture Company",
+                      },
+                      "ref": null,
+                      "rendered": "Product Photographer - Trade Furniture Company",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "03/2013 - 06/2015",
+                      },
+                      "ref": null,
+                      "rendered": "03/2013 - 06/2015",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <li>
+                          Producing images of solid wood furniture.
+                        </li>,
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Producing images of solid wood furniture.",
+                        },
+                        "ref": null,
+                        "rendered": "Producing images of solid wood furniture.",
+                        "type": "li",
+                      },
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <h3>
+                    Hobbies and Interests
+                  </h3>,
+                  <ul>
+                    <li>
+                      Travelling and interacting with different cultures;
+                    </li>
+                    <li>
+                      Technology;
+                    </li>
+                    <li>
+                      Photography;
+                    </li>
+                    <li>
+                      Web Design and Development;
+                    </li>
+                    <li>
+                      Arthouse and Foreign Movies;
+                    </li>
+                    <li>
+                      News and current affairs;
+                    </li>
+                    <li>
+                      Formula 1
+                    </li>
+                  </ul>,
+                ],
+                "className": "c-about-cv__category c-about-cv__category-lists",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Hobbies and Interests",
+                  },
+                  "ref": null,
+                  "rendered": "Hobbies and Interests",
+                  "type": "h3",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <li>
+                        Travelling and interacting with different cultures;
+                      </li>,
+                      <li>
+                        Technology;
+                      </li>,
+                      <li>
+                        Photography;
+                      </li>,
+                      <li>
+                        Web Design and Development;
+                      </li>,
+                      <li>
+                        Arthouse and Foreign Movies;
+                      </li>,
+                      <li>
+                        News and current affairs;
+                      </li>,
+                      <li>
+                        Formula 1
+                      </li>,
+                    ],
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Travelling and interacting with different cultures;",
+                      },
+                      "ref": null,
+                      "rendered": "Travelling and interacting with different cultures;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Technology;",
+                      },
+                      "ref": null,
+                      "rendered": "Technology;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Photography;",
+                      },
+                      "ref": null,
+                      "rendered": "Photography;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Web Design and Development;",
+                      },
+                      "ref": null,
+                      "rendered": "Web Design and Development;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Arthouse and Foreign Movies;",
+                      },
+                      "ref": null,
+                      "rendered": "Arthouse and Foreign Movies;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "News and current affairs;",
+                      },
+                      "ref": null,
+                      "rendered": "News and current affairs;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Formula 1",
+                      },
+                      "ref": null,
+                      "rendered": "Formula 1",
+                      "type": "li",
+                    },
+                  ],
+                  "type": "ul",
+                },
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "section",
+        },
+      ],
+      "type": "div",
+    },
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": <div
+          className="o-main-container"
+        >
+          <section
+            className="c-about"
+          >
+            <h2>
+              About Me
+            </h2>
+            <div
+              className="c-header-divider"
+            />
+            <div
+              className="o-about-intro__container"
+            >
+              <div
+                className="c-about__text"
+              >
+                <p>
+                  I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                </p>
+                <p>
+                  My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                </p>
+                <p>
+                  Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                </p>
+                <p>
+                  This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                </p>
+                <p>
+                  I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                </p>
+              </div>
+            </div>
+          </section>
+          <section
+            className="c-about-cv"
+          >
+            <h2>
+              CV
+            </h2>
+            <div
+              className="c-header-divider"
+            />
+            <div
+              className="c-about-cv__category"
+            >
+              <h3>
+                Education
+              </h3>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  {Pro}Coders Full Stack Developer Course
+                </h4>
+                <p>
+                  {Pro}Coders
+                </p>
+                <p>
+                  06/2018 - Present
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  FdA Creative and Digital Industries
+                </h4>
+                <p>
+                  Wakefield College University Centre
+                </p>
+                <p>
+                  09/2017 - 06/2018
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Web Design and Development Certificate (RQF) Level 3
+                </h4>
+                <p>
+                  Stonebridge Associated Colleges
+                </p>
+                <p>
+                  06/2016 - 04/2017
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Adobe Dreamweaver CC (ACA)
+                </h4>
+                <p>
+                  Prodigy Learning - LearnKey Training for ACA
+                </p>
+                <p>
+                  04/2016 - 03/2017
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Digital Studio Photography
+                </h4>
+                <p>
+                  Leeds College of Technology
+                </p>
+                <p>
+                  04/2011 - 06/2011
+                </p>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                </h4>
+                <p>
+                  I-to-I UK
+                </p>
+                <p>
+                  08/2008 to 12/2008
+                </p>
+              </div>
+            </div>
+            <div
+              className="c-about-cv__category c-about-cv__category-lists"
+            >
+              <h3>
+                Skills and Abilities
+              </h3>
+              <ul>
+                <li>
+                  HTML and CSS;
+                </li>
+                <li>
+                  SASS
+                </li>
+                <li>
+                  JavaScript
+                </li>
+                <li>
+                  Ruby (on Rails)
+                </li>
+                <li>
+                  Git and GitHub
+                </li>
+                <li>
+                  Basic knowledge of Adobe InDesign;
+                </li>
+                <li>
+                  Good knowledge of Photoshop - Photography and Web Design;
+                </li>
+                <li>
+                  Computer literate (Mac and PC);
+                </li>
+                <li>
+                  Image processing and retouching;
+                </li>
+                <li>
+                  Good communication skills;
+                </li>
+                <li>
+                  Ability to prioritise work to meet schedules;
+                </li>
+              </ul>
+            </div>
+            <div
+              className="c-about-cv__category"
+            >
+              <h3>
+                Work Experience
+              </h3>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Stock Photographer
+                </h4>
+                <p>
+                  09/2011 - Present
+                </p>
+                <ul>
+                  <li>
+                    Food Stock Photography
+                  </li>
+                  <li>
+                    Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                  </li>
+                  <li>
+                    Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Photographer - Everyscape
+                </h4>
+                <p>
+                  02/2014 - 02/2015
+                </p>
+                <ul>
+                  <li>
+                    Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Product Photographer - Trade Furniture Company
+                </h4>
+                <p>
+                  03/2013 - 06/2015
+                </p>
+                <ul>
+                  <li>
+                    Producing images of solid wood furniture.
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              className="c-about-cv__category c-about-cv__category-lists"
+            >
+              <h3>
+                Hobbies and Interests
+              </h3>
+              <ul>
+                <li>
+                  Travelling and interacting with different cultures;
+                </li>
+                <li>
+                  Technology;
+                </li>
+                <li>
+                  Photography;
+                </li>
+                <li>
+                  Web Design and Development;
+                </li>
+                <li>
+                  Arthouse and Foreign Movies;
+                </li>
+                <li>
+                  News and current affairs;
+                </li>
+                <li>
+                  Formula 1
+                </li>
+              </ul>
+            </div>
+          </section>
+        </div>,
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <section
+              className="c-about"
+            >
+              <h2>
+                About Me
+              </h2>
+              <div
+                className="c-header-divider"
+              />
+              <div
+                className="o-about-intro__container"
+              >
+                <div
+                  className="c-about__text"
+                >
+                  <p>
+                    I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                  </p>
+                  <p>
+                    My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                  </p>
+                  <p>
+                    Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                  </p>
+                  <p>
+                    This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                  </p>
+                  <p>
+                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                  </p>
+                </div>
+              </div>
+            </section>,
+            <section
+              className="c-about-cv"
+            >
+              <h2>
+                CV
+              </h2>
+              <div
+                className="c-header-divider"
+              />
+              <div
+                className="c-about-cv__category"
+              >
+                <h3>
+                  Education
+                </h3>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    {Pro}Coders Full Stack Developer Course
+                  </h4>
+                  <p>
+                    {Pro}Coders
+                  </p>
+                  <p>
+                    06/2018 - Present
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    FdA Creative and Digital Industries
+                  </h4>
+                  <p>
+                    Wakefield College University Centre
+                  </p>
+                  <p>
+                    09/2017 - 06/2018
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Web Design and Development Certificate (RQF) Level 3
+                  </h4>
+                  <p>
+                    Stonebridge Associated Colleges
+                  </p>
+                  <p>
+                    06/2016 - 04/2017
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Adobe Dreamweaver CC (ACA)
+                  </h4>
+                  <p>
+                    Prodigy Learning - LearnKey Training for ACA
+                  </p>
+                  <p>
+                    04/2016 - 03/2017
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Digital Studio Photography
+                  </h4>
+                  <p>
+                    Leeds College of Technology
+                  </p>
+                  <p>
+                    04/2011 - 06/2011
+                  </p>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                  </h4>
+                  <p>
+                    I-to-I UK
+                  </p>
+                  <p>
+                    08/2008 to 12/2008
+                  </p>
+                </div>
+              </div>
+              <div
+                className="c-about-cv__category c-about-cv__category-lists"
+              >
+                <h3>
+                  Skills and Abilities
+                </h3>
+                <ul>
+                  <li>
+                    HTML and CSS;
+                  </li>
+                  <li>
+                    SASS
+                  </li>
+                  <li>
+                    JavaScript
+                  </li>
+                  <li>
+                    Ruby (on Rails)
+                  </li>
+                  <li>
+                    Git and GitHub
+                  </li>
+                  <li>
+                    Basic knowledge of Adobe InDesign;
+                  </li>
+                  <li>
+                    Good knowledge of Photoshop - Photography and Web Design;
+                  </li>
+                  <li>
+                    Computer literate (Mac and PC);
+                  </li>
+                  <li>
+                    Image processing and retouching;
+                  </li>
+                  <li>
+                    Good communication skills;
+                  </li>
+                  <li>
+                    Ability to prioritise work to meet schedules;
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category"
+              >
+                <h3>
+                  Work Experience
+                </h3>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Stock Photographer
+                  </h4>
+                  <p>
+                    09/2011 - Present
+                  </p>
+                  <ul>
+                    <li>
+                      Food Stock Photography
+                    </li>
+                    <li>
+                      Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                    </li>
+                    <li>
+                      Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Photographer - Everyscape
+                  </h4>
+                  <p>
+                    02/2014 - 02/2015
+                  </p>
+                  <ul>
+                    <li>
+                      Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Product Photographer - Trade Furniture Company
+                  </h4>
+                  <p>
+                    03/2013 - 06/2015
+                  </p>
+                  <ul>
+                    <li>
+                      Producing images of solid wood furniture.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div
+                className="c-about-cv__category c-about-cv__category-lists"
+              >
+                <h3>
+                  Hobbies and Interests
+                </h3>
+                <ul>
+                  <li>
+                    Travelling and interacting with different cultures;
+                  </li>
+                  <li>
+                    Technology;
+                  </li>
+                  <li>
+                    Photography;
+                  </li>
+                  <li>
+                    Web Design and Development;
+                  </li>
+                  <li>
+                    Arthouse and Foreign Movies;
+                  </li>
+                  <li>
+                    News and current affairs;
+                  </li>
+                  <li>
+                    Formula 1
+                  </li>
+                </ul>
+              </div>
+            </section>,
+          ],
+          "className": "o-main-container",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h2>
+                  About Me
+                </h2>,
+                <div
+                  className="c-header-divider"
+                />,
+                <div
+                  className="o-about-intro__container"
+                >
+                  <div
+                    className="c-about__text"
+                  >
+                    <p>
+                      I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                    </p>
+                    <p>
+                      My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                    </p>
+                    <p>
+                      Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                    </p>
+                    <p>
+                      This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                    </p>
+                    <p>
+                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                    </p>
+                  </div>
+                </div>,
+              ],
+              "className": "c-about",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "About Me",
+                },
+                "ref": null,
+                "rendered": "About Me",
+                "type": "h2",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "c-header-divider",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <div
+                    className="c-about__text"
+                  >
+                    <p>
+                      I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                    </p>
+                    <p>
+                      My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                    </p>
+                    <p>
+                      Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                    </p>
+                    <p>
+                      This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                    </p>
+                    <p>
+                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                    </p>
+                  </div>,
+                  "className": "o-about-intro__container",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <p>
+                        I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                      </p>,
+                      <p>
+                        My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
+                      </p>,
+                      <p>
+                        Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
+                      </p>,
+                      <p>
+                        This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                      </p>,
+                      <p>
+                        I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                      </p>,
+                    ],
+                    "className": "c-about__text",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.",
+                      },
+                      "ref": null,
+                      "rendered": "I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.",
+                      },
+                      "ref": null,
+                      "rendered": "My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.",
+                      },
+                      "ref": null,
+                      "rendered": "Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
+                      },
+                      "ref": null,
+                      "rendered": "This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.",
+                      },
+                      "ref": null,
+                      "rendered": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.",
+                      "type": "p",
+                    },
+                  ],
+                  "type": "div",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "section",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h2>
+                  CV
+                </h2>,
+                <div
+                  className="c-header-divider"
+                />,
+                <div
+                  className="c-about-cv__category"
+                >
+                  <h3>
+                    Education
+                  </h3>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      {Pro}Coders Full Stack Developer Course
+                    </h4>
+                    <p>
+                      {Pro}Coders
+                    </p>
+                    <p>
+                      06/2018 - Present
+                    </p>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      FdA Creative and Digital Industries
+                    </h4>
+                    <p>
+                      Wakefield College University Centre
+                    </p>
+                    <p>
+                      09/2017 - 06/2018
+                    </p>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Web Design and Development Certificate (RQF) Level 3
+                    </h4>
+                    <p>
+                      Stonebridge Associated Colleges
+                    </p>
+                    <p>
+                      06/2016 - 04/2017
+                    </p>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Adobe Dreamweaver CC (ACA)
+                    </h4>
+                    <p>
+                      Prodigy Learning - LearnKey Training for ACA
+                    </p>
+                    <p>
+                      04/2016 - 03/2017
+                    </p>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Digital Studio Photography
+                    </h4>
+                    <p>
+                      Leeds College of Technology
+                    </p>
+                    <p>
+                      04/2011 - 06/2011
+                    </p>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                    </h4>
+                    <p>
+                      I-to-I UK
+                    </p>
+                    <p>
+                      08/2008 to 12/2008
+                    </p>
+                  </div>
+                </div>,
+                <div
+                  className="c-about-cv__category c-about-cv__category-lists"
+                >
+                  <h3>
+                    Skills and Abilities
+                  </h3>
+                  <ul>
+                    <li>
+                      HTML and CSS;
+                    </li>
+                    <li>
+                      SASS
+                    </li>
+                    <li>
+                      JavaScript
+                    </li>
+                    <li>
+                      Ruby (on Rails)
+                    </li>
+                    <li>
+                      Git and GitHub
+                    </li>
+                    <li>
+                      Basic knowledge of Adobe InDesign;
+                    </li>
+                    <li>
+                      Good knowledge of Photoshop - Photography and Web Design;
+                    </li>
+                    <li>
+                      Computer literate (Mac and PC);
+                    </li>
+                    <li>
+                      Image processing and retouching;
+                    </li>
+                    <li>
+                      Good communication skills;
+                    </li>
+                    <li>
+                      Ability to prioritise work to meet schedules;
+                    </li>
+                  </ul>
+                </div>,
+                <div
+                  className="c-about-cv__category"
+                >
+                  <h3>
+                    Work Experience
+                  </h3>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Stock Photographer
+                    </h4>
+                    <p>
+                      09/2011 - Present
+                    </p>
+                    <ul>
+                      <li>
+                        Food Stock Photography
+                      </li>
+                      <li>
+                        Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                      </li>
+                      <li>
+                        Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                      </li>
+                    </ul>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Photographer - Everyscape
+                    </h4>
+                    <p>
+                      02/2014 - 02/2015
+                    </p>
+                    <ul>
+                      <li>
+                        Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                      </li>
+                    </ul>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Product Photographer - Trade Furniture Company
+                    </h4>
+                    <p>
+                      03/2013 - 06/2015
+                    </p>
+                    <ul>
+                      <li>
+                        Producing images of solid wood furniture.
+                      </li>
+                    </ul>
+                  </div>
+                </div>,
+                <div
+                  className="c-about-cv__category c-about-cv__category-lists"
+                >
+                  <h3>
+                    Hobbies and Interests
+                  </h3>
+                  <ul>
+                    <li>
+                      Travelling and interacting with different cultures;
+                    </li>
+                    <li>
+                      Technology;
+                    </li>
+                    <li>
+                      Photography;
+                    </li>
+                    <li>
+                      Web Design and Development;
+                    </li>
+                    <li>
+                      Arthouse and Foreign Movies;
+                    </li>
+                    <li>
+                      News and current affairs;
+                    </li>
+                    <li>
+                      Formula 1
+                    </li>
+                  </ul>
+                </div>,
+              ],
+              "className": "c-about-cv",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "CV",
+                },
+                "ref": null,
+                "rendered": "CV",
+                "type": "h2",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "c-header-divider",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <h3>
+                      Education
+                    </h3>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        {Pro}Coders Full Stack Developer Course
+                      </h4>
+                      <p>
+                        {Pro}Coders
+                      </p>
+                      <p>
+                        06/2018 - Present
+                      </p>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        FdA Creative and Digital Industries
+                      </h4>
+                      <p>
+                        Wakefield College University Centre
+                      </p>
+                      <p>
+                        09/2017 - 06/2018
+                      </p>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Web Design and Development Certificate (RQF) Level 3
+                      </h4>
+                      <p>
+                        Stonebridge Associated Colleges
+                      </p>
+                      <p>
+                        06/2016 - 04/2017
+                      </p>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Adobe Dreamweaver CC (ACA)
+                      </h4>
+                      <p>
+                        Prodigy Learning - LearnKey Training for ACA
+                      </p>
+                      <p>
+                        04/2016 - 03/2017
+                      </p>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Digital Studio Photography
+                      </h4>
+                      <p>
+                        Leeds College of Technology
+                      </p>
+                      <p>
+                        04/2011 - 06/2011
+                      </p>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                      </h4>
+                      <p>
+                        I-to-I UK
+                      </p>
+                      <p>
+                        08/2008 to 12/2008
+                      </p>
+                    </div>,
+                  ],
+                  "className": "c-about-cv__category",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Education",
+                    },
+                    "ref": null,
+                    "rendered": "Education",
+                    "type": "h3",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          {Pro}Coders Full Stack Developer Course
+                        </h4>,
+                        <p>
+                          {Pro}Coders
+                        </p>,
+                        <p>
+                          06/2018 - Present
+                        </p>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "{Pro}Coders Full Stack Developer Course",
+                        },
+                        "ref": null,
+                        "rendered": "{Pro}Coders Full Stack Developer Course",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "{Pro}Coders",
+                        },
+                        "ref": null,
+                        "rendered": "{Pro}Coders",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "06/2018 - Present",
+                        },
+                        "ref": null,
+                        "rendered": "06/2018 - Present",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          FdA Creative and Digital Industries
+                        </h4>,
+                        <p>
+                          Wakefield College University Centre
+                        </p>,
+                        <p>
+                          09/2017 - 06/2018
+                        </p>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "FdA Creative and Digital Industries",
+                        },
+                        "ref": null,
+                        "rendered": "FdA Creative and Digital Industries",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Wakefield College University Centre",
+                        },
+                        "ref": null,
+                        "rendered": "Wakefield College University Centre",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "09/2017 - 06/2018",
+                        },
+                        "ref": null,
+                        "rendered": "09/2017 - 06/2018",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Web Design and Development Certificate (RQF) Level 3
+                        </h4>,
+                        <p>
+                          Stonebridge Associated Colleges
+                        </p>,
+                        <p>
+                          06/2016 - 04/2017
+                        </p>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Web Design and Development Certificate (RQF) Level 3",
+                        },
+                        "ref": null,
+                        "rendered": "Web Design and Development Certificate (RQF) Level 3",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Stonebridge Associated Colleges",
+                        },
+                        "ref": null,
+                        "rendered": "Stonebridge Associated Colleges",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "06/2016 - 04/2017",
+                        },
+                        "ref": null,
+                        "rendered": "06/2016 - 04/2017",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Adobe Dreamweaver CC (ACA)
+                        </h4>,
+                        <p>
+                          Prodigy Learning - LearnKey Training for ACA
+                        </p>,
+                        <p>
+                          04/2016 - 03/2017
+                        </p>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Adobe Dreamweaver CC (ACA)",
+                        },
+                        "ref": null,
+                        "rendered": "Adobe Dreamweaver CC (ACA)",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Prodigy Learning - LearnKey Training for ACA",
+                        },
+                        "ref": null,
+                        "rendered": "Prodigy Learning - LearnKey Training for ACA",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "04/2016 - 03/2017",
+                        },
+                        "ref": null,
+                        "rendered": "04/2016 - 03/2017",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Digital Studio Photography
+                        </h4>,
+                        <p>
+                          Leeds College of Technology
+                        </p>,
+                        <p>
+                          04/2011 - 06/2011
+                        </p>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Digital Studio Photography",
+                        },
+                        "ref": null,
+                        "rendered": "Digital Studio Photography",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Leeds College of Technology",
+                        },
+                        "ref": null,
+                        "rendered": "Leeds College of Technology",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "04/2011 - 06/2011",
+                        },
+                        "ref": null,
+                        "rendered": "04/2011 - 06/2011",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          TEFL/TESOL Course (85 hours online and 20 hours classroom based)
+                        </h4>,
+                        <p>
+                          I-to-I UK
+                        </p>,
+                        <p>
+                          08/2008 to 12/2008
+                        </p>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "TEFL/TESOL Course (85 hours online and 20 hours classroom based)",
+                        },
+                        "ref": null,
+                        "rendered": "TEFL/TESOL Course (85 hours online and 20 hours classroom based)",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "I-to-I UK",
+                        },
+                        "ref": null,
+                        "rendered": "I-to-I UK",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "08/2008 to 12/2008",
+                        },
+                        "ref": null,
+                        "rendered": "08/2008 to 12/2008",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                ],
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <h3>
+                      Skills and Abilities
+                    </h3>,
+                    <ul>
+                      <li>
+                        HTML and CSS;
+                      </li>
+                      <li>
+                        SASS
+                      </li>
+                      <li>
+                        JavaScript
+                      </li>
+                      <li>
+                        Ruby (on Rails)
+                      </li>
+                      <li>
+                        Git and GitHub
+                      </li>
+                      <li>
+                        Basic knowledge of Adobe InDesign;
+                      </li>
+                      <li>
+                        Good knowledge of Photoshop - Photography and Web Design;
+                      </li>
+                      <li>
+                        Computer literate (Mac and PC);
+                      </li>
+                      <li>
+                        Image processing and retouching;
+                      </li>
+                      <li>
+                        Good communication skills;
+                      </li>
+                      <li>
+                        Ability to prioritise work to meet schedules;
+                      </li>
+                    </ul>,
+                  ],
+                  "className": "c-about-cv__category c-about-cv__category-lists",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Skills and Abilities",
+                    },
+                    "ref": null,
+                    "rendered": "Skills and Abilities",
+                    "type": "h3",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <li>
+                          HTML and CSS;
+                        </li>,
+                        <li>
+                          SASS
+                        </li>,
+                        <li>
+                          JavaScript
+                        </li>,
+                        <li>
+                          Ruby (on Rails)
+                        </li>,
+                        <li>
+                          Git and GitHub
+                        </li>,
+                        <li>
+                          Basic knowledge of Adobe InDesign;
+                        </li>,
+                        <li>
+                          Good knowledge of Photoshop - Photography and Web Design;
+                        </li>,
+                        <li>
+                          Computer literate (Mac and PC);
+                        </li>,
+                        <li>
+                          Image processing and retouching;
+                        </li>,
+                        <li>
+                          Good communication skills;
+                        </li>,
+                        <li>
+                          Ability to prioritise work to meet schedules;
+                        </li>,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "HTML and CSS;",
+                        },
+                        "ref": null,
+                        "rendered": "HTML and CSS;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "SASS",
+                        },
+                        "ref": null,
+                        "rendered": "SASS",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "JavaScript",
+                        },
+                        "ref": null,
+                        "rendered": "JavaScript",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Ruby (on Rails)",
+                        },
+                        "ref": null,
+                        "rendered": "Ruby (on Rails)",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Git and GitHub",
+                        },
+                        "ref": null,
+                        "rendered": "Git and GitHub",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Basic knowledge of Adobe InDesign;",
+                        },
+                        "ref": null,
+                        "rendered": "Basic knowledge of Adobe InDesign;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Good knowledge of Photoshop - Photography and Web Design;",
+                        },
+                        "ref": null,
+                        "rendered": "Good knowledge of Photoshop - Photography and Web Design;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Computer literate (Mac and PC);",
+                        },
+                        "ref": null,
+                        "rendered": "Computer literate (Mac and PC);",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Image processing and retouching;",
+                        },
+                        "ref": null,
+                        "rendered": "Image processing and retouching;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Good communication skills;",
+                        },
+                        "ref": null,
+                        "rendered": "Good communication skills;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Ability to prioritise work to meet schedules;",
+                        },
+                        "ref": null,
+                        "rendered": "Ability to prioritise work to meet schedules;",
+                        "type": "li",
+                      },
+                    ],
+                    "type": "ul",
+                  },
+                ],
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <h3>
+                      Work Experience
+                    </h3>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Stock Photographer
+                      </h4>
+                      <p>
+                        09/2011 - Present
+                      </p>
+                      <ul>
+                        <li>
+                          Food Stock Photography
+                        </li>
+                        <li>
+                          Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                        </li>
+                        <li>
+                          Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                        </li>
+                      </ul>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Photographer - Everyscape
+                      </h4>
+                      <p>
+                        02/2014 - 02/2015
+                      </p>
+                      <ul>
+                        <li>
+                          Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                        </li>
+                      </ul>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Product Photographer - Trade Furniture Company
+                      </h4>
+                      <p>
+                        03/2013 - 06/2015
+                      </p>
+                      <ul>
+                        <li>
+                          Producing images of solid wood furniture.
+                        </li>
+                      </ul>
+                    </div>,
+                  ],
+                  "className": "c-about-cv__category",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Work Experience",
+                    },
+                    "ref": null,
+                    "rendered": "Work Experience",
+                    "type": "h3",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Stock Photographer
+                        </h4>,
+                        <p>
+                          09/2011 - Present
+                        </p>,
+                        <ul>
+                          <li>
+                            Food Stock Photography
+                          </li>
+                          <li>
+                            Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                          </li>
+                          <li>
+                            Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Stock Photographer",
+                        },
+                        "ref": null,
+                        "rendered": "Stock Photographer",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "09/2011 - Present",
+                        },
+                        "ref": null,
+                        "rendered": "09/2011 - Present",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <li>
+                              Food Stock Photography
+                            </li>,
+                            <li>
+                              Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                            </li>,
+                            <li>
+                              Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                            </li>,
+                          ],
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Food Stock Photography",
+                            },
+                            "ref": null,
+                            "rendered": "Food Stock Photography",
+                            "type": "li",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
+                            },
+                            "ref": null,
+                            "rendered": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
+                            "type": "li",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
+                            },
+                            "ref": null,
+                            "rendered": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
+                            "type": "li",
+                          },
+                        ],
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Photographer - Everyscape
+                        </h4>,
+                        <p>
+                          02/2014 - 02/2015
+                        </p>,
+                        <ul>
+                          <li>
+                            Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Photographer - Everyscape",
+                        },
+                        "ref": null,
+                        "rendered": "Photographer - Everyscape",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "02/2014 - 02/2015",
+                        },
+                        "ref": null,
+                        "rendered": "02/2014 - 02/2015",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <li>
+                            Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
+                          </li>,
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.",
+                          },
+                          "ref": null,
+                          "rendered": "Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.",
+                          "type": "li",
+                        },
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Product Photographer - Trade Furniture Company
+                        </h4>,
+                        <p>
+                          03/2013 - 06/2015
+                        </p>,
+                        <ul>
+                          <li>
+                            Producing images of solid wood furniture.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Product Photographer - Trade Furniture Company",
+                        },
+                        "ref": null,
+                        "rendered": "Product Photographer - Trade Furniture Company",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "03/2013 - 06/2015",
+                        },
+                        "ref": null,
+                        "rendered": "03/2013 - 06/2015",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <li>
+                            Producing images of solid wood furniture.
+                          </li>,
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Producing images of solid wood furniture.",
+                          },
+                          "ref": null,
+                          "rendered": "Producing images of solid wood furniture.",
+                          "type": "li",
+                        },
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                ],
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <h3>
+                      Hobbies and Interests
+                    </h3>,
+                    <ul>
+                      <li>
+                        Travelling and interacting with different cultures;
+                      </li>
+                      <li>
+                        Technology;
+                      </li>
+                      <li>
+                        Photography;
+                      </li>
+                      <li>
+                        Web Design and Development;
+                      </li>
+                      <li>
+                        Arthouse and Foreign Movies;
+                      </li>
+                      <li>
+                        News and current affairs;
+                      </li>
+                      <li>
+                        Formula 1
+                      </li>
+                    </ul>,
+                  ],
+                  "className": "c-about-cv__category c-about-cv__category-lists",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Hobbies and Interests",
+                    },
+                    "ref": null,
+                    "rendered": "Hobbies and Interests",
+                    "type": "h3",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <li>
+                          Travelling and interacting with different cultures;
+                        </li>,
+                        <li>
+                          Technology;
+                        </li>,
+                        <li>
+                          Photography;
+                        </li>,
+                        <li>
+                          Web Design and Development;
+                        </li>,
+                        <li>
+                          Arthouse and Foreign Movies;
+                        </li>,
+                        <li>
+                          News and current affairs;
+                        </li>,
+                        <li>
+                          Formula 1
+                        </li>,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Travelling and interacting with different cultures;",
+                        },
+                        "ref": null,
+                        "rendered": "Travelling and interacting with different cultures;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Technology;",
+                        },
+                        "ref": null,
+                        "rendered": "Technology;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Photography;",
+                        },
+                        "ref": null,
+                        "rendered": "Photography;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Web Design and Development;",
+                        },
+                        "ref": null,
+                        "rendered": "Web Design and Development;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Arthouse and Foreign Movies;",
+                        },
+                        "ref": null,
+                        "rendered": "Arthouse and Foreign Movies;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "News and current affairs;",
+                        },
+                        "ref": null,
+                        "rendered": "News and current affairs;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Formula 1",
+                        },
+                        "ref": null,
+                        "rendered": "Formula 1",
+                        "type": "li",
+                      },
+                    ],
+                    "type": "ul",
+                  },
+                ],
+                "type": "div",
+              },
+            ],
+            "type": "section",
+          },
+        ],
+        "type": "div",
+      },
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
