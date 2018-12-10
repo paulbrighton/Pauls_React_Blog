@@ -7,7 +7,7 @@ class Header extends Component {
   render () {
     return <header className='c-header'>
       <div className='o-header__container'>
-        <Link href='/index'><a><img src='static/images/logo.png' alt='Paul Brighton Web Development Logo' className='c-brand-logo' /></a></Link>
+        <Link href='/index'><a><img src='/static/images/logo.png' alt='Paul Brighton Web Development Logo' className='c-brand-logo' /></a></Link>
         <div className='c-subscribe-form'>
           <form className='c-subscribe-form__container'>
             <input type='email' value='Email' placeholder='Email' name='EMAIL' className='c-subscribe-form__input' id='mce-EMAIL' />
