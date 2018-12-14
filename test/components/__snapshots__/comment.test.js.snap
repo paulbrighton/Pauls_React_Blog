@@ -7,6 +7,7 @@ ShallowWrapper {
     comment={
       Object {
         "authorName": "authorName",
+        "body": "This is a comment",
       }
     }
   />,
@@ -28,9 +29,8 @@ ShallowWrapper {
           className="c-comment__author"
         >
           <img
-            alt="A Ruby logo"
             className="c-comment__img"
-            src="../static/images/ruby.jpg"
+            src={undefined}
           />
           <h4
             className="c-comment__author-name"
@@ -48,7 +48,7 @@ ShallowWrapper {
           className="c-comment__body"
         >
           <MarkdownPreview
-            value=""
+            value="This is a comment"
           />
         </div>,
       ],
@@ -63,9 +63,8 @@ ShallowWrapper {
         "props": Object {
           "children": Array [
             <img
-              alt="A Ruby logo"
               className="c-comment__img"
-              src="../static/images/ruby.jpg"
+              src={undefined}
             />,
             <h4
               className="c-comment__author-name"
@@ -88,9 +87,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "alt": "A Ruby logo",
               "className": "c-comment__img",
-              "src": "../static/images/ruby.jpg",
+              "src": undefined,
             },
             "ref": null,
             "rendered": null,
@@ -135,7 +133,7 @@ ShallowWrapper {
         "nodeType": "host",
         "props": Object {
           "children": <MarkdownPreview
-            value=""
+            value="This is a comment"
           />,
           "className": "c-comment__body",
         },
@@ -145,7 +143,7 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "value": "",
+            "value": "This is a comment",
           },
           "ref": null,
           "rendered": null,
@@ -167,9 +165,8 @@ ShallowWrapper {
             className="c-comment__author"
           >
             <img
-              alt="A Ruby logo"
               className="c-comment__img"
-              src="../static/images/ruby.jpg"
+              src={undefined}
             />
             <h4
               className="c-comment__author-name"
@@ -187,7 +184,7 @@ ShallowWrapper {
             className="c-comment__body"
           >
             <MarkdownPreview
-              value=""
+              value="This is a comment"
             />
           </div>,
         ],
@@ -202,9 +199,8 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               <img
-                alt="A Ruby logo"
                 className="c-comment__img"
-                src="../static/images/ruby.jpg"
+                src={undefined}
               />,
               <h4
                 className="c-comment__author-name"
@@ -227,9 +223,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "alt": "A Ruby logo",
                 "className": "c-comment__img",
-                "src": "../static/images/ruby.jpg",
+                "src": undefined,
               },
               "ref": null,
               "rendered": null,
@@ -274,7 +269,7 @@ ShallowWrapper {
           "nodeType": "host",
           "props": Object {
             "children": <MarkdownPreview
-              value=""
+              value="This is a comment"
             />,
             "className": "c-comment__body",
           },
@@ -284,7 +279,7 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": "",
+              "value": "This is a comment",
             },
             "ref": null,
             "rendered": null,

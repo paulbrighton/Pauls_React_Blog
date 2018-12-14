@@ -10,7 +10,7 @@ class Comment extends Component {
     return (
       <div className='c-comment'>
         <div className='c-comment__author'>
-          <img className='c-comment__img' src='../static/images/ruby.jpg' alt='A Ruby logo' />
+          <img className='c-comment__img' src={comment.image} />
           <h4 className='c-comment__author-name'>{comment.authorName}</h4>
           <time className='c-comment__created-date'>Created on: {moment(comment.created_at).format('ll')}</time>
         </div>

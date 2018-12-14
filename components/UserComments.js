@@ -18,7 +18,7 @@ class UserComments extends Component {
       <CommentForm />
       <h4 className='c-user-comments__counter'><Pluralize singular={'comment'} plural={'comments'} count={comments.length} /></h4>
       {comments.map(comment => {
-        return <Comment comment={comment} key={comments.id} />
+        return <Comment comment={comment} key={comment.id} />
       })}
     </div>
   }
