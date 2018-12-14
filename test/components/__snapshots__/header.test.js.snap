@@ -28,7 +28,7 @@ ShallowWrapper {
               <img
                 alt="Paul Brighton Web Development Logo"
                 className="c-brand-logo"
-                src="static/images/logo.png"
+                src="/static/images/logo.png"
               />
             </a>
           </Link>
@@ -74,7 +74,7 @@ ShallowWrapper {
                 <img
                   alt="Paul Brighton Web Development Logo"
                   className="c-brand-logo"
-                  src="static/images/logo.png"
+                  src="/static/images/logo.png"
                 />
               </a>
             </Link>,
@@ -114,7 +114,7 @@ ShallowWrapper {
                 <img
                   alt="Paul Brighton Web Development Logo"
                   className="c-brand-logo"
-                  src="static/images/logo.png"
+                  src="/static/images/logo.png"
                 />
               </a>,
               "href": "/index",
@@ -128,7 +128,7 @@ ShallowWrapper {
                 "children": <img
                   alt="Paul Brighton Web Development Logo"
                   className="c-brand-logo"
-                  src="static/images/logo.png"
+                  src="/static/images/logo.png"
                 />,
               },
               "ref": null,
@@ -139,7 +139,7 @@ ShallowWrapper {
                 "props": Object {
                   "alt": "Paul Brighton Web Development Logo",
                   "className": "c-brand-logo",
-                  "src": "static/images/logo.png",
+                  "src": "/static/images/logo.png",
                 },
                 "ref": null,
                 "rendered": null,
@@ -267,7 +267,7 @@ ShallowWrapper {
                 <img
                   alt="Paul Brighton Web Development Logo"
                   className="c-brand-logo"
-                  src="static/images/logo.png"
+                  src="/static/images/logo.png"
                 />
               </a>
             </Link>
@@ -313,7 +313,7 @@ ShallowWrapper {
                   <img
                     alt="Paul Brighton Web Development Logo"
                     className="c-brand-logo"
-                    src="static/images/logo.png"
+                    src="/static/images/logo.png"
                   />
                 </a>
               </Link>,
@@ -353,7 +353,7 @@ ShallowWrapper {
                   <img
                     alt="Paul Brighton Web Development Logo"
                     className="c-brand-logo"
-                    src="static/images/logo.png"
+                    src="/static/images/logo.png"
                   />
                 </a>,
                 "href": "/index",
@@ -367,7 +367,7 @@ ShallowWrapper {
                   "children": <img
                     alt="Paul Brighton Web Development Logo"
                     className="c-brand-logo"
-                    src="static/images/logo.png"
+                    src="/static/images/logo.png"
                   />,
                 },
                 "ref": null,
@@ -378,7 +378,7 @@ ShallowWrapper {
                   "props": Object {
                     "alt": "Paul Brighton Web Development Logo",
                     "className": "c-brand-logo",
-                    "src": "static/images/logo.png",
+                    "src": "/static/images/logo.png",
                   },
                   "ref": null,
                   "rendered": null,

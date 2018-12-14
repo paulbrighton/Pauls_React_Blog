@@ -1,0 +1,295 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FeaturedArticle /> it renders correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <FeaturedArticle />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        className="o-featured__container"
+      >
+        <h2
+          className="c-featured__header"
+        >
+          Featured Article
+        </h2>
+        <div
+          className="c-headers__divider--featured"
+        />
+        <div
+          className="o-article-preview__container--featured"
+        >
+          <div
+            className="c-article-preview__featured"
+          >
+            <ArticlePreview
+              article={undefined}
+            />
+          </div>
+        </div>
+      </div>,
+      "className": "c-featured",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <h2
+            className="c-featured__header"
+          >
+            Featured Article
+          </h2>,
+          <div
+            className="c-headers__divider--featured"
+          />,
+          <div
+            className="o-article-preview__container--featured"
+          >
+            <div
+              className="c-article-preview__featured"
+            >
+              <ArticlePreview
+                article={undefined}
+              />
+            </div>
+          </div>,
+        ],
+        "className": "o-featured__container",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Featured Article",
+            "className": "c-featured__header",
+          },
+          "ref": null,
+          "rendered": "Featured Article",
+          "type": "h2",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "className": "c-headers__divider--featured",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="c-article-preview__featured"
+            >
+              <ArticlePreview
+                article={undefined}
+              />
+            </div>,
+            "className": "o-article-preview__container--featured",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <ArticlePreview
+                article={undefined}
+              />,
+              "className": "c-article-preview__featured",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "article": undefined,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            "type": "div",
+          },
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+    "type": "section",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="o-featured__container"
+        >
+          <h2
+            className="c-featured__header"
+          >
+            Featured Article
+          </h2>
+          <div
+            className="c-headers__divider--featured"
+          />
+          <div
+            className="o-article-preview__container--featured"
+          >
+            <div
+              className="c-article-preview__featured"
+            >
+              <ArticlePreview
+                article={undefined}
+              />
+            </div>
+          </div>
+        </div>,
+        "className": "c-featured",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <h2
+              className="c-featured__header"
+            >
+              Featured Article
+            </h2>,
+            <div
+              className="c-headers__divider--featured"
+            />,
+            <div
+              className="o-article-preview__container--featured"
+            >
+              <div
+                className="c-article-preview__featured"
+              >
+                <ArticlePreview
+                  article={undefined}
+                />
+              </div>
+            </div>,
+          ],
+          "className": "o-featured__container",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Featured Article",
+              "className": "c-featured__header",
+            },
+            "ref": null,
+            "rendered": "Featured Article",
+            "type": "h2",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "className": "c-headers__divider--featured",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <div
+                className="c-article-preview__featured"
+              >
+                <ArticlePreview
+                  article={undefined}
+                />
+              </div>,
+              "className": "o-article-preview__container--featured",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <ArticlePreview
+                  article={undefined}
+                />,
+                "className": "c-article-preview__featured",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "article": undefined,
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              "type": "div",
+            },
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+      "type": "section",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;

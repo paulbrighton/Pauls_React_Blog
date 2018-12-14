@@ -1,10 +1,13 @@
 import { Component } from 'react'
 
-import Comments from '../components/Comments'
-import CommentForm from '../components/CommentForm'
+import Comment from './Comment'
+import CommentForm from './CommentForm'
+import Pluralize from 'react-pluralize'
 
 class UserComments extends Component {
   render () {
+    const { comments } = this.props
+
     return <div className='c-user-comments'>
       <h2 className='c-article__header'>Post a comment!</h2>
       <div className='c-header-divider' />
@@ -13,8 +16,10 @@ class UserComments extends Component {
         <a className='c-user-comments__login-btn' href='/auth/logout'>Logout</a>
       </div>
       <CommentForm />
-      <h4 className='c-user-comments__counter'>Add Comment Counter Here</h4 >
-      <Comments />
+      <h4 className='c-user-comments__counter'><Pluralize singular={'comment'} plural={'comments'} count={comments.length} /></h4>
+      {comments.map(comment => {
+        return <Comment comment={comment} key={comments.id} />
+      })}
     </div>
   }
 }

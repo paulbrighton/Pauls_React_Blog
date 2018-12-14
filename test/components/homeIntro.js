@@ -1,9 +1,9 @@
-import Index from '../../pages/index'
+import HomeIntro from '../../components/HomeIntro'
 
-describe('<Index />', () => {
+describe('<HomeIntro />', () => {
   it('it renders correctly', () => {
     const component = shallow(
-      <Index />
+      <HomeIntro />
     )
 
     expect(component).toMatchSnapshot()

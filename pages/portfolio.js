@@ -1,4 +1,5 @@
 import { Component } from 'react'
+
 import Layout from '../components/Layout'
 
 class Portfolio extends Component {

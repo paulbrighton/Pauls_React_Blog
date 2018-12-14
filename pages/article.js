@@ -1,28 +1,49 @@
 import { Component } from 'react'
-import Layout from '../components/Layout'
-import UserComments from '../components/UserComments'
+import { Query } from 'react-apollo'
+import gql from 'graphql-tag'
+import withData from '../lib/withData'
 
-class Article extends Component {
+import Layout from '../components/Layout'
+import Article from '../components/Article'
+
+class Articles extends Component {
+  constructor (props) {
+    super(props)
+
+    this.articleQuery = gql`
+      query article($slug: String!) {
+        article(slug:$slug) {
+          author
+          title
+          text
+          createdAt
+          image
+          comments {
+            body
+            authorName
+            articleId
+            id
+          }
+        }
+      }
+    `
+  }
+
   render () {
-    return <Layout>
-      <article className='o-main-container'>
-        <div className='c-article'>
-          <h2 className='c-article__header'>Article Title</h2>
-          <div className='c-header-divider' />
-          <h3 className='c-article__author'>Article by Author Name</h3>
-          <time className='c-article__published'>Published: Published at Date</time>
-          <figure>
-            <img src='../static/images/rock.png' alt='An animated rock' className='c-article__image' />
-          </figure>
-          <div className='c-article__text'>
-            <p>Body Text</p>
-          </div>
-        </div>
-        <UserComments />
-        <a className='c-user-comments__back-btn'>Back to Article List</a>
-      </article>
-    </Layout>
+    return <Query query={this.articleQuery} variables={{slug: this.props.url.query.slug}}>
+      {({loading, data: { article }}) => {
+        if (loading) {
+          return <Layout {...this.props}>
+            <p>Loading...</p>
+          </Layout>
+        } else {
+          return <Layout {...this.props}>
+            <Article article={article} />
+          </Layout>
+        }
+      }}
+    </Query>
   }
 }
 
-export default Article
+export default withData(Articles)
