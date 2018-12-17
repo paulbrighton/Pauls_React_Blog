@@ -1,86 +1,50 @@
 import { Component } from 'react'
+import { Query } from 'react-apollo'
+import gql from 'graphql-tag'
+import withData from '../lib/withData'
 
+import HomeIntro from '../components/HomeIntro'
 import Layout from '../components/Layout'
+import FeaturedArticle from '../components/FeaturedArticle'
+import LatestArticles from '../components/LatestArticles'
 
 class Index extends Component {
+  constructor (props) {
+    super(props)
+    this.articlesQuery = gql`
+      query articles {
+        articles {
+          slug
+          title
+          image
+        }
+      }
+    `
+  }
+
   render () {
-    return <Layout {...this.props}>
-      <main>
-        <section className='c-intro'>
-          <div className='o-intro__container'>
-            <h1 className='c-headers'>Paul Brighton Web Development</h1>
-            <div className='c-headers__divider' />
-            <figure>
-              <a href='https://twitter.com/paulbrighton_'>
-                <img src='/static/images/welcome_image.jpg' className='c-intro__img' alt='An HTML illustration' />
-              </a>
-            </figure>
-            <div className='c-intro__text'>
-              <p>Welcome to my blog all about my journey from photographer to web developer. Not only will it cover up to date web development practices but also some useful information on search engine optimization and a little web design.</p>
-              <p>I intend to cover all the languages that I have used for my projects and these include HTML, CSS, SASS, JavaScript and Ruby (on Rails).</p>
-              <p>There is more information about me and a copy of my latest CV on the About page and also a collection of my projects on the Portfolio page. You can also sign up for email updates by filling in the Subscribe form.</p>
-            </div>
-          </div>
-        </section>
-        <section className='c-featured'>
-          <div className='o-featured__container'>
-            <h2 className='c-featured__header'>Featured Article</h2>
-            <div className='c-headers__divider--featured' />
-            <div className='o-article-preview__container--featured'>
-              <a href='#' className='c-article__path'>
-                <div className='c-article-preview__featured'>
-                  <figure>
-                    <img className='c-article-preview__image' src='/static/images/welcome_image.jpg' />
-                  </figure>
-                  <div className='c-article-preview__featured-text'>
-                    <h3>Article Title</h3>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
-        </section>
-        <section className='c-section__latest'>
-          <div className='o-article-preview'>
-            <h2 className='c-headers'>Latest Articles</h2>
-            <div className='c-headers__divider' />
-            <div className='o-article-preview__container'>
-              <a href='#' className='c-article__path'>
-                <div className='c-article-preview'>
-                  <figure>
-                    <img className='c-article-preview__image' src='/static/images/welcome_image.jpg' />
-                  </figure>
-                  <div className='c-article-preview__text'>
-                    <h3>Article Title</h3>
-                  </div>
-                </div>
-              </a>
-              <a href='#' className='c-article__path'>
-                <div className='c-article-preview'>
-                  <figure>
-                    <img className='c-article-preview__image' src='/static/images/welcome_image.jpg' />
-                  </figure>
-                  <div className='c-article-preview__text'>
-                    <h3>Article Title</h3>
-                  </div>
-                </div>
-              </a>
-              <a href='#' className='c-article__path'>
-                <div className='c-article-preview'>
-                  <figure>
-                    <img className='c-article-preview__image' src='/static/images/welcome_image.jpg' />
-                  </figure>
-                  <div className='c-article-preview__text'>
-                    <h3>Article Title</h3>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
-        </section>
-      </main>
-    </Layout>
+    return <Query query={this.articlesQuery}>
+      {({ loading, error, data: { articles } }) => {
+        if (loading) {
+          return <Layout {...this.props}>
+            <p>Loading...</p>
+          </Layout>
+        } else if (error) {
+          return <Layout {...this.props.data.error}>
+            <p>Error</p>
+          </Layout>
+        } else {
+          return <Layout {...this.props}>
+            <main>
+              <HomeIntro />
+              <FeaturedArticle article={articles[0]} />
+              <LatestArticles articles={articles} />
+            </main>
+          </Layout>
+        }
+      }}
+    </Query>
   }
 }
 
-export default Index
+export default withData(Index)

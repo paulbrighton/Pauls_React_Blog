@@ -1,6 +1,17 @@
 .c-article {
   width: 100%;
 
+  img {
+    width: 100%;
+    height: auto;
+    margin: 15px auto 15px;
+    border-radius: 5px;
+  }
+
+  &__main-img {
+    padding-bottom: 15px;
+  }
+
   &__author {
     font-size: 1.3em;
   }
@@ -15,14 +26,7 @@
   &__text p {
     font-size: 1.1em;
     font-weight: 300;
-    margin-bottom: 25px;
-  }
-
-  &__image {
-    width: 100%;
-    height: auto;
-    margin: 5px auto 5px;
-    border-radius: 5px;
+    margin-bottom: 15px;
   }
 
   a {
@@ -37,10 +41,10 @@
 
   pre {
     font-weight: 300;
-    padding: 15px;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
     overflow: scroll;
     color: #f2f2f2;
+    border-radius: 3px;
   }
 
   ::-webkit-scrollbar { 

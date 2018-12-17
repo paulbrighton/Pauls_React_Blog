@@ -1,0 +1,307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LatestArticles /> it renders correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <LatestArticles
+    articles={
+      Array [
+        Object {
+          "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+          "slug": "Title",
+          "title": "Article Title",
+        },
+      ]
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        className="o-article-preview"
+      >
+        <h2
+          className="c-headers"
+        >
+          Latest Articles
+        </h2>
+        <div
+          className="c-headers__divider"
+        />
+        <div
+          className="o-article-preview__container"
+        >
+          <ArticlePreview
+            article={
+              Object {
+                "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+                "slug": "Title",
+                "title": "Article Title",
+              }
+            }
+          />
+        </div>
+      </div>,
+      "className": "c-section__latest",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <h2
+            className="c-headers"
+          >
+            Latest Articles
+          </h2>,
+          <div
+            className="c-headers__divider"
+          />,
+          <div
+            className="o-article-preview__container"
+          >
+            <ArticlePreview
+              article={
+                Object {
+                  "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+                  "slug": "Title",
+                  "title": "Article Title",
+                }
+              }
+            />
+          </div>,
+        ],
+        "className": "o-article-preview",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Latest Articles",
+            "className": "c-headers",
+          },
+          "ref": null,
+          "rendered": "Latest Articles",
+          "type": "h2",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "className": "c-headers__divider",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <ArticlePreview
+                article={
+                  Object {
+                    "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+                    "slug": "Title",
+                    "title": "Article Title",
+                  }
+                }
+              />,
+            ],
+            "className": "o-article-preview__container",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": "Title",
+              "nodeType": "class",
+              "props": Object {
+                "article": Object {
+                  "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+                  "slug": "Title",
+                  "title": "Article Title",
+                },
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+    "type": "section",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="o-article-preview"
+        >
+          <h2
+            className="c-headers"
+          >
+            Latest Articles
+          </h2>
+          <div
+            className="c-headers__divider"
+          />
+          <div
+            className="o-article-preview__container"
+          >
+            <ArticlePreview
+              article={
+                Object {
+                  "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+                  "slug": "Title",
+                  "title": "Article Title",
+                }
+              }
+            />
+          </div>
+        </div>,
+        "className": "c-section__latest",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <h2
+              className="c-headers"
+            >
+              Latest Articles
+            </h2>,
+            <div
+              className="c-headers__divider"
+            />,
+            <div
+              className="o-article-preview__container"
+            >
+              <ArticlePreview
+                article={
+                  Object {
+                    "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+                    "slug": "Title",
+                    "title": "Article Title",
+                  }
+                }
+              />
+            </div>,
+          ],
+          "className": "o-article-preview",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Latest Articles",
+              "className": "c-headers",
+            },
+            "ref": null,
+            "rendered": "Latest Articles",
+            "type": "h2",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "className": "c-headers__divider",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <ArticlePreview
+                  article={
+                    Object {
+                      "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+                      "slug": "Title",
+                      "title": "Article Title",
+                    }
+                  }
+                />,
+              ],
+              "className": "o-article-preview__container",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": "Title",
+                "nodeType": "class",
+                "props": Object {
+                  "article": Object {
+                    "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg",
+                    "slug": "Title",
+                    "title": "Article Title",
+                  },
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+            ],
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+      "type": "section",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;

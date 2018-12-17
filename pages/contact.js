@@ -1,4 +1,5 @@
 import { Component } from 'react'
+
 import Layout from '../components/Layout'
 import ContactForm from '../components/ContactForm'
 

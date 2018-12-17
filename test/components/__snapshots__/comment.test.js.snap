@@ -1,9 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Comments /> it renders correctly 1`] = `
+exports[`<Comment /> it renders correctly 1`] = `
 ShallowWrapper {
   Symbol(enzyme.__root__): [Circular],
-  Symbol(enzyme.__unrendered__): <Comments />,
+  Symbol(enzyme.__unrendered__): <Comment
+    comment={
+      Object {
+        "authorName": "authorName",
+        "body": "This is a comment",
+        "createdAt": "2018-12-12 10:20:46 UTC",
+        "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
+      }
+    }
+  />,
   Symbol(enzyme.__renderer__): Object {
     "batchedUpdates": [Function],
     "getNode": [Function],
@@ -22,26 +31,28 @@ ShallowWrapper {
           className="c-comment__author"
         >
           <img
-            alt="A Ruby logo"
             className="c-comment__img"
-            src="../static/images/ruby.jpg"
+            src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg"
           />
           <h4
             className="c-comment__author-name"
           >
-            Author Name
+            authorName
           </h4>
           <time
             className="c-comment__created-date"
           >
-            Created on: Add Date
+            Created on: 
+            Dec 12, 2018
           </time>
         </div>,
-        <p
+        <div
           className="c-comment__body"
         >
-          Body text
-        </p>,
+          <MarkdownPreview
+            value="This is a comment"
+          />
+        </div>,
       ],
       "className": "c-comment",
     },
@@ -54,19 +65,19 @@ ShallowWrapper {
         "props": Object {
           "children": Array [
             <img
-              alt="A Ruby logo"
               className="c-comment__img"
-              src="../static/images/ruby.jpg"
+              src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg"
             />,
             <h4
               className="c-comment__author-name"
             >
-              Author Name
+              authorName
             </h4>,
             <time
               className="c-comment__created-date"
             >
-              Created on: Add Date
+              Created on: 
+              Dec 12, 2018
             </time>,
           ],
           "className": "c-comment__author",
@@ -78,9 +89,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "alt": "A Ruby logo",
               "className": "c-comment__img",
-              "src": "../static/images/ruby.jpg",
+              "src": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
             },
             "ref": null,
             "rendered": null,
@@ -91,11 +101,11 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Author Name",
+              "children": "authorName",
               "className": "c-comment__author-name",
             },
             "ref": null,
-            "rendered": "Author Name",
+            "rendered": "authorName",
             "type": "h4",
           },
           Object {
@@ -103,11 +113,17 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Created on: Add Date",
+              "children": Array [
+                "Created on: ",
+                "Dec 12, 2018",
+              ],
               "className": "c-comment__created-date",
             },
             "ref": null,
-            "rendered": "Created on: Add Date",
+            "rendered": Array [
+              "Created on: ",
+              "Dec 12, 2018",
+            ],
             "type": "time",
           },
         ],
@@ -118,12 +134,24 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "host",
         "props": Object {
-          "children": "Body text",
+          "children": <MarkdownPreview
+            value="This is a comment"
+          />,
           "className": "c-comment__body",
         },
         "ref": null,
-        "rendered": "Body text",
-        "type": "p",
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "value": "This is a comment",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        "type": "div",
       },
     ],
     "type": "div",
@@ -139,26 +167,28 @@ ShallowWrapper {
             className="c-comment__author"
           >
             <img
-              alt="A Ruby logo"
               className="c-comment__img"
-              src="../static/images/ruby.jpg"
+              src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg"
             />
             <h4
               className="c-comment__author-name"
             >
-              Author Name
+              authorName
             </h4>
             <time
               className="c-comment__created-date"
             >
-              Created on: Add Date
+              Created on: 
+              Dec 12, 2018
             </time>
           </div>,
-          <p
+          <div
             className="c-comment__body"
           >
-            Body text
-          </p>,
+            <MarkdownPreview
+              value="This is a comment"
+            />
+          </div>,
         ],
         "className": "c-comment",
       },
@@ -171,19 +201,19 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               <img
-                alt="A Ruby logo"
                 className="c-comment__img"
-                src="../static/images/ruby.jpg"
+                src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg"
               />,
               <h4
                 className="c-comment__author-name"
               >
-                Author Name
+                authorName
               </h4>,
               <time
                 className="c-comment__created-date"
               >
-                Created on: Add Date
+                Created on: 
+                Dec 12, 2018
               </time>,
             ],
             "className": "c-comment__author",
@@ -195,9 +225,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "alt": "A Ruby logo",
                 "className": "c-comment__img",
-                "src": "../static/images/ruby.jpg",
+                "src": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
               },
               "ref": null,
               "rendered": null,
@@ -208,11 +237,11 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "Author Name",
+                "children": "authorName",
                 "className": "c-comment__author-name",
               },
               "ref": null,
-              "rendered": "Author Name",
+              "rendered": "authorName",
               "type": "h4",
             },
             Object {
@@ -220,11 +249,17 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "Created on: Add Date",
+                "children": Array [
+                  "Created on: ",
+                  "Dec 12, 2018",
+                ],
                 "className": "c-comment__created-date",
               },
               "ref": null,
-              "rendered": "Created on: Add Date",
+              "rendered": Array [
+                "Created on: ",
+                "Dec 12, 2018",
+              ],
               "type": "time",
             },
           ],
@@ -235,12 +270,24 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": "Body text",
+            "children": <MarkdownPreview
+              value="This is a comment"
+            />,
             "className": "c-comment__body",
           },
           "ref": null,
-          "rendered": "Body text",
-          "type": "p",
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "value": "This is a comment",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": "div",
         },
       ],
       "type": "div",
