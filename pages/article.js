@@ -21,7 +21,7 @@ class Articles extends Component {
           comments {
             body
             authorName
-            created_at
+            CreatedAt
             image
           }
         }
