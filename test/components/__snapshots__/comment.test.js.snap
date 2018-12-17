@@ -8,6 +8,7 @@ ShallowWrapper {
       Object {
         "authorName": "authorName",
         "body": "This is a comment",
+        "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
       }
     }
   />,
@@ -30,7 +31,7 @@ ShallowWrapper {
         >
           <img
             className="c-comment__img"
-            src={undefined}
+            src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg"
           />
           <h4
             className="c-comment__author-name"
@@ -41,7 +42,7 @@ ShallowWrapper {
             className="c-comment__created-date"
           >
             Created on: 
-            Dec 14, 2018
+            Dec 17, 2018
           </time>
         </div>,
         <div
@@ -64,7 +65,7 @@ ShallowWrapper {
           "children": Array [
             <img
               className="c-comment__img"
-              src={undefined}
+              src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg"
             />,
             <h4
               className="c-comment__author-name"
@@ -75,7 +76,7 @@ ShallowWrapper {
               className="c-comment__created-date"
             >
               Created on: 
-              Dec 14, 2018
+              Dec 17, 2018
             </time>,
           ],
           "className": "c-comment__author",
@@ -88,7 +89,7 @@ ShallowWrapper {
             "nodeType": "host",
             "props": Object {
               "className": "c-comment__img",
-              "src": undefined,
+              "src": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
             },
             "ref": null,
             "rendered": null,
@@ -113,14 +114,14 @@ ShallowWrapper {
             "props": Object {
               "children": Array [
                 "Created on: ",
-                "Dec 14, 2018",
+                "Dec 17, 2018",
               ],
               "className": "c-comment__created-date",
             },
             "ref": null,
             "rendered": Array [
               "Created on: ",
-              "Dec 14, 2018",
+              "Dec 17, 2018",
             ],
             "type": "time",
           },
@@ -166,7 +167,7 @@ ShallowWrapper {
           >
             <img
               className="c-comment__img"
-              src={undefined}
+              src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg"
             />
             <h4
               className="c-comment__author-name"
@@ -177,7 +178,7 @@ ShallowWrapper {
               className="c-comment__created-date"
             >
               Created on: 
-              Dec 14, 2018
+              Dec 17, 2018
             </time>
           </div>,
           <div
@@ -200,7 +201,7 @@ ShallowWrapper {
             "children": Array [
               <img
                 className="c-comment__img"
-                src={undefined}
+                src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg"
               />,
               <h4
                 className="c-comment__author-name"
@@ -211,7 +212,7 @@ ShallowWrapper {
                 className="c-comment__created-date"
               >
                 Created on: 
-                Dec 14, 2018
+                Dec 17, 2018
               </time>,
             ],
             "className": "c-comment__author",
@@ -224,7 +225,7 @@ ShallowWrapper {
               "nodeType": "host",
               "props": Object {
                 "className": "c-comment__img",
-                "src": undefined,
+                "src": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
               },
               "ref": null,
               "rendered": null,
@@ -249,14 +250,14 @@ ShallowWrapper {
               "props": Object {
                 "children": Array [
                   "Created on: ",
-                  "Dec 14, 2018",
+                  "Dec 17, 2018",
                 ],
                 "className": "c-comment__created-date",
               },
               "ref": null,
               "rendered": Array [
                 "Created on: ",
-                "Dec 14, 2018",
+                "Dec 17, 2018",
               ],
               "type": "time",
             },

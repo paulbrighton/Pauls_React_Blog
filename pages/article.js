@@ -23,6 +23,8 @@ class Articles extends Component {
             authorName
             articleId
             id
+            created_at
+            image
           }
         }
       }

@@ -4,11 +4,13 @@ exports[`<LatestArticles /> it renders correctly 1`] = `
 ShallowWrapper {
   Symbol(enzyme.__root__): [Circular],
   Symbol(enzyme.__unrendered__): <FeaturedArticle
-    article={
-      Object {
-        "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-        "title": "New Article #3",
-      }
+    articles={
+      Array [
+        Object {
+          "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
+          "title": "New Article #3",
+        },
+      ]
     }
   />,
   Symbol(enzyme.__renderer__): Object {
@@ -42,12 +44,7 @@ ShallowWrapper {
             className="c-article-preview__featured"
           >
             <ArticlePreview
-              article={
-                Object {
-                  "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                  "title": "New Article #3",
-                }
-              }
+              article={undefined}
             />
           </div>
         </div>
@@ -76,12 +73,7 @@ ShallowWrapper {
               className="c-article-preview__featured"
             >
               <ArticlePreview
-                article={
-                  Object {
-                    "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                    "title": "New Article #3",
-                  }
-                }
+                article={undefined}
               />
             </div>
           </div>,
@@ -122,12 +114,7 @@ ShallowWrapper {
               className="c-article-preview__featured"
             >
               <ArticlePreview
-                article={
-                  Object {
-                    "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                    "title": "New Article #3",
-                  }
-                }
+                article={undefined}
               />
             </div>,
             "className": "o-article-preview__container--featured",
@@ -139,12 +126,7 @@ ShallowWrapper {
             "nodeType": "host",
             "props": Object {
               "children": <ArticlePreview
-                article={
-                  Object {
-                    "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                    "title": "New Article #3",
-                  }
-                }
+                article={undefined}
               />,
               "className": "c-article-preview__featured",
             },
@@ -154,10 +136,7 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "article": Object {
-                  "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                  "title": "New Article #3",
-                },
+                "article": undefined,
               },
               "ref": null,
               "rendered": null,
@@ -196,12 +175,7 @@ ShallowWrapper {
               className="c-article-preview__featured"
             >
               <ArticlePreview
-                article={
-                  Object {
-                    "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                    "title": "New Article #3",
-                  }
-                }
+                article={undefined}
               />
             </div>
           </div>
@@ -230,12 +204,7 @@ ShallowWrapper {
                 className="c-article-preview__featured"
               >
                 <ArticlePreview
-                  article={
-                    Object {
-                      "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                      "title": "New Article #3",
-                    }
-                  }
+                  article={undefined}
                 />
               </div>
             </div>,
@@ -276,12 +245,7 @@ ShallowWrapper {
                 className="c-article-preview__featured"
               >
                 <ArticlePreview
-                  article={
-                    Object {
-                      "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                      "title": "New Article #3",
-                    }
-                  }
+                  article={undefined}
                 />
               </div>,
               "className": "o-article-preview__container--featured",
@@ -293,12 +257,7 @@ ShallowWrapper {
               "nodeType": "host",
               "props": Object {
                 "children": <ArticlePreview
-                  article={
-                    Object {
-                      "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                      "title": "New Article #3",
-                    }
-                  }
+                  article={undefined}
                 />,
                 "className": "c-article-preview__featured",
               },
@@ -308,10 +267,7 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "class",
                 "props": Object {
-                  "article": Object {
-                    "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
-                    "title": "New Article #3",
-                  },
+                  "article": undefined,
                 },
                 "ref": null,
                 "rendered": null,

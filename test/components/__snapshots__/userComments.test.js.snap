@@ -7,7 +7,7 @@ ShallowWrapper {
     comments={
       Array [
         Object {
-          "article_id": "ID",
+          "articleId": "ID",
           "authorName": "authorName",
           "body": "This is a commment!",
           "id": "ID",
@@ -70,7 +70,7 @@ ShallowWrapper {
           <Comment
             comment={
               Object {
-                "article_id": "ID",
+                "articleId": "ID",
                 "authorName": "authorName",
                 "body": "This is a commment!",
                 "id": "ID",
@@ -207,7 +207,7 @@ ShallowWrapper {
         "nodeType": "class",
         "props": Object {
           "comment": Object {
-            "article_id": "ID",
+            "articleId": "ID",
             "authorName": "authorName",
             "body": "This is a commment!",
             "id": "ID",
@@ -268,7 +268,7 @@ ShallowWrapper {
             <Comment
               comment={
                 Object {
-                  "article_id": "ID",
+                  "articleId": "ID",
                   "authorName": "authorName",
                   "body": "This is a commment!",
                   "id": "ID",
@@ -405,7 +405,7 @@ ShallowWrapper {
           "nodeType": "class",
           "props": Object {
             "comment": Object {
-              "article_id": "ID",
+              "articleId": "ID",
               "authorName": "authorName",
               "body": "This is a commment!",
               "id": "ID",

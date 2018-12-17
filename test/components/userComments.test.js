@@ -6,7 +6,7 @@ describe('<UserComments  />', () => {
       id: 'ID',
       authorName: 'authorName',
       body: 'This is a commment!',
-      article_id: 'ID'
+      articleId: 'ID'
     }]
     const component = shallow(
       <UserComments comments={comments} />
