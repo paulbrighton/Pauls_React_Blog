@@ -25,6 +25,7 @@ ShallowWrapper {
     "key": undefined,
     "nodeType": "class",
     "props": Object {
+      "as": "/articles/Title",
       "children": <a
         className="c-article__path"
         href="#"
@@ -162,6 +163,7 @@ ShallowWrapper {
       "key": undefined,
       "nodeType": "class",
       "props": Object {
+        "as": "/articles/Title",
         "children": <a
           className="c-article__path"
           href="#"
