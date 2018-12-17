@@ -7,10 +7,11 @@ ShallowWrapper {
     comments={
       Array [
         Object {
-          "articleId": "ID",
           "authorName": "authorName",
           "body": "This is a commment!",
+          "createdAt": "2018-12-12 10:20:46 UTC",
           "id": "ID",
+          "slug": "Title",
         },
       ]
     }
@@ -70,10 +71,11 @@ ShallowWrapper {
           <Comment
             comment={
               Object {
-                "articleId": "ID",
                 "authorName": "authorName",
                 "body": "This is a commment!",
+                "createdAt": "2018-12-12 10:20:46 UTC",
                 "id": "ID",
+                "slug": "Title",
               }
             }
           />,
@@ -207,10 +209,11 @@ ShallowWrapper {
         "nodeType": "class",
         "props": Object {
           "comment": Object {
-            "articleId": "ID",
             "authorName": "authorName",
             "body": "This is a commment!",
+            "createdAt": "2018-12-12 10:20:46 UTC",
             "id": "ID",
+            "slug": "Title",
           },
         },
         "ref": null,
@@ -268,10 +271,11 @@ ShallowWrapper {
             <Comment
               comment={
                 Object {
-                  "articleId": "ID",
                   "authorName": "authorName",
                   "body": "This is a commment!",
+                  "createdAt": "2018-12-12 10:20:46 UTC",
                   "id": "ID",
+                  "slug": "Title",
                 }
               }
             />,
@@ -405,10 +409,11 @@ ShallowWrapper {
           "nodeType": "class",
           "props": Object {
             "comment": Object {
-              "articleId": "ID",
               "authorName": "authorName",
               "body": "This is a commment!",
+              "createdAt": "2018-12-12 10:20:46 UTC",
               "id": "ID",
+              "slug": "Title",
             },
           },
           "ref": null,

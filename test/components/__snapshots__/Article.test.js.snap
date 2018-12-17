@@ -8,7 +8,6 @@ ShallowWrapper {
       Object {
         "author": "Paul Brighton",
         "createdAt": "2018-12-12 10:20:46 UTC",
-        "id": "3",
         "image": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg",
         "text": "A third article!!",
         "title": "New Article #3",
@@ -51,7 +50,7 @@ ShallowWrapper {
           >
             <p>
               Published on: 
-              Dec 17, 2018
+              Dec 12, 2018
             </p>
           </time>
           <figure>
@@ -106,7 +105,7 @@ ShallowWrapper {
             >
               <p>
                 Published on: 
-                Dec 17, 2018
+                Dec 12, 2018
               </p>
             </time>,
             <figure>
@@ -175,7 +174,7 @@ ShallowWrapper {
             "props": Object {
               "children": <p>
                 Published on: 
-                Dec 17, 2018
+                Dec 12, 2018
               </p>,
               "className": "c-article__published",
             },
@@ -187,13 +186,13 @@ ShallowWrapper {
               "props": Object {
                 "children": Array [
                   "Published on: ",
-                  "Dec 17, 2018",
+                  "Dec 12, 2018",
                 ],
               },
               "ref": null,
               "rendered": Array [
                 "Published on: ",
-                "Dec 17, 2018",
+                "Dec 12, 2018",
               ],
               "type": "p",
             },
@@ -306,7 +305,7 @@ ShallowWrapper {
             >
               <p>
                 Published on: 
-                Dec 17, 2018
+                Dec 12, 2018
               </p>
             </time>
             <figure>
@@ -361,7 +360,7 @@ ShallowWrapper {
               >
                 <p>
                   Published on: 
-                  Dec 17, 2018
+                  Dec 12, 2018
                 </p>
               </time>,
               <figure>
@@ -430,7 +429,7 @@ ShallowWrapper {
               "props": Object {
                 "children": <p>
                   Published on: 
-                  Dec 17, 2018
+                  Dec 12, 2018
                 </p>,
                 "className": "c-article__published",
               },
@@ -442,13 +441,13 @@ ShallowWrapper {
                 "props": Object {
                   "children": Array [
                     "Published on: ",
-                    "Dec 17, 2018",
+                    "Dec 12, 2018",
                   ],
                 },
                 "ref": null,
                 "rendered": Array [
                   "Published on: ",
-                  "Dec 17, 2018",
+                  "Dec 12, 2018",
                 ],
                 "type": "p",
               },

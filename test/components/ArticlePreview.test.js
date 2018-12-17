@@ -1,6 +1,6 @@
-import FeaturedArticle from '../../components/FeaturedArticle'
+import ArticlePreview from '../../components/ArticlePreview'
 
-describe('<FeaturedArticle />', () => {
+describe('<ArticlePreview />', () => {
   it('it renders correctly', () => {
     const article = {
       'slug': 'Title',
@@ -9,7 +9,7 @@ describe('<FeaturedArticle />', () => {
     }
 
     const component = shallow(
-      <FeaturedArticle article={article} />
+      <ArticlePreview article={article} />
     )
 
     expect(component).toMatchSnapshot()
