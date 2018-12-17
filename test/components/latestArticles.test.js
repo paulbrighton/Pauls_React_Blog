@@ -1,14 +1,15 @@
-import LatestArticles from '../../components/FeaturedArticle'
+import LatestArticles from '../../components/LatestArticles'
 
 describe('<LatestArticles />', () => {
   it('it renders correctly', () => {
     const articles = [{
-      'title': 'New Article #3',
-      'image': '/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d12c66030ae5e39faf3acc1b6e9cd19139f8dc6/water-tap-black-and-white-macro-615326.jpeg'
+      slug: 'Title',
+      title: 'Article Title',
+      image: '/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e7738a08f01012432864f3fb9a3e44033a0cddc3/mobile_first.jpg'
     }]
 
     const component = shallow(
-      <LatestArticles articles={articles}/>
+      <LatestArticles articles={articles} />
     )
 
     expect(component).toMatchSnapshot()
