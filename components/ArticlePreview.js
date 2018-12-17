@@ -7,7 +7,7 @@ class ArticlePreview extends Component {
     const { article } = this.props
 
     return (
-      <Link href={`/article?slug=${article.slug}`}>
+      <Link href={`/article?slug=${article.slug}`} as={`/articles/${article.slug}`}>
         <a href='#' className='c-article__path'>
           <div className='c-article-preview'>
             <figure>

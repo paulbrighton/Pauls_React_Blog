@@ -10,6 +10,7 @@
     "@zeit/next-sass": "^1.0.1",
     "apollo-client-preset": "^1.0.8",
     "babel-core": "7.0.0-bridge.0",
+    "express": "^4.16.4",
     "graphql": "^14.0.2",
     "graphql-anywhere": "^4.1.23",
     "graphql-tag": "^2.10.0",
@@ -39,9 +40,9 @@
     "webpack": "^4.26.1"
   },
   "scripts": {
-    "dev": "next",
+    "dev": "node server.js",
     "build": "next build",
-    "start": "next start",
+    "start": "NODE_ENV=production node server.js",
     "test": "jest"
   }
 }
