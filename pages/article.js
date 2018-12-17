@@ -21,8 +21,6 @@ class Articles extends Component {
           comments {
             body
             authorName
-            articleId
-            id
             created_at
             image
           }
