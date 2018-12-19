@@ -1,21 +1,32 @@
 import { Component } from 'react'
 
 import Comment from './Comment'
-import CommentForm from './CommentForm'
 import Pluralize from 'react-pluralize'
 
+import Auth from '../lib/Auth'
+import ArticleComment from './ArticleComment'
+
 class UserComments extends Component {
+  constructor (props) {
+    super(props)
+
+    this.auth = new Auth()
+    this.login = this.login.bind(this)
+  }
+
+  login () {
+    this.auth.login()
+  }
+
   render () {
     const { comments } = this.props
 
     return <div className='c-user-comments'>
       <h2 className='c-article__header'>Post a comment!</h2>
       <div className='c-header-divider' />
-      <div className='c-user-comments__info'>
-        <h3 className='c-user-comments__login-message'>Welcome, User Name</h3>
-        <a className='c-user-comments__login-btn' href='/auth/logout'>Logout</a>
-      </div>
-      <CommentForm />
+
+      <ArticleComment />
+
       <h4 className='c-user-comments__counter'><Pluralize singular={'comment'} plural={'comments'} count={comments.length} /></h4>
       {comments.map(comment => {
         return <Comment comment={comment} key={comment.id} />
