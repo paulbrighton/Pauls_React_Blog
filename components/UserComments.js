@@ -11,11 +11,6 @@ class UserComments extends Component {
     super(props)
 
     this.auth = new Auth()
-    this.login = this.login.bind(this)
-  }
-
-  login () {
-    this.auth.login()
   }
 
   render () {
@@ -24,9 +19,7 @@ class UserComments extends Component {
     return <div className='c-user-comments'>
       <h2 className='c-article__header'>Post a comment!</h2>
       <div className='c-header-divider' />
-
       <ArticleComment />
-
       <h4 className='c-user-comments__counter'><Pluralize singular={'comment'} plural={'comments'} count={comments.length} /></h4>
       {comments.map(comment => {
         return <Comment comment={comment} key={comment.id} />

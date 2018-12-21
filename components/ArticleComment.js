@@ -10,21 +10,26 @@ class ArticleComment extends Component {
 
     this.auth = new Auth()
     this.login = this.login.bind(this)
+    this.logout = this.logout.bind(this)
   }
 
   login () {
     this.auth.login()
   }
 
+  logout () {
+    this.auth.logout()
+  }
+
   render () {
     if (this.auth.isAuthenticated()) {
-      return <>
-      <div className='c-user-comments__info'>
-        <h3 className='c-user-comments__login-message'>Welcome, User Name</h3>
-        <a className='c-user-comments__login-btn' href='/auth/logout'>Logout</a>
+      return <div>
+        <div className='c-user-comments__info'>
+          <h3 className='c-user-comments__login-message'>Welcome, User Name</h3>
+          <a className='c-user-comments__login-btn' onClick={this.logout}>Logout</a>
+        </div>
+        <CommentForm />
       </div>
-      <CommentForm />
-      </>
     } else {
       return <div className='c-user-comments__info'>
         <h3 className='c-user-comments__login-message'>Please login to comment.</h3>
