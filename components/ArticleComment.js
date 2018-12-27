@@ -1,12 +1,15 @@
 import { Component } from 'react'
 
 import CommentForm from '../components/CommentForm'
-
 import Auth from '../lib/Auth'
 
 class ArticleComment extends Component {
   constructor (props) {
     super(props)
+
+    this.state = {
+      profile: {}
+    }
 
     this.auth = new Auth()
     this.login = this.login.bind(this)
@@ -17,15 +20,22 @@ class ArticleComment extends Component {
     this.auth.login()
   }
 
+  userProfile () {
+    return {
+      name: localStorage.getItem('name')
+    }
+  }
+
   logout () {
     this.auth.logout()
   }
 
   render () {
+    const userProfile = this.userProfile()
     if (this.auth.isAuthenticated()) {
       return <div>
         <div className='c-user-comments__info'>
-          <h3 className='c-user-comments__login-message'>Welcome, User Name</h3>
+          <h3 className='c-user-comments__login-message'>Welcome, {userProfile.name}</h3>
           <a className='c-user-comments__login-btn' onClick={this.logout}>Logout</a>
         </div>
         <CommentForm />
