@@ -7,10 +7,6 @@ class ArticleComment extends Component {
   constructor (props) {
     super(props)
 
-    this.state = {
-      profile: {}
-    }
-
     this.auth = new Auth()
     this.login = this.login.bind(this)
     this.logout = this.logout.bind(this)
