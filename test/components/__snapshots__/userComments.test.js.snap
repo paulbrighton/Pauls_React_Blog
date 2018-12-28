@@ -38,22 +38,7 @@ ShallowWrapper {
         <div
           className="c-header-divider"
         />,
-        <div
-          className="c-user-comments__info"
-        >
-          <h3
-            className="c-user-comments__login-message"
-          >
-            Welcome, User Name
-          </h3>
-          <a
-            className="c-user-comments__login-btn"
-            href="/auth/logout"
-          >
-            Logout
-          </a>
-        </div>,
-        <CommentForm />,
+        <ArticleComment />,
         <h4
           className="c-user-comments__counter"
         >
@@ -106,56 +91,6 @@ ShallowWrapper {
         },
         "ref": null,
         "rendered": null,
-        "type": "div",
-      },
-      Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": Array [
-            <h3
-              className="c-user-comments__login-message"
-            >
-              Welcome, User Name
-            </h3>,
-            <a
-              className="c-user-comments__login-btn"
-              href="/auth/logout"
-            >
-              Logout
-            </a>,
-          ],
-          "className": "c-user-comments__info",
-        },
-        "ref": null,
-        "rendered": Array [
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": "Welcome, User Name",
-              "className": "c-user-comments__login-message",
-            },
-            "ref": null,
-            "rendered": "Welcome, User Name",
-            "type": "h3",
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": "Logout",
-              "className": "c-user-comments__login-btn",
-              "href": "/auth/logout",
-            },
-            "ref": null,
-            "rendered": "Logout",
-            "type": "a",
-          },
-        ],
         "type": "div",
       },
       Object {
@@ -238,22 +173,7 @@ ShallowWrapper {
           <div
             className="c-header-divider"
           />,
-          <div
-            className="c-user-comments__info"
-          >
-            <h3
-              className="c-user-comments__login-message"
-            >
-              Welcome, User Name
-            </h3>
-            <a
-              className="c-user-comments__login-btn"
-              href="/auth/logout"
-            >
-              Logout
-            </a>
-          </div>,
-          <CommentForm />,
+          <ArticleComment />,
           <h4
             className="c-user-comments__counter"
           >
@@ -306,56 +226,6 @@ ShallowWrapper {
           },
           "ref": null,
           "rendered": null,
-          "type": "div",
-        },
-        Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": Array [
-              <h3
-                className="c-user-comments__login-message"
-              >
-                Welcome, User Name
-              </h3>,
-              <a
-                className="c-user-comments__login-btn"
-                href="/auth/logout"
-              >
-                Logout
-              </a>,
-            ],
-            "className": "c-user-comments__info",
-          },
-          "ref": null,
-          "rendered": Array [
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": "Welcome, User Name",
-                "className": "c-user-comments__login-message",
-              },
-              "ref": null,
-              "rendered": "Welcome, User Name",
-              "type": "h3",
-            },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": "Logout",
-                "className": "c-user-comments__login-btn",
-                "href": "/auth/logout",
-              },
-              "ref": null,
-              "rendered": "Logout",
-              "type": "a",
-            },
-          ],
           "type": "div",
         },
         Object {
@@ -472,22 +342,7 @@ ShallowWrapper {
         <div
           className="c-header-divider"
         />,
-        <div
-          className="c-user-comments__info"
-        >
-          <h3
-            className="c-user-comments__login-message"
-          >
-            Welcome, User Name
-          </h3>
-          <a
-            className="c-user-comments__login-btn"
-            href="/auth/logout"
-          >
-            Logout
-          </a>
-        </div>,
-        <CommentForm />,
+        <ArticleComment />,
         <h4
           className="c-user-comments__counter"
         >
@@ -528,56 +383,6 @@ ShallowWrapper {
         },
         "ref": null,
         "rendered": null,
-        "type": "div",
-      },
-      Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": Array [
-            <h3
-              className="c-user-comments__login-message"
-            >
-              Welcome, User Name
-            </h3>,
-            <a
-              className="c-user-comments__login-btn"
-              href="/auth/logout"
-            >
-              Logout
-            </a>,
-          ],
-          "className": "c-user-comments__info",
-        },
-        "ref": null,
-        "rendered": Array [
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": "Welcome, User Name",
-              "className": "c-user-comments__login-message",
-            },
-            "ref": null,
-            "rendered": "Welcome, User Name",
-            "type": "h3",
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": "Logout",
-              "className": "c-user-comments__login-btn",
-              "href": "/auth/logout",
-            },
-            "ref": null,
-            "rendered": "Logout",
-            "type": "a",
-          },
-        ],
         "type": "div",
       },
       Object {
@@ -643,22 +448,7 @@ ShallowWrapper {
           <div
             className="c-header-divider"
           />,
-          <div
-            className="c-user-comments__info"
-          >
-            <h3
-              className="c-user-comments__login-message"
-            >
-              Welcome, User Name
-            </h3>
-            <a
-              className="c-user-comments__login-btn"
-              href="/auth/logout"
-            >
-              Logout
-            </a>
-          </div>,
-          <CommentForm />,
+          <ArticleComment />,
           <h4
             className="c-user-comments__counter"
           >
@@ -699,56 +489,6 @@ ShallowWrapper {
           },
           "ref": null,
           "rendered": null,
-          "type": "div",
-        },
-        Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": Array [
-              <h3
-                className="c-user-comments__login-message"
-              >
-                Welcome, User Name
-              </h3>,
-              <a
-                className="c-user-comments__login-btn"
-                href="/auth/logout"
-              >
-                Logout
-              </a>,
-            ],
-            "className": "c-user-comments__info",
-          },
-          "ref": null,
-          "rendered": Array [
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": "Welcome, User Name",
-                "className": "c-user-comments__login-message",
-              },
-              "ref": null,
-              "rendered": "Welcome, User Name",
-              "type": "h3",
-            },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": "Logout",
-                "className": "c-user-comments__login-btn",
-                "href": "/auth/logout",
-              },
-              "ref": null,
-              "rendered": "Logout",
-              "type": "a",
-            },
-          ],
           "type": "div",
         },
         Object {
