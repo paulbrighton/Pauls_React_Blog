@@ -80,11 +80,11 @@ class Articles extends Component {
                 })
               }}>
               {newComment => {
-                return <div>
+                return <div className='o-main-container'>
+                  <UserComments comments={article.comments} mutation={(event) => this.postComment(event, newComment)} />
                   {article.comments.map((comment, index) => {
                     return <Comment comment={comment} key={index} />
                   })}
-                  <UserComments comments={article.comments} mutation={(event) => this.postComment(event, newComment)} />
                 </div>
               }}
             </Mutation>

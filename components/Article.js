@@ -1,14 +1,13 @@
 import { Component } from 'react'
-import gql from 'graphql-tag'
 
+import Link from 'next/link'
 import { MarkdownPreview } from 'react-marked-markdown'
 import moment from 'moment'
-
-import UserComments from '../components/UserComments'
 
 class Article extends Component {
   render () {
     const { article } = this.props
+    const { click } = this.props
 
     return <article className='o-main-container'>
       <div className='c-article'>
@@ -23,8 +22,7 @@ class Article extends Component {
           <MarkdownPreview value={article.text} />
         </div>
       </div>
-      {/* <UserComments comments={article.comments} /> */}
-      <a className='c-user-comments__back-btn'>Back to Article List</a>
+      <Link href='/index'><a className='c-user-comments__back-btn' onClick={click}>Back to Article List</a></Link>
     </article>
   }
 }

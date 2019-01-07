@@ -52,7 +52,8 @@
     font-weight: 500;
     font-size: 1.2em;
     display: block;
-    margin-top: 25px;
+    margin: 25px 0;
+    float: right;
 
     &:hover {
       text-decoration: underline;
