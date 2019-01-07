@@ -14,12 +14,12 @@ class Articles extends Component {
 
     this.postComment = this.postComment.bind(this)
     this.newComment = gql`
-      mutation addComment($slug: String!, $authorName: String!, $body: String!, $image: String!) {
-        addComment(slug:$slug, authorName:$authorName, body:$body, image:$image) {
-          slug
+      mutation newComment($slug: String!, $authorName: String!, $body: String!, $image: String!) {
+        newComment(slug:$slug, authorName:$authorName, body:$body, image:$image) {
           body
           authorName
           image
+          createdAt
         }
       }
     `
@@ -49,9 +49,10 @@ class Articles extends Component {
 
     newComment({
       variables: {
-        articleId: this.props.url.query.id,
+        slug: this.props.url.query.slug,
         authorName: form.authorName.value,
-        body: form.body.value
+        body: form.body.value,
+        image: form.image.value
       }
     })
 
@@ -71,9 +72,10 @@ class Articles extends Component {
             <Mutation mutation={this.newComment}
               update={(cache, { data: { newComment } }) => {
                 const updatedArticle = Object.assign({}, article, { comments: article.comments.concat([newComment]) })
+
                 cache.writeQuery({
                   query: this.articleQuery,
-                  variables: {id: this.props.url.query.id},
+                  variables: { slug: this.props.url.query.slug },
                   data: { article: updatedArticle }
                 })
               }}>
@@ -82,7 +84,7 @@ class Articles extends Component {
                   {article.comments.map((comment, index) => {
                     return <Comment comment={comment} key={index} />
                   })}
-                  <UserComments mutation={(event) => this.postComment(event, newComment)} />
+                  <UserComments comments={article.comments} mutation={(event) => this.postComment(event, newComment)} />
                 </div>
               }}
             </Mutation>

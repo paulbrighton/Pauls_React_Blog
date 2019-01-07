@@ -23,7 +23,7 @@ class Article extends Component {
           <MarkdownPreview value={article.text} />
         </div>
       </div>
-      <UserComments comments={article.comments} />
+      {/* <UserComments comments={article.comments} /> */}
       <a className='c-user-comments__back-btn'>Back to Article List</a>
     </article>
   }
