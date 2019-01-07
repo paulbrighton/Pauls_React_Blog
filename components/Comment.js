@@ -1,3 +1,4 @@
+// Comment for PR purposes
 import { Component } from 'react'
 
 import moment from 'moment'
