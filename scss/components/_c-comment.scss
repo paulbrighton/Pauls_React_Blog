@@ -1,6 +1,10 @@
 .c-comment {
+  padding-bottom: 15px;
+
   p {
     margin: 5px 0 15px;
+    font-weight: 300;
+    font-size: 1.1em;
   }
 
   &__author {
@@ -9,7 +13,7 @@
     padding: 5px 0 10px;
   
     &-name {
-      font-size: 1.1em;
+      font-size: 1.2em;
       font-weight: 500;
     }
   }
@@ -24,6 +28,5 @@
 
   &__created-date {
     display: block;
-    font-size: 0.9em;
   }
 }

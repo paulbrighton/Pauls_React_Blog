@@ -16,7 +16,7 @@
   &__name-field,
   &__body-text {
     width: 100%;
-    font-size: 0.9em;
+    font-size: 1.1em;
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     border: 0;
@@ -32,6 +32,7 @@
 
   &__body-text {
     padding: 10px 10px 75px;
+    margin-top: 25px;
   }
 
   &__submit-btn {
@@ -46,6 +47,7 @@
     font-size: 1.3em;
     font-weight: 300;
     text-transform: uppercase;
+    outline: none;
 
     &:hover {
       cursor: pointer;

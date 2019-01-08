@@ -1,10 +1,8 @@
 import { Component } from 'react'
-import gql from 'graphql-tag'
 
+import Link from 'next/link'
 import { MarkdownPreview } from 'react-marked-markdown'
 import moment from 'moment'
-
-import UserComments from '../components/UserComments'
 
 class Article extends Component {
   render () {
@@ -23,8 +21,9 @@ class Article extends Component {
           <MarkdownPreview value={article.text} />
         </div>
       </div>
-      <UserComments comments={article.comments} />
-      <a className='c-user-comments__back-btn'>Back to Article List</a>
+      <div class='c-user-comments__articles-link'>
+        <Link href='/'><a className='c-user-comments__back-btn'>Back to Article List</a></Link>
+      </div>
     </article>
   }
 }
