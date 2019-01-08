@@ -18,8 +18,8 @@ class ArticleComment extends Component {
 
   userProfile () {
     return {
-      authorName: localStorage.getItem('name'),
-      image: localStorage.getItem('picture')
+      authorName: localStorage.getItem('authorName'),
+      image: localStorage.getItem('image')
     }
   }
 
