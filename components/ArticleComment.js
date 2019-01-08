@@ -29,7 +29,7 @@ class ArticleComment extends Component {
 
   render () {
     const userProfile = this.userProfile()
-
+    
     if (this.auth.isAuthenticated()) {
       return <div>
         <div className='c-user-comments__info'>

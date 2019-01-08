@@ -7,7 +7,6 @@ import Pluralize from 'react-pluralize'
 class UserComments extends Component {
   render () {
     const { comments } = this.props
-
     return <div className='c-user-comments'>
       <h2 className='c-article__header'>Post a comment!</h2>
       <div className='c-header-divider' />
