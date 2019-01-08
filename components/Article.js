@@ -21,7 +21,7 @@ class Article extends Component {
           <MarkdownPreview value={article.text} />
         </div>
       </div>
-      <div class='c-user-comments__articles-link'>
+      <div className='c-user-comments__articles-link'>
         <Link href='/'><a className='c-user-comments__back-btn'>Back to Article List</a></Link>
       </div>
     </article>
