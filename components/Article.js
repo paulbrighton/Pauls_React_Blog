@@ -7,7 +7,6 @@ import moment from 'moment'
 class Article extends Component {
   render () {
     const { article } = this.props
-    const { click } = this.props
 
     return <article className='o-main-container'>
       <div className='c-article'>
@@ -22,7 +21,9 @@ class Article extends Component {
           <MarkdownPreview value={article.text} />
         </div>
       </div>
-      <Link href='/index'><a className='c-user-comments__back-btn' onClick={click}>Back to Article List</a></Link>
+      <div class='c-user-comments__articles-link'>
+        <Link href='/index'><a className='c-user-comments__back-btn'>Back to Article List</a></Link>
+      </div>
     </article>
   }
 }
