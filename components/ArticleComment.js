@@ -33,7 +33,7 @@ class ArticleComment extends Component {
     if (this.auth.isAuthenticated()) {
       return <div>
         <div className='c-user-comments__info'>
-          <h3 className='c-user-comments__login-message'>Welcome, {userProfile.name}</h3>
+          <h3 className='c-user-comments__login-message'>Welcome, {userProfile.authorName}</h3>
           <a className='c-user-comments__login-btn' onClick={this.logout}>Logout</a>
         </div>
         <CommentForm postComment={this.props.postComment} userProfile={userProfile} />
