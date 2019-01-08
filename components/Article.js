@@ -22,7 +22,7 @@ class Article extends Component {
         </div>
       </div>
       <div class='c-user-comments__articles-link'>
-        <Link href='/index'><a className='c-user-comments__back-btn'>Back to Article List</a></Link>
+        <Link href='/'><a className='c-user-comments__back-btn'>Back to Article List</a></Link>
       </div>
     </article>
   }
