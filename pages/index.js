@@ -38,7 +38,7 @@ class Index extends Component {
             <main>
               <HomeIntro />
               <FeaturedArticle article={articles[0]} />
-              <LatestArticles articles={articles} />
+              <LatestArticles articles={articles.reverse()} />
             </main>
           </Layout>
         }

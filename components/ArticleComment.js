@@ -18,7 +18,8 @@ class ArticleComment extends Component {
 
   userProfile () {
     return {
-      name: localStorage.getItem('name')
+      authorName: localStorage.getItem('authorName'),
+      image: localStorage.getItem('image')
     }
   }
 
@@ -28,13 +29,14 @@ class ArticleComment extends Component {
 
   render () {
     const userProfile = this.userProfile()
+
     if (this.auth.isAuthenticated()) {
       return <div>
         <div className='c-user-comments__info'>
           <h3 className='c-user-comments__login-message'>Welcome, {userProfile.name}</h3>
           <a className='c-user-comments__login-btn' onClick={this.logout}>Logout</a>
         </div>
-        <CommentForm />
+        <CommentForm postComment={this.props.postComment} userProfile={userProfile} />
       </div>
     } else {
       return <div className='c-user-comments__info'>
