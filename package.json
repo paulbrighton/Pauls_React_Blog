@@ -46,9 +46,10 @@
     "webpack": "^4.26.1"
   },
   "scripts": {
+    "heroku-postbuild": "next build",
     "dev": "node server.js",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js",
+    "start": "NODE_ENV=production next start -p $PORT",
     "test": "jest"
   }
 }
