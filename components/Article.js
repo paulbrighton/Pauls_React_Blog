@@ -15,7 +15,7 @@ class Article extends Component {
         <h3 className='c-article__author'>Article by: {article.author}</h3>
         <time className='c-article__published'><p>Published on: {moment(article.createdAt).format('ll')}</p></time>
         <figure>
-          <img className='c-article__main-img' src={`http://localhost:3001${article.image}`} />
+          <img className='c-article__main-img' src={`https://pauls-blog.herokuapp.com/${article.image}`} />
         </figure>
         <div className='c-article__text'>
           <MarkdownPreview value={article.text} />
