@@ -11,7 +11,7 @@ class ArticlePreview extends Component {
         <a href='#' className='c-article__path'>
           <div className='c-article-preview'>
             <figure>
-              <img className='c-article-preview__image' src={`http://localhost:3001${article.image}`} />
+              <img className='c-article-preview__image' src={`https://pauls-blog.herokuapp.com/${article.image}`} />
             </figure>
             <div className='c-article-preview__text'>
               <h3>{article.title}</h3>
