@@ -21,13 +21,13 @@ class Portfolio extends Component {
         <h2>Rock, Paper, Scissors</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='http://paulbrighton.com/rock-paper-scissors/'>
+          <a href='https://paper-scissors-stone.herokuapp.com/'>
             <img src='/static/images/rock.png' alt='An animated rock' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>After completing the HTML and CSS part of the ProCoders course, I moved on to learning JavaScript and my first project was to build a Rock, Paper, Scissors game.</p>
             <p>This includes clickable images and a score board that updates and lets the player know whether they have won the game or lost to the computer, it will then ask the player if they want to play again.</p>
-            <p>Interested? You can play the <a href='http://paulbrighton.com/rock-paper-scissors/' className='c-portfolio-project__link'>Rock, Paper, Scissors game using this link</a> or clicking on the image above.</p>
+            <p>Interested? You can play the <a href='https://paper-scissors-stone.herokuapp.com/' className='c-portfolio-project__link'>Rock, Paper, Scissors game using this link</a> or clicking on the image above.</p>
           </div>
         </div>
 
@@ -73,26 +73,26 @@ class Portfolio extends Component {
         <h2>Gnomegeddon</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='http://paulbrighton.com/fed/gnomegeddon/'>
+          <a href='https://gnomegeddon.herokuapp.com/'>
             <img src='/static/images/gnomegeddon.png' alt='The Gnomegeddon logo' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>My final assignment at university was to design, market and build a website for a game called Gnomegeddon made by the game design students at the university centre.</p>
             <p>This was an improvement on my first website due to it being responsive and including things like a full screen video header, a dropdown navigation menu and it was designed as a single page website due to the amount of content that was available.</p>
-            <p>Checkout the <a href='http://paulbrighton.com/fed/gnomegeddon/' className='c-portfolio-project__link'>Gnomegeddon website</a> or download and play it for free, courtesy of <a href='https://angrydwarfstudios.itch.io/gnomegeddon-war-of-the-gardens' className='c-portfolio-project__link'>Angry Dwarf Studios</a>.</p>
+            <p>Checkout the <a href='https://gnomegeddon.herokuapp.com/' className='c-portfolio-project__link'>Gnomegeddon website</a> or download and play it for free, courtesy of <a href='https://angrydwarfstudios.itch.io/gnomegeddon-war-of-the-gardens' className='c-portfolio-project__link'>Angry Dwarf Studios</a>.</p>
           </div>
         </div>
 
         <h2>Abandoned Container</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='http://paulbrighton.com/fed/'>
+          <a href='https://abandoned-container.herokuapp.com/'>
             <img src='/static/images/container.jpg' alt='A shipping container' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>My first assignment at the University Centre at Wakefield College was to build a website for an inanimate object within 500 metres of my home.</p>
             <p>The website was based on a shipping container and was the first full website that I have built, it was only a fixed width site but provided me with the basic HTML and CSS skills that I would need in the future.</p>
-            <p><a href='http://paulbrighton.com/fed/' className='c-portfolio-project__link'>The Abandonded Container</a> website is still available to view online.</p>
+            <p><a href='https://abandoned-container.herokuapp.com/' className='c-portfolio-project__link'>The Abandonded Container</a> website is still available to view online.</p>
           </div>
         </div>
 
