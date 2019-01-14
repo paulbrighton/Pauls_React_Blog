@@ -6,8 +6,8 @@ class ContactForm extends Component {
     event.preventDefault()
     const form = event.target
     const formData = {
-      From: 'paul@paulbrighton.com',
-      To: 'paul@paulbrighton.com',
+      From: 'pbrighton@paulbrighton.com',
+      To: 'pbrighton@paulbrighton.com',
       ReplyTo: form.email.value,
       HtmlBody: form.body.value,
       Name: form.name.value
