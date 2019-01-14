@@ -47,8 +47,8 @@ app.prepare()
 
       client.sendEmail(
         {
-          From: 'paul@paulbrighton.com',
-          To: 'paul@paulbrighton.com',
+          From: 'pbrighton@paulbrighton.com',
+          To: 'pbrighton@paulbrighton.com',
           Subject: req.body.Name,
           HtmlBody: req.body.HtmlBody,
           ReplyTo: req.body.ReplyTo
