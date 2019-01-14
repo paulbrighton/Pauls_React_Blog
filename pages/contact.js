@@ -17,8 +17,8 @@ class Contact extends Component {
           <ul>
             <li><a href='https://twitter.com/paulbrighton_'>Twitter</a></li>
             <li><a href='https://www.facebook.com/paul.brighton.10'>Facebook</a></li>
-            <li><a href='https://www.linkedin.com/in/paulbrighton/'>Pinterest</a></li>
-            <li><a href='https://www.pinterest.co.uk/paulbrightonfda/'>LinkedIn</a></li>
+            <li><a href='https://www.pinterest.co.uk/paulbrightonfda/'>Pinterest</a></li>
+            <li><a href='https://www.linkedin.com/in/paulbrighton/'>LinkedIn</a></li>
           </ul>
         </section>
         <ContactForm />

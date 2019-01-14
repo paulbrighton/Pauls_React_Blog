@@ -24,7 +24,7 @@ ShallowWrapper {
           <ul
             className="c-footer__nav"
           >
-            <NavListItems />
+            <MainNav />
           </ul>
         </nav>
         <div
@@ -139,7 +139,7 @@ ShallowWrapper {
             <ul
               className="c-footer__nav"
             >
-              <NavListItems />
+              <MainNav />
             </ul>
           </nav>,
           <div
@@ -253,7 +253,7 @@ ShallowWrapper {
             "children": <ul
               className="c-footer__nav"
             >
-              <NavListItems />
+              <MainNav />
             </ul>,
           },
           "ref": null,
@@ -262,7 +262,7 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": <NavListItems />,
+              "children": <MainNav />,
               "className": "c-footer__nav",
             },
             "ref": null,
@@ -757,7 +757,7 @@ ShallowWrapper {
             <ul
               className="c-footer__nav"
             >
-              <NavListItems />
+              <MainNav />
             </ul>
           </nav>
           <div
@@ -872,7 +872,7 @@ ShallowWrapper {
               <ul
                 className="c-footer__nav"
               >
-                <NavListItems />
+                <MainNav />
               </ul>
             </nav>,
             <div
@@ -986,7 +986,7 @@ ShallowWrapper {
               "children": <ul
                 className="c-footer__nav"
               >
-                <NavListItems />
+                <MainNav />
               </ul>,
             },
             "ref": null,
@@ -995,7 +995,7 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": <NavListItems />,
+                "children": <MainNav />,
                 "className": "c-footer__nav",
               },
               "ref": null,

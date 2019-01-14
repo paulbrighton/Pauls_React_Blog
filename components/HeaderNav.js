@@ -1,6 +1,7 @@
 import { Component } from 'react'
 
-import NavListItems from './NavListItems'
+import HamburgerNav from './HamburgerNav'
+import MainNav from './MainNav'
 
 class HeaderNav extends Component {
   constructor (props) {
@@ -34,14 +35,14 @@ class HeaderNav extends Component {
         <div style={this.state.styles} className='c-overlay'>
           <a href='#' className='c-closebtn' onClick={this.toggleMenu}>&times;</a>
           <div className='c-overlay-content'>
-            <NavListItems click={this.toggleMenu} />
+            <HamburgerNav click={this.toggleMenu} />
           </div>
         </div>
         <span className='c-hamburger-nav' onClick={this.toggleMenu}>&#9776;</span>
       </nav>
       <nav className='c-main-nav'>
         <ul>
-          <NavListItems click={this.toggleMenu} />
+          <MainNav />
         </ul>
       </nav>
     </div>
