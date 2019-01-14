@@ -1,9 +1,9 @@
-import NavListItems from '../../components/NavListItems'
+import MainNav from '../../components/MainNav'
 
-describe('<NavListItems />', () => {
+describe('<MainNav />', () => {
   it('it renders correctly', () => {
     const component = shallow(
-      <NavListItems />
+      <MainNav />
     )
 
     expect(component).toMatchSnapshot()

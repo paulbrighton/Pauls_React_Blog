@@ -1,9 +1,9 @@
-import Comments from '../../components/Comments'
+import HamburgerNav from '../../components/HamburgerNav'
 
-describe('<Comments />', () => {
+describe('<HamburgerNav />', () => {
   it('it renders correctly', () => {
     const component = shallow(
-      <Comments />
+      <HamburgerNav />
     )
 
     expect(component).toMatchSnapshot()

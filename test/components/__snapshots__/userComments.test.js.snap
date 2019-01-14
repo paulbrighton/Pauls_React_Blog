@@ -38,7 +38,9 @@ ShallowWrapper {
         <div
           className="c-header-divider"
         />,
-        <ArticleComment />,
+        <ArticleComment
+          postComment={undefined}
+        />,
         <h4
           className="c-user-comments__counter"
         >
@@ -52,19 +54,6 @@ ShallowWrapper {
             zero={null}
           />
         </h4>,
-        Array [
-          <Comment
-            comment={
-              Object {
-                "authorName": "authorName",
-                "body": "This is a commment!",
-                "createdAt": "2018-12-12 10:20:46 UTC",
-                "id": "ID",
-                "slug": "Title",
-              }
-            }
-          />,
-        ],
       ],
       "className": "c-user-comments",
     },
@@ -97,7 +86,9 @@ ShallowWrapper {
         "instance": null,
         "key": undefined,
         "nodeType": "class",
-        "props": Object {},
+        "props": Object {
+          "postComment": undefined,
+        },
         "ref": null,
         "rendered": null,
         "type": [Function],
@@ -138,23 +129,6 @@ ShallowWrapper {
         },
         "type": "h4",
       },
-      Object {
-        "instance": null,
-        "key": "ID",
-        "nodeType": "class",
-        "props": Object {
-          "comment": Object {
-            "authorName": "authorName",
-            "body": "This is a commment!",
-            "createdAt": "2018-12-12 10:20:46 UTC",
-            "id": "ID",
-            "slug": "Title",
-          },
-        },
-        "ref": null,
-        "rendered": null,
-        "type": [Function],
-      },
     ],
     "type": "div",
   },
@@ -173,7 +147,9 @@ ShallowWrapper {
           <div
             className="c-header-divider"
           />,
-          <ArticleComment />,
+          <ArticleComment
+            postComment={undefined}
+          />,
           <h4
             className="c-user-comments__counter"
           >
@@ -187,19 +163,6 @@ ShallowWrapper {
               zero={null}
             />
           </h4>,
-          Array [
-            <Comment
-              comment={
-                Object {
-                  "authorName": "authorName",
-                  "body": "This is a commment!",
-                  "createdAt": "2018-12-12 10:20:46 UTC",
-                  "id": "ID",
-                  "slug": "Title",
-                }
-              }
-            />,
-          ],
         ],
         "className": "c-user-comments",
       },
@@ -232,7 +195,9 @@ ShallowWrapper {
           "instance": null,
           "key": undefined,
           "nodeType": "class",
-          "props": Object {},
+          "props": Object {
+            "postComment": undefined,
+          },
           "ref": null,
           "rendered": null,
           "type": [Function],
@@ -272,23 +237,6 @@ ShallowWrapper {
             "type": [Function],
           },
           "type": "h4",
-        },
-        Object {
-          "instance": null,
-          "key": "ID",
-          "nodeType": "class",
-          "props": Object {
-            "comment": Object {
-              "authorName": "authorName",
-              "body": "This is a commment!",
-              "createdAt": "2018-12-12 10:20:46 UTC",
-              "id": "ID",
-              "slug": "Title",
-            },
-          },
-          "ref": null,
-          "rendered": null,
-          "type": [Function],
         },
       ],
       "type": "div",
@@ -342,7 +290,9 @@ ShallowWrapper {
         <div
           className="c-header-divider"
         />,
-        <ArticleComment />,
+        <ArticleComment
+          postComment={undefined}
+        />,
         <h4
           className="c-user-comments__counter"
         >
@@ -356,7 +306,6 @@ ShallowWrapper {
             zero={null}
           />
         </h4>,
-        Array [],
       ],
       "className": "c-user-comments",
     },
@@ -389,7 +338,9 @@ ShallowWrapper {
         "instance": null,
         "key": undefined,
         "nodeType": "class",
-        "props": Object {},
+        "props": Object {
+          "postComment": undefined,
+        },
         "ref": null,
         "rendered": null,
         "type": [Function],
@@ -448,7 +399,9 @@ ShallowWrapper {
           <div
             className="c-header-divider"
           />,
-          <ArticleComment />,
+          <ArticleComment
+            postComment={undefined}
+          />,
           <h4
             className="c-user-comments__counter"
           >
@@ -462,7 +415,6 @@ ShallowWrapper {
               zero={null}
             />
           </h4>,
-          Array [],
         ],
         "className": "c-user-comments",
       },
@@ -495,7 +447,9 @@ ShallowWrapper {
           "instance": null,
           "key": undefined,
           "nodeType": "class",
-          "props": Object {},
+          "props": Object {
+            "postComment": undefined,
+          },
           "ref": null,
           "rendered": null,
           "type": [Function],

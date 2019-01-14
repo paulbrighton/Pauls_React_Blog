@@ -7,9 +7,7 @@ class HomeIntro extends Component {
         <h1 className='c-headers'>Paul Brighton Web Development</h1>
         <div className='c-headers__divider' />
         <figure>
-          <a href='https://twitter.com/paulbrighton_'>
-            <img src='/static/images/welcome_image.jpg' className='c-intro__img' alt='An HTML illustration' />
-          </a>
+          <img src='/static/images/welcome_image.jpg' className='c-intro__img' alt='An HTML illustration' />
         </figure>
         <div className='c-intro__text'>
           <p>Welcome to my blog all about my journey from photographer to web developer. Not only will it cover up to date web development practices but also some useful information on search engine optimization and a little web design.</p>

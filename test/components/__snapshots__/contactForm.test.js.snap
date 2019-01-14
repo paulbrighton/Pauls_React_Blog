@@ -25,7 +25,9 @@ ShallowWrapper {
           Fill in the contact form and I'll get back to you as soon as possible.
         </p>,
         <fieldset>
-          <form>
+          <form
+            onSubmit={[Function]}
+          >
             <input
               className="contact-form__input--short"
               name="name"
@@ -44,6 +46,7 @@ ShallowWrapper {
               className="contact-form__input--tall"
               name="body"
               placeholder="Enter message here."
+              required={true}
             />
             <input
               className="contact-form__btn"
@@ -84,7 +87,9 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "host",
         "props": Object {
-          "children": <form>
+          "children": <form
+            onSubmit={[Function]}
+          >
             <input
               className="contact-form__input--short"
               name="name"
@@ -103,6 +108,7 @@ ShallowWrapper {
               className="contact-form__input--tall"
               name="body"
               placeholder="Enter message here."
+              required={true}
             />
             <input
               className="contact-form__btn"
@@ -136,6 +142,7 @@ ShallowWrapper {
                 className="contact-form__input--tall"
                 name="body"
                 placeholder="Enter message here."
+                required={true}
               />,
               <input
                 className="contact-form__btn"
@@ -143,6 +150,7 @@ ShallowWrapper {
                 value="Send"
               />,
             ],
+            "onSubmit": [Function],
           },
           "ref": null,
           "rendered": Array [
@@ -184,6 +192,7 @@ ShallowWrapper {
                 "className": "contact-form__input--tall",
                 "name": "body",
                 "placeholder": "Enter message here.",
+                "required": true,
               },
               "ref": null,
               "rendered": null,
@@ -224,7 +233,9 @@ ShallowWrapper {
             Fill in the contact form and I'll get back to you as soon as possible.
           </p>,
           <fieldset>
-            <form>
+            <form
+              onSubmit={[Function]}
+            >
               <input
                 className="contact-form__input--short"
                 name="name"
@@ -243,6 +254,7 @@ ShallowWrapper {
                 className="contact-form__input--tall"
                 name="body"
                 placeholder="Enter message here."
+                required={true}
               />
               <input
                 className="contact-form__btn"
@@ -283,7 +295,9 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": <form>
+            "children": <form
+              onSubmit={[Function]}
+            >
               <input
                 className="contact-form__input--short"
                 name="name"
@@ -302,6 +316,7 @@ ShallowWrapper {
                 className="contact-form__input--tall"
                 name="body"
                 placeholder="Enter message here."
+                required={true}
               />
               <input
                 className="contact-form__btn"
@@ -335,6 +350,7 @@ ShallowWrapper {
                   className="contact-form__input--tall"
                   name="body"
                   placeholder="Enter message here."
+                  required={true}
                 />,
                 <input
                   className="contact-form__btn"
@@ -342,6 +358,7 @@ ShallowWrapper {
                   value="Send"
                 />,
               ],
+              "onSubmit": [Function],
             },
             "ref": null,
             "rendered": Array [
@@ -383,6 +400,7 @@ ShallowWrapper {
                   "className": "contact-form__input--tall",
                   "name": "body",
                   "placeholder": "Enter message here.",
+                  "required": true,
                 },
                 "ref": null,
                 "rendered": null,

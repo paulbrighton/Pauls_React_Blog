@@ -19,6 +19,13 @@ ShallowWrapper {
     "props": Object {
       "children": Array [
         <SideEffect(Head)>
+          <title>
+            Paul Brighton's Web Development Blog
+          </title>
+          <meta
+            content="A blog by Paul Brighton all about web development. It includes articles about HTML, CSS, JavaScript and Ruby on Rails plus other tips on web design and developing."
+            name="description"
+          />
           <meta
             content="width=device-width, initial-scale=1"
             name="viewport"
@@ -37,24 +44,58 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "class",
         "props": Object {
-          "children": <meta
-            content="width=device-width, initial-scale=1"
-            name="viewport"
-          />,
+          "children": Array [
+            <title>
+              Paul Brighton's Web Development Blog
+            </title>,
+            <meta
+              content="A blog by Paul Brighton all about web development. It includes articles about HTML, CSS, JavaScript and Ruby on Rails plus other tips on web design and developing."
+              name="description"
+            />,
+            <meta
+              content="width=device-width, initial-scale=1"
+              name="viewport"
+            />,
+          ],
         },
         "ref": null,
-        "rendered": Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "content": "width=device-width, initial-scale=1",
-            "name": "viewport",
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Paul Brighton's Web Development Blog",
+            },
+            "ref": null,
+            "rendered": "Paul Brighton's Web Development Blog",
+            "type": "title",
           },
-          "ref": null,
-          "rendered": null,
-          "type": "meta",
-        },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "content": "A blog by Paul Brighton all about web development. It includes articles about HTML, CSS, JavaScript and Ruby on Rails plus other tips on web design and developing.",
+              "name": "description",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": "meta",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "content": "width=device-width, initial-scale=1",
+              "name": "viewport",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": "meta",
+          },
+        ],
         "type": [Function],
       },
       Object {
@@ -87,6 +128,13 @@ ShallowWrapper {
       "props": Object {
         "children": Array [
           <SideEffect(Head)>
+            <title>
+              Paul Brighton's Web Development Blog
+            </title>
+            <meta
+              content="A blog by Paul Brighton all about web development. It includes articles about HTML, CSS, JavaScript and Ruby on Rails plus other tips on web design and developing."
+              name="description"
+            />
             <meta
               content="width=device-width, initial-scale=1"
               name="viewport"
@@ -105,24 +153,58 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "children": <meta
-              content="width=device-width, initial-scale=1"
-              name="viewport"
-            />,
+            "children": Array [
+              <title>
+                Paul Brighton's Web Development Blog
+              </title>,
+              <meta
+                content="A blog by Paul Brighton all about web development. It includes articles about HTML, CSS, JavaScript and Ruby on Rails plus other tips on web design and developing."
+                name="description"
+              />,
+              <meta
+                content="width=device-width, initial-scale=1"
+                name="viewport"
+              />,
+            ],
           },
           "ref": null,
-          "rendered": Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "content": "width=device-width, initial-scale=1",
-              "name": "viewport",
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Paul Brighton's Web Development Blog",
+              },
+              "ref": null,
+              "rendered": "Paul Brighton's Web Development Blog",
+              "type": "title",
             },
-            "ref": null,
-            "rendered": null,
-            "type": "meta",
-          },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "content": "A blog by Paul Brighton all about web development. It includes articles about HTML, CSS, JavaScript and Ruby on Rails plus other tips on web design and developing.",
+                "name": "description",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "meta",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "content": "width=device-width, initial-scale=1",
+                "name": "viewport",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "meta",
+            },
+          ],
           "type": [Function],
         },
         Object {
