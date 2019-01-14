@@ -1,6 +1,6 @@
 import { Component } from 'react'
 
-import NavListItems from './NavListItems'
+import MainNav from './MainNav'
 
 class Footer extends Component {
   render () {
@@ -8,7 +8,7 @@ class Footer extends Component {
       <div className='o-footer__container'>
         <nav>
           <ul className='c-footer__nav'>
-            <NavListItems />
+            <MainNav />
           </ul>
         </nav>
         <div className='c-social'>
