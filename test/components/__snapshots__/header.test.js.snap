@@ -22,7 +22,7 @@ ShallowWrapper {
           className="o-header__container"
         >
           <Link
-            href="/index"
+            href="/"
           >
             <a>
               <img
@@ -36,7 +36,12 @@ ShallowWrapper {
             className="c-subscribe-form"
           >
             <form
+              action="https://twitter.us17.list-manage.com/subscribe/post?u=5e14f42c2626123e850bb543f&id=5dd22b22a9"
               className="c-subscribe-form__container"
+              method="post"
+              name="mc-embedded-subscribe-form"
+              noValidate={true}
+              target="_blank"
             >
               <input
                 className="c-subscribe-form__input"
@@ -44,7 +49,6 @@ ShallowWrapper {
                 name="EMAIL"
                 placeholder="Email"
                 type="email"
-                value="Email"
               />
               <input
                 className="c-subscribe-form__btn"
@@ -68,7 +72,7 @@ ShallowWrapper {
         "props": Object {
           "children": Array [
             <Link
-              href="/index"
+              href="/"
             >
               <a>
                 <img
@@ -82,7 +86,12 @@ ShallowWrapper {
               className="c-subscribe-form"
             >
               <form
+                action="https://twitter.us17.list-manage.com/subscribe/post?u=5e14f42c2626123e850bb543f&id=5dd22b22a9"
                 className="c-subscribe-form__container"
+                method="post"
+                name="mc-embedded-subscribe-form"
+                noValidate={true}
+                target="_blank"
               >
                 <input
                   className="c-subscribe-form__input"
@@ -90,7 +99,6 @@ ShallowWrapper {
                   name="EMAIL"
                   placeholder="Email"
                   type="email"
-                  value="Email"
                 />
                 <input
                   className="c-subscribe-form__btn"
@@ -117,7 +125,7 @@ ShallowWrapper {
                   src="/static/images/logo.png"
                 />
               </a>,
-              "href": "/index",
+              "href": "/",
             },
             "ref": null,
             "rendered": Object {
@@ -155,7 +163,12 @@ ShallowWrapper {
             "nodeType": "host",
             "props": Object {
               "children": <form
+                action="https://twitter.us17.list-manage.com/subscribe/post?u=5e14f42c2626123e850bb543f&id=5dd22b22a9"
                 className="c-subscribe-form__container"
+                method="post"
+                name="mc-embedded-subscribe-form"
+                noValidate={true}
+                target="_blank"
               >
                 <input
                   className="c-subscribe-form__input"
@@ -163,7 +176,6 @@ ShallowWrapper {
                   name="EMAIL"
                   placeholder="Email"
                   type="email"
-                  value="Email"
                 />
                 <input
                   className="c-subscribe-form__btn"
@@ -180,6 +192,7 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
+                "action": "https://twitter.us17.list-manage.com/subscribe/post?u=5e14f42c2626123e850bb543f&id=5dd22b22a9",
                 "children": Array [
                   <input
                     className="c-subscribe-form__input"
@@ -187,7 +200,6 @@ ShallowWrapper {
                     name="EMAIL"
                     placeholder="Email"
                     type="email"
-                    value="Email"
                   />,
                   <input
                     className="c-subscribe-form__btn"
@@ -197,6 +209,10 @@ ShallowWrapper {
                   />,
                 ],
                 "className": "c-subscribe-form__container",
+                "method": "post",
+                "name": "mc-embedded-subscribe-form",
+                "noValidate": true,
+                "target": "_blank",
               },
               "ref": null,
               "rendered": Array [
@@ -210,7 +226,6 @@ ShallowWrapper {
                     "name": "EMAIL",
                     "placeholder": "Email",
                     "type": "email",
-                    "value": "Email",
                   },
                   "ref": null,
                   "rendered": null,
@@ -261,7 +276,7 @@ ShallowWrapper {
             className="o-header__container"
           >
             <Link
-              href="/index"
+              href="/"
             >
               <a>
                 <img
@@ -275,7 +290,12 @@ ShallowWrapper {
               className="c-subscribe-form"
             >
               <form
+                action="https://twitter.us17.list-manage.com/subscribe/post?u=5e14f42c2626123e850bb543f&id=5dd22b22a9"
                 className="c-subscribe-form__container"
+                method="post"
+                name="mc-embedded-subscribe-form"
+                noValidate={true}
+                target="_blank"
               >
                 <input
                   className="c-subscribe-form__input"
@@ -283,7 +303,6 @@ ShallowWrapper {
                   name="EMAIL"
                   placeholder="Email"
                   type="email"
-                  value="Email"
                 />
                 <input
                   className="c-subscribe-form__btn"
@@ -307,7 +326,7 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               <Link
-                href="/index"
+                href="/"
               >
                 <a>
                   <img
@@ -321,7 +340,12 @@ ShallowWrapper {
                 className="c-subscribe-form"
               >
                 <form
+                  action="https://twitter.us17.list-manage.com/subscribe/post?u=5e14f42c2626123e850bb543f&id=5dd22b22a9"
                   className="c-subscribe-form__container"
+                  method="post"
+                  name="mc-embedded-subscribe-form"
+                  noValidate={true}
+                  target="_blank"
                 >
                   <input
                     className="c-subscribe-form__input"
@@ -329,7 +353,6 @@ ShallowWrapper {
                     name="EMAIL"
                     placeholder="Email"
                     type="email"
-                    value="Email"
                   />
                   <input
                     className="c-subscribe-form__btn"
@@ -356,7 +379,7 @@ ShallowWrapper {
                     src="/static/images/logo.png"
                   />
                 </a>,
-                "href": "/index",
+                "href": "/",
               },
               "ref": null,
               "rendered": Object {
@@ -394,7 +417,12 @@ ShallowWrapper {
               "nodeType": "host",
               "props": Object {
                 "children": <form
+                  action="https://twitter.us17.list-manage.com/subscribe/post?u=5e14f42c2626123e850bb543f&id=5dd22b22a9"
                   className="c-subscribe-form__container"
+                  method="post"
+                  name="mc-embedded-subscribe-form"
+                  noValidate={true}
+                  target="_blank"
                 >
                   <input
                     className="c-subscribe-form__input"
@@ -402,7 +430,6 @@ ShallowWrapper {
                     name="EMAIL"
                     placeholder="Email"
                     type="email"
-                    value="Email"
                   />
                   <input
                     className="c-subscribe-form__btn"
@@ -419,6 +446,7 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "host",
                 "props": Object {
+                  "action": "https://twitter.us17.list-manage.com/subscribe/post?u=5e14f42c2626123e850bb543f&id=5dd22b22a9",
                   "children": Array [
                     <input
                       className="c-subscribe-form__input"
@@ -426,7 +454,6 @@ ShallowWrapper {
                       name="EMAIL"
                       placeholder="Email"
                       type="email"
-                      value="Email"
                     />,
                     <input
                       className="c-subscribe-form__btn"
@@ -436,6 +463,10 @@ ShallowWrapper {
                     />,
                   ],
                   "className": "c-subscribe-form__container",
+                  "method": "post",
+                  "name": "mc-embedded-subscribe-form",
+                  "noValidate": true,
+                  "target": "_blank",
                 },
                 "ref": null,
                 "rendered": Array [
@@ -449,7 +480,6 @@ ShallowWrapper {
                       "name": "EMAIL",
                       "placeholder": "Email",
                       "type": "email",
-                      "value": "Email",
                     },
                     "ref": null,
                     "rendered": null,

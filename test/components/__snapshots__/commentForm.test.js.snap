@@ -3,7 +3,9 @@
 exports[`<CommentForm /> it renders correctly 1`] = `
 ShallowWrapper {
   Symbol(enzyme.__root__): [Circular],
-  Symbol(enzyme.__unrendered__): <CommentForm />,
+  Symbol(enzyme.__unrendered__): <CommentForm
+    userProfile="Paul"
+  />,
   Symbol(enzyme.__renderer__): Object {
     "batchedUpdates": [Function],
     "getNode": [Function],
@@ -17,28 +19,25 @@ ShallowWrapper {
     "key": undefined,
     "nodeType": "host",
     "props": Object {
-      "children": <form>
-        <label
-          className="c-comments-form__name-label"
-        >
-          Display Name
-        </label>
+      "children": <form
+        onSubmit={undefined}
+      >
         <input
-          className="c-comments-form__name-field"
-          placeholder="Add your name here"
-          required={true}
-          type="text"
+          name="authorName"
+          type="hidden"
+          value={undefined}
         />
-        <label
-          className="c-comments-form__body-label"
-        >
-          Comment
-        </label>
         <input
           className="c-comments-form__body-text"
+          name="body"
           placeholder="Add your comment here"
           required={true}
           type="text"
+        />
+        <input
+          name="image"
+          type="hidden"
+          value={undefined}
         />
         <input
           className="c-comments-form__submit-btn"
@@ -55,27 +54,22 @@ ShallowWrapper {
       "nodeType": "host",
       "props": Object {
         "children": Array [
-          <label
-            className="c-comments-form__name-label"
-          >
-            Display Name
-          </label>,
           <input
-            className="c-comments-form__name-field"
-            placeholder="Add your name here"
-            required={true}
-            type="text"
+            name="authorName"
+            type="hidden"
+            value={undefined}
           />,
-          <label
-            className="c-comments-form__body-label"
-          >
-            Comment
-          </label>,
           <input
             className="c-comments-form__body-text"
+            name="body"
             placeholder="Add your comment here"
             required={true}
             type="text"
+          />,
+          <input
+            name="image"
+            type="hidden"
+            value={undefined}
           />,
           <input
             className="c-comments-form__submit-btn"
@@ -83,6 +77,7 @@ ShallowWrapper {
             value="Post"
           />,
         ],
+        "onSubmit": undefined,
       },
       "ref": null,
       "rendered": Array [
@@ -91,20 +86,22 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": "Display Name",
-            "className": "c-comments-form__name-label",
+            "name": "authorName",
+            "type": "hidden",
+            "value": undefined,
           },
           "ref": null,
-          "rendered": "Display Name",
-          "type": "label",
+          "rendered": null,
+          "type": "input",
         },
         Object {
           "instance": null,
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "className": "c-comments-form__name-field",
-            "placeholder": "Add your name here",
+            "className": "c-comments-form__body-text",
+            "name": "body",
+            "placeholder": "Add your comment here",
             "required": true,
             "type": "text",
           },
@@ -117,22 +114,9 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": "Comment",
-            "className": "c-comments-form__body-label",
-          },
-          "ref": null,
-          "rendered": "Comment",
-          "type": "label",
-        },
-        Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "className": "c-comments-form__body-text",
-            "placeholder": "Add your comment here",
-            "required": true,
-            "type": "text",
+            "name": "image",
+            "type": "hidden",
+            "value": undefined,
           },
           "ref": null,
           "rendered": null,
@@ -162,28 +146,25 @@ ShallowWrapper {
       "key": undefined,
       "nodeType": "host",
       "props": Object {
-        "children": <form>
-          <label
-            className="c-comments-form__name-label"
-          >
-            Display Name
-          </label>
+        "children": <form
+          onSubmit={undefined}
+        >
           <input
-            className="c-comments-form__name-field"
-            placeholder="Add your name here"
-            required={true}
-            type="text"
+            name="authorName"
+            type="hidden"
+            value={undefined}
           />
-          <label
-            className="c-comments-form__body-label"
-          >
-            Comment
-          </label>
           <input
             className="c-comments-form__body-text"
+            name="body"
             placeholder="Add your comment here"
             required={true}
             type="text"
+          />
+          <input
+            name="image"
+            type="hidden"
+            value={undefined}
           />
           <input
             className="c-comments-form__submit-btn"
@@ -200,27 +181,22 @@ ShallowWrapper {
         "nodeType": "host",
         "props": Object {
           "children": Array [
-            <label
-              className="c-comments-form__name-label"
-            >
-              Display Name
-            </label>,
             <input
-              className="c-comments-form__name-field"
-              placeholder="Add your name here"
-              required={true}
-              type="text"
+              name="authorName"
+              type="hidden"
+              value={undefined}
             />,
-            <label
-              className="c-comments-form__body-label"
-            >
-              Comment
-            </label>,
             <input
               className="c-comments-form__body-text"
+              name="body"
               placeholder="Add your comment here"
               required={true}
               type="text"
+            />,
+            <input
+              name="image"
+              type="hidden"
+              value={undefined}
             />,
             <input
               className="c-comments-form__submit-btn"
@@ -228,6 +204,7 @@ ShallowWrapper {
               value="Post"
             />,
           ],
+          "onSubmit": undefined,
         },
         "ref": null,
         "rendered": Array [
@@ -236,20 +213,22 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Display Name",
-              "className": "c-comments-form__name-label",
+              "name": "authorName",
+              "type": "hidden",
+              "value": undefined,
             },
             "ref": null,
-            "rendered": "Display Name",
-            "type": "label",
+            "rendered": null,
+            "type": "input",
           },
           Object {
             "instance": null,
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "className": "c-comments-form__name-field",
-              "placeholder": "Add your name here",
+              "className": "c-comments-form__body-text",
+              "name": "body",
+              "placeholder": "Add your comment here",
               "required": true,
               "type": "text",
             },
@@ -262,22 +241,9 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Comment",
-              "className": "c-comments-form__body-label",
-            },
-            "ref": null,
-            "rendered": "Comment",
-            "type": "label",
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "className": "c-comments-form__body-text",
-              "placeholder": "Add your comment here",
-              "required": true,
-              "type": "text",
+              "name": "image",
+              "type": "hidden",
+              "value": undefined,
             },
             "ref": null,
             "rendered": null,
