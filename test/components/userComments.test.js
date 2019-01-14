@@ -1,4 +1,5 @@
 import UserComments from '../../components/UserComments'
+import ArticleComment from '../../components/ArticleComment'
 
 describe('<UserComments  />', () => {
   it('it renders correctly', () => {
@@ -9,8 +10,20 @@ describe('<UserComments  />', () => {
       authorName: 'authorName',
       body: 'This is a commment!'
     }]
+
+    const postComment = [{
+      id: 'ID',
+      slug: 'Title',
+      createdAt: '2018-12-12 10:20:46 UTC',
+      authorName: 'authorName',
+      body: 'This is a commment!'
+    }]
+
     const component = shallow(
-      <UserComments comments={comments} />
+      <div>
+        <UserComments comments={comments} />
+        <ArticleComment postComment={postComment} />
+      </div>
     )
 
     expect(component).toMatchSnapshot()
