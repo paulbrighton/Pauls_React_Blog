@@ -24,8 +24,6 @@ ShallowWrapper {
             "authorName": "authorName",
             "body": "This is a commment!",
             "createdAt": "2018-12-12 10:20:46 UTC",
-            "id": "ID",
-            "slug": "Title",
           },
         ]
       }
@@ -65,8 +63,6 @@ ShallowWrapper {
                 "authorName": "authorName",
                 "body": "This is a commment!",
                 "createdAt": "2018-12-12 10:20:46 UTC",
-                "id": "ID",
-                "slug": "Title",
               },
             ]
           }
@@ -104,8 +100,6 @@ ShallowWrapper {
               "authorName": "authorName",
               "body": "This is a commment!",
               "createdAt": "2018-12-12 10:20:46 UTC",
-              "id": "ID",
-              "slug": "Title",
             },
           ],
         },
@@ -143,8 +137,6 @@ ShallowWrapper {
                   "authorName": "authorName",
                   "body": "This is a commment!",
                   "createdAt": "2018-12-12 10:20:46 UTC",
-                  "id": "ID",
-                  "slug": "Title",
                 },
               ]
             }
@@ -182,8 +174,6 @@ ShallowWrapper {
                 "authorName": "authorName",
                 "body": "This is a commment!",
                 "createdAt": "2018-12-12 10:20:46 UTC",
-                "id": "ID",
-                "slug": "Title",
               },
             ],
           },

@@ -12,8 +12,6 @@ describe('<UserComments  />', () => {
     }]
 
     const postComment = [{
-      id: 'ID',
-      slug: 'Title',
       createdAt: '2018-12-12 10:20:46 UTC',
       authorName: 'authorName',
       body: 'This is a commment!'
