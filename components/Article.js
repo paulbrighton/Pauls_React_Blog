@@ -12,8 +12,9 @@ class Article extends Component {
       <div className='c-article'>
         <h2 className='c-article__header'>{article.title}</h2>
         <div className='c-header-divider' />
-        {/* <h3 className='c-article__author'>Article by: {article.author}</h3> */}
-        {/* <time className='c-article__published'><p>Published on: {moment(article.createdAt).format('Do MMMM YYYY')}</p></time> */}
+        <h3 className='c-article__author'>Article by: {article.author}</h3>
+        {/* <time className='c-article__published'><p>Published on: {moment(article.createdAt).format('YYYY/MM/DD')}</p></time> */}
+        <time className='c-article__published'><p>Published on: {article.createdAt}</p></time>
         <figure>
           <img className='c-article__main-img' src={`https://pauls-blog.herokuapp.com/${article.image}`} />
         </figure>
