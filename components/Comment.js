@@ -6,7 +6,6 @@ import { MarkdownPreview } from 'react-marked-markdown'
 class Comment extends Component {
   render () {
     const { comment } = this.props
-    const moment = {}
 
     return (
       <div className='c-comment'>
