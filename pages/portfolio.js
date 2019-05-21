@@ -12,9 +12,22 @@ class Portfolio extends Component {
             <img src='/static/images/ruby.jpg' alt='A Ruby logo' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
-            <p>I have done a few simple apps using Ruby on Rails but this website you are reading now is my first full web app built with Rails. It includes an admin panel for adding, updating and deleting articles which in the future could be available to users to add their own articles to the site.</p>
+            <p>I have done a few simple apps using Ruby on Rails but this website you are reading now was my first full web app built with Rails. It includes an admin panel for adding, updating and deleting articles which in the future could be available to users to add their own articles to the site.</p>
             <p>The CSS has been written with BEM and Namespaces and I have used SASS to enable nesting of styles. The SASS files have been broken down into objects and components to help with the organisation which in the future will make it easy to update parts of the site.</p>
-            <p>In the near future, the front-end will be rebuilt using ReactJS and GraphQL will be implemented to interact with the database.</p>
+            <p>The Ruby on Rails front-end was stripped out and was rebuilt using ReactJS, NextJS and GraphQL was implemented to interact with the database.</p>
+          </div>
+        </div>
+
+        <h2>Yummy Pixels - Redesign &amp; Build</h2>
+        <div className='c-header-divider' />
+        <div className='c-portfolio-project'>
+          <a href='http://www.yummypixels.co.uk/'>
+            <img src='/static/images/yummypixels-logo.png' alt='Yummy Pixels logo' className='c-portfolio-project__img' />
+          </a>
+          <div className='c-portfolio-project__text'>
+            <p>Yummy Pixels is a food and travel blog and contains recipes from the YummyEats cookbook along with some travel inspiration in the form of travel itineraries.</p>
+            <p>Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.</p>
+            <p>If you want to try out the recipes or you’re interested travelling, checkout the <a href='http://www.yummypixels.co.uk/' className='c-portfolio-project__link' target='blank'>Yummy Pixels</a> website.</p>
           </div>
         </div>
 
