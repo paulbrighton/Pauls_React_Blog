@@ -34,13 +34,13 @@ class Portfolio extends Component {
         <h2>Rock, Paper, Scissors</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://paper-scissors-stone.herokuapp.com/'>
+          <a href='https://codepen.io/paulbrighton/pen/ydpeea'>
             <img src='/static/images/rock.png' alt='An animated rock' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>After completing the HTML and CSS part of the ProCoders course, I moved on to learning JavaScript and my first project was to build a Rock, Paper, Scissors game.</p>
             <p>This includes clickable images and a score board that updates and lets the player know whether they have won the game or lost to the computer, it will then ask the player if they want to play again.</p>
-            <p>Interested? You can play the <a href='https://paper-scissors-stone.herokuapp.com/' className='c-portfolio-project__link'>Rock, Paper, Scissors game using this link</a> or clicking on the image above.</p>
+            <p>Interested? You can play the <a href='https://codepen.io/paulbrighton/pen/ydpeea' className='c-portfolio-project__link'>Rock, Paper, Scissors game using this link</a> or clicking on the image above.</p>
           </div>
         </div>
 
@@ -96,7 +96,7 @@ class Portfolio extends Component {
           </div>
         </div>
 
-        <h2>Abandoned Container</h2>
+        {/* <h2>Abandoned Container</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
           <a href='https://abandoned-container.herokuapp.com/'>
@@ -107,7 +107,7 @@ class Portfolio extends Component {
             <p>The website was based on a shipping container and was the first full website that I have built, it was only a fixed width site but provided me with the basic HTML and CSS skills that I would need in the future.</p>
             <p><a href='https://abandoned-container.herokuapp.com/' className='c-portfolio-project__link'>The Abandonded Container</a> website is still available to view online.</p>
           </div>
-        </div>
+        </div> */}
 
         <h2>Yummy Eats Cookbook</h2>
         <div className='c-header-divider' />
