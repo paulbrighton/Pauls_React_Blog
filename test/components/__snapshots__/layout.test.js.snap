@@ -30,6 +30,11 @@ ShallowWrapper {
             content="width=device-width, initial-scale=1"
             name="viewport"
           />
+          <link
+            href="/static/images/favicon.ico"
+            rel="shortcut icon"
+            type="image/x-icon"
+          />
         </SideEffect(Head)>,
         <Header />,
         undefined,
@@ -55,6 +60,11 @@ ShallowWrapper {
             <meta
               content="width=device-width, initial-scale=1"
               name="viewport"
+            />,
+            <link
+              href="/static/images/favicon.ico"
+              rel="shortcut icon"
+              type="image/x-icon"
             />,
           ],
         },
@@ -94,6 +104,19 @@ ShallowWrapper {
             "ref": null,
             "rendered": null,
             "type": "meta",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "href": "/static/images/favicon.ico",
+              "rel": "shortcut icon",
+              "type": "image/x-icon",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": "link",
           },
         ],
         "type": [Function],
@@ -139,6 +162,11 @@ ShallowWrapper {
               content="width=device-width, initial-scale=1"
               name="viewport"
             />
+            <link
+              href="/static/images/favicon.ico"
+              rel="shortcut icon"
+              type="image/x-icon"
+            />
           </SideEffect(Head)>,
           <Header />,
           undefined,
@@ -164,6 +192,11 @@ ShallowWrapper {
               <meta
                 content="width=device-width, initial-scale=1"
                 name="viewport"
+              />,
+              <link
+                href="/static/images/favicon.ico"
+                rel="shortcut icon"
+                type="image/x-icon"
               />,
             ],
           },
@@ -203,6 +236,19 @@ ShallowWrapper {
               "ref": null,
               "rendered": null,
               "type": "meta",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "href": "/static/images/favicon.ico",
+                "rel": "shortcut icon",
+                "type": "image/x-icon",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "link",
             },
           ],
           "type": [Function],

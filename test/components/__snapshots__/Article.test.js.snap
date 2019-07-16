@@ -50,7 +50,7 @@ ShallowWrapper {
           >
             <p>
               Published on: 
-              Dec 12, 2018
+              2018-12-12 10:20:46 UTC
             </p>
           </time>
           <figure>
@@ -110,7 +110,7 @@ ShallowWrapper {
             >
               <p>
                 Published on: 
-                Dec 12, 2018
+                2018-12-12 10:20:46 UTC
               </p>
             </time>,
             <figure>
@@ -179,7 +179,7 @@ ShallowWrapper {
             "props": Object {
               "children": <p>
                 Published on: 
-                Dec 12, 2018
+                2018-12-12 10:20:46 UTC
               </p>,
               "className": "c-article__published",
             },
@@ -191,13 +191,13 @@ ShallowWrapper {
               "props": Object {
                 "children": Array [
                   "Published on: ",
-                  "Dec 12, 2018",
+                  "2018-12-12 10:20:46 UTC",
                 ],
               },
               "ref": null,
               "rendered": Array [
                 "Published on: ",
-                "Dec 12, 2018",
+                "2018-12-12 10:20:46 UTC",
               ],
               "type": "p",
             },
@@ -333,7 +333,7 @@ ShallowWrapper {
             >
               <p>
                 Published on: 
-                Dec 12, 2018
+                2018-12-12 10:20:46 UTC
               </p>
             </time>
             <figure>
@@ -393,7 +393,7 @@ ShallowWrapper {
               >
                 <p>
                   Published on: 
-                  Dec 12, 2018
+                  2018-12-12 10:20:46 UTC
                 </p>
               </time>,
               <figure>
@@ -462,7 +462,7 @@ ShallowWrapper {
               "props": Object {
                 "children": <p>
                   Published on: 
-                  Dec 12, 2018
+                  2018-12-12 10:20:46 UTC
                 </p>,
                 "className": "c-article__published",
               },
@@ -474,13 +474,13 @@ ShallowWrapper {
                 "props": Object {
                   "children": Array [
                     "Published on: ",
-                    "Dec 12, 2018",
+                    "2018-12-12 10:20:46 UTC",
                   ],
                 },
                 "ref": null,
                 "rendered": Array [
                   "Published on: ",
-                  "Dec 12, 2018",
+                  "2018-12-12 10:20:46 UTC",
                 ],
                 "type": "p",
               },

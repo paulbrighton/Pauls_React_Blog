@@ -43,7 +43,7 @@ ShallowWrapper {
             className="c-comment__created-date"
           >
             Created on: 
-            Dec 12, 2018
+            2018-12-12 10:20:46 UTC
           </time>
         </div>,
         <div
@@ -77,7 +77,7 @@ ShallowWrapper {
               className="c-comment__created-date"
             >
               Created on: 
-              Dec 12, 2018
+              2018-12-12 10:20:46 UTC
             </time>,
           ],
           "className": "c-comment__author",
@@ -115,14 +115,14 @@ ShallowWrapper {
             "props": Object {
               "children": Array [
                 "Created on: ",
-                "Dec 12, 2018",
+                "2018-12-12 10:20:46 UTC",
               ],
               "className": "c-comment__created-date",
             },
             "ref": null,
             "rendered": Array [
               "Created on: ",
-              "Dec 12, 2018",
+              "2018-12-12 10:20:46 UTC",
             ],
             "type": "time",
           },
@@ -179,7 +179,7 @@ ShallowWrapper {
               className="c-comment__created-date"
             >
               Created on: 
-              Dec 12, 2018
+              2018-12-12 10:20:46 UTC
             </time>
           </div>,
           <div
@@ -213,7 +213,7 @@ ShallowWrapper {
                 className="c-comment__created-date"
               >
                 Created on: 
-                Dec 12, 2018
+                2018-12-12 10:20:46 UTC
               </time>,
             ],
             "className": "c-comment__author",
@@ -251,14 +251,14 @@ ShallowWrapper {
               "props": Object {
                 "children": Array [
                   "Created on: ",
-                  "Dec 12, 2018",
+                  "2018-12-12 10:20:46 UTC",
                 ],
                 "className": "c-comment__created-date",
               },
               "ref": null,
               "rendered": Array [
                 "Created on: ",
-                "Dec 12, 2018",
+                "2018-12-12 10:20:46 UTC",
               ],
               "type": "time",
             },

@@ -36,7 +36,7 @@ ShallowWrapper {
               className="c-about__text"
             >
               <p>
-                I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
               </p>
               <p>
                 My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -48,7 +48,7 @@ ShallowWrapper {
                 This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
               </p>
               <p>
-                I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
               </p>
             </div>
           </div>
@@ -78,7 +78,7 @@ ShallowWrapper {
                 {Pro}Coders
               </p>
               <p>
-                06/2018 - Present
+                06/2018 - 03/2018
               </p>
             </div>
             <div
@@ -158,25 +158,31 @@ ShallowWrapper {
                 HTML and CSS;
               </li>
               <li>
-                SASS
+                SASS;
               </li>
               <li>
-                JavaScript
+                JavaScript;
               </li>
               <li>
-                Ruby (on Rails)
+                Ruby (on Rails);
               </li>
               <li>
-                Git and GitHub
+                Git and GitHub;
+              </li>
+              <li>
+                ReactJS;
+              </li>
+              <li>
+                NextJS;
+              </li>
+              <li>
+                Gulp;
               </li>
               <li>
                 Basic knowledge of Adobe InDesign;
               </li>
               <li>
                 Good knowledge of Photoshop - Photography and Web Design;
-              </li>
-              <li>
-                Computer literate (Mac and PC);
               </li>
               <li>
                 Image processing and retouching;
@@ -195,6 +201,24 @@ ShallowWrapper {
             <h3>
               Work Experience
             </h3>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Front End Developer - Shift Commerce
+              </h4>
+              <p>
+                02/2018 - 03/2018
+              </p>
+              <ul>
+                <li>
+                  Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                </li>
+                <li>
+                  I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                </li>
+              </ul>
+            </div>
             <div
               className="c-about-cv__category-info"
             >
@@ -303,7 +327,7 @@ ShallowWrapper {
                 className="c-about__text"
               >
                 <p>
-                  I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                  I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                 </p>
                 <p>
                   My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -315,7 +339,7 @@ ShallowWrapper {
                   This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                 </p>
                 <p>
-                  I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                  I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                 </p>
               </div>
             </div>
@@ -345,7 +369,7 @@ ShallowWrapper {
                   {Pro}Coders
                 </p>
                 <p>
-                  06/2018 - Present
+                  06/2018 - 03/2018
                 </p>
               </div>
               <div
@@ -425,25 +449,31 @@ ShallowWrapper {
                   HTML and CSS;
                 </li>
                 <li>
-                  SASS
+                  SASS;
                 </li>
                 <li>
-                  JavaScript
+                  JavaScript;
                 </li>
                 <li>
-                  Ruby (on Rails)
+                  Ruby (on Rails);
                 </li>
                 <li>
-                  Git and GitHub
+                  Git and GitHub;
+                </li>
+                <li>
+                  ReactJS;
+                </li>
+                <li>
+                  NextJS;
+                </li>
+                <li>
+                  Gulp;
                 </li>
                 <li>
                   Basic knowledge of Adobe InDesign;
                 </li>
                 <li>
                   Good knowledge of Photoshop - Photography and Web Design;
-                </li>
-                <li>
-                  Computer literate (Mac and PC);
                 </li>
                 <li>
                   Image processing and retouching;
@@ -462,6 +492,24 @@ ShallowWrapper {
               <h3>
                 Work Experience
               </h3>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Front End Developer - Shift Commerce
+                </h4>
+                <p>
+                  02/2018 - 03/2018
+                </p>
+                <ul>
+                  <li>
+                    Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                  </li>
+                  <li>
+                    I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                  </li>
+                </ul>
+              </div>
               <div
                 className="c-about-cv__category-info"
               >
@@ -569,7 +617,7 @@ ShallowWrapper {
                   className="c-about__text"
                 >
                   <p>
-                    I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                    I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                   </p>
                   <p>
                     My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -581,7 +629,7 @@ ShallowWrapper {
                     This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                   </p>
                   <p>
-                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                   </p>
                 </div>
               </div>,
@@ -621,7 +669,7 @@ ShallowWrapper {
                   className="c-about__text"
                 >
                   <p>
-                    I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                    I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                   </p>
                   <p>
                     My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -633,7 +681,7 @@ ShallowWrapper {
                     This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                   </p>
                   <p>
-                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                   </p>
                 </div>,
                 "className": "o-about-intro__container",
@@ -646,7 +694,7 @@ ShallowWrapper {
                 "props": Object {
                   "children": Array [
                     <p>
-                      I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                      I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                     </p>,
                     <p>
                       My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -658,7 +706,7 @@ ShallowWrapper {
                       This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                     </p>,
                     <p>
-                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                     </p>,
                   ],
                   "className": "c-about__text",
@@ -670,10 +718,10 @@ ShallowWrapper {
                     "key": undefined,
                     "nodeType": "host",
                     "props": Object {
-                      "children": "I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.",
+                      "children": "I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.",
                     },
                     "ref": null,
-                    "rendered": "I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.",
+                    "rendered": "I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.",
                     "type": "p",
                   },
                   Object {
@@ -714,10 +762,10 @@ ShallowWrapper {
                     "key": undefined,
                     "nodeType": "host",
                     "props": Object {
-                      "children": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.",
+                      "children": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.",
                     },
                     "ref": null,
-                    "rendered": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.",
+                    "rendered": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.",
                     "type": "p",
                   },
                 ],
@@ -756,7 +804,7 @@ ShallowWrapper {
                     {Pro}Coders
                   </p>
                   <p>
-                    06/2018 - Present
+                    06/2018 - 03/2018
                   </p>
                 </div>
                 <div
@@ -836,25 +884,31 @@ ShallowWrapper {
                     HTML and CSS;
                   </li>
                   <li>
-                    SASS
+                    SASS;
                   </li>
                   <li>
-                    JavaScript
+                    JavaScript;
                   </li>
                   <li>
-                    Ruby (on Rails)
+                    Ruby (on Rails);
                   </li>
                   <li>
-                    Git and GitHub
+                    Git and GitHub;
+                  </li>
+                  <li>
+                    ReactJS;
+                  </li>
+                  <li>
+                    NextJS;
+                  </li>
+                  <li>
+                    Gulp;
                   </li>
                   <li>
                     Basic knowledge of Adobe InDesign;
                   </li>
                   <li>
                     Good knowledge of Photoshop - Photography and Web Design;
-                  </li>
-                  <li>
-                    Computer literate (Mac and PC);
                   </li>
                   <li>
                     Image processing and retouching;
@@ -873,6 +927,24 @@ ShallowWrapper {
                 <h3>
                   Work Experience
                 </h3>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Front End Developer - Shift Commerce
+                  </h4>
+                  <p>
+                    02/2018 - 03/2018
+                  </p>
+                  <ul>
+                    <li>
+                      Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                    </li>
+                    <li>
+                      I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                    </li>
+                  </ul>
+                </div>
                 <div
                   className="c-about-cv__category-info"
                 >
@@ -1001,7 +1073,7 @@ ShallowWrapper {
                       {Pro}Coders
                     </p>
                     <p>
-                      06/2018 - Present
+                      06/2018 - 03/2018
                     </p>
                   </div>,
                   <div
@@ -1098,7 +1170,7 @@ ShallowWrapper {
                         {Pro}Coders
                       </p>,
                       <p>
-                        06/2018 - Present
+                        06/2018 - 03/2018
                       </p>,
                     ],
                     "className": "c-about-cv__category-info",
@@ -1132,10 +1204,10 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "06/2018 - Present",
+                        "children": "06/2018 - 03/2018",
                       },
                       "ref": null,
-                      "rendered": "06/2018 - Present",
+                      "rendered": "06/2018 - 03/2018",
                       "type": "p",
                     },
                   ],
@@ -1438,25 +1510,31 @@ ShallowWrapper {
                       HTML and CSS;
                     </li>
                     <li>
-                      SASS
+                      SASS;
                     </li>
                     <li>
-                      JavaScript
+                      JavaScript;
                     </li>
                     <li>
-                      Ruby (on Rails)
+                      Ruby (on Rails);
                     </li>
                     <li>
-                      Git and GitHub
+                      Git and GitHub;
+                    </li>
+                    <li>
+                      ReactJS;
+                    </li>
+                    <li>
+                      NextJS;
+                    </li>
+                    <li>
+                      Gulp;
                     </li>
                     <li>
                       Basic knowledge of Adobe InDesign;
                     </li>
                     <li>
                       Good knowledge of Photoshop - Photography and Web Design;
-                    </li>
-                    <li>
-                      Computer literate (Mac and PC);
                     </li>
                     <li>
                       Image processing and retouching;
@@ -1494,25 +1572,31 @@ ShallowWrapper {
                         HTML and CSS;
                       </li>,
                       <li>
-                        SASS
+                        SASS;
                       </li>,
                       <li>
-                        JavaScript
+                        JavaScript;
                       </li>,
                       <li>
-                        Ruby (on Rails)
+                        Ruby (on Rails);
                       </li>,
                       <li>
-                        Git and GitHub
+                        Git and GitHub;
+                      </li>,
+                      <li>
+                        ReactJS;
+                      </li>,
+                      <li>
+                        NextJS;
+                      </li>,
+                      <li>
+                        Gulp;
                       </li>,
                       <li>
                         Basic knowledge of Adobe InDesign;
                       </li>,
                       <li>
                         Good knowledge of Photoshop - Photography and Web Design;
-                      </li>,
-                      <li>
-                        Computer literate (Mac and PC);
                       </li>,
                       <li>
                         Image processing and retouching;
@@ -1543,10 +1627,10 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "SASS",
+                        "children": "SASS;",
                       },
                       "ref": null,
-                      "rendered": "SASS",
+                      "rendered": "SASS;",
                       "type": "li",
                     },
                     Object {
@@ -1554,10 +1638,10 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "JavaScript",
+                        "children": "JavaScript;",
                       },
                       "ref": null,
-                      "rendered": "JavaScript",
+                      "rendered": "JavaScript;",
                       "type": "li",
                     },
                     Object {
@@ -1565,10 +1649,10 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "Ruby (on Rails)",
+                        "children": "Ruby (on Rails);",
                       },
                       "ref": null,
-                      "rendered": "Ruby (on Rails)",
+                      "rendered": "Ruby (on Rails);",
                       "type": "li",
                     },
                     Object {
@@ -1576,10 +1660,43 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "Git and GitHub",
+                        "children": "Git and GitHub;",
                       },
                       "ref": null,
-                      "rendered": "Git and GitHub",
+                      "rendered": "Git and GitHub;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "ReactJS;",
+                      },
+                      "ref": null,
+                      "rendered": "ReactJS;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "NextJS;",
+                      },
+                      "ref": null,
+                      "rendered": "NextJS;",
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Gulp;",
+                      },
+                      "ref": null,
+                      "rendered": "Gulp;",
                       "type": "li",
                     },
                     Object {
@@ -1602,17 +1719,6 @@ ShallowWrapper {
                       },
                       "ref": null,
                       "rendered": "Good knowledge of Photoshop - Photography and Web Design;",
-                      "type": "li",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "Computer literate (Mac and PC);",
-                      },
-                      "ref": null,
-                      "rendered": "Computer literate (Mac and PC);",
                       "type": "li",
                     },
                     Object {
@@ -1663,6 +1769,24 @@ ShallowWrapper {
                   <h3>
                     Work Experience
                   </h3>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Front End Developer - Shift Commerce
+                    </h4>
+                    <p>
+                      02/2018 - 03/2018
+                    </p>
+                    <ul>
+                      <li>
+                        Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                      </li>
+                      <li>
+                        I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                      </li>
+                    </ul>
+                  </div>,
                   <div
                     className="c-about-cv__category-info"
                   >
@@ -1729,6 +1853,97 @@ ShallowWrapper {
                   "ref": null,
                   "rendered": "Work Experience",
                   "type": "h3",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Front End Developer - Shift Commerce
+                      </h4>,
+                      <p>
+                        02/2018 - 03/2018
+                      </p>,
+                      <ul>
+                        <li>
+                          Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                        </li>
+                        <li>
+                          I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Front End Developer - Shift Commerce",
+                      },
+                      "ref": null,
+                      "rendered": "Front End Developer - Shift Commerce",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "02/2018 - 03/2018",
+                      },
+                      "ref": null,
+                      "rendered": "02/2018 - 03/2018",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <li>
+                            Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                          </li>,
+                          <li>
+                            I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                          </li>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
+                          },
+                          "ref": null,
+                          "rendered": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
+                          "type": "li",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
+                          },
+                          "ref": null,
+                          "rendered": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
+                          "type": "li",
+                        },
+                      ],
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
                 },
                 Object {
                   "instance": null,
@@ -2176,7 +2391,7 @@ ShallowWrapper {
                 className="c-about__text"
               >
                 <p>
-                  I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                  I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                 </p>
                 <p>
                   My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -2188,7 +2403,7 @@ ShallowWrapper {
                   This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                 </p>
                 <p>
-                  I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                  I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                 </p>
               </div>
             </div>
@@ -2218,7 +2433,7 @@ ShallowWrapper {
                   {Pro}Coders
                 </p>
                 <p>
-                  06/2018 - Present
+                  06/2018 - 03/2018
                 </p>
               </div>
               <div
@@ -2298,25 +2513,31 @@ ShallowWrapper {
                   HTML and CSS;
                 </li>
                 <li>
-                  SASS
+                  SASS;
                 </li>
                 <li>
-                  JavaScript
+                  JavaScript;
                 </li>
                 <li>
-                  Ruby (on Rails)
+                  Ruby (on Rails);
                 </li>
                 <li>
-                  Git and GitHub
+                  Git and GitHub;
+                </li>
+                <li>
+                  ReactJS;
+                </li>
+                <li>
+                  NextJS;
+                </li>
+                <li>
+                  Gulp;
                 </li>
                 <li>
                   Basic knowledge of Adobe InDesign;
                 </li>
                 <li>
                   Good knowledge of Photoshop - Photography and Web Design;
-                </li>
-                <li>
-                  Computer literate (Mac and PC);
                 </li>
                 <li>
                   Image processing and retouching;
@@ -2335,6 +2556,24 @@ ShallowWrapper {
               <h3>
                 Work Experience
               </h3>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Front End Developer - Shift Commerce
+                </h4>
+                <p>
+                  02/2018 - 03/2018
+                </p>
+                <ul>
+                  <li>
+                    Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                  </li>
+                  <li>
+                    I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                  </li>
+                </ul>
+              </div>
               <div
                 className="c-about-cv__category-info"
               >
@@ -2443,7 +2682,7 @@ ShallowWrapper {
                   className="c-about__text"
                 >
                   <p>
-                    I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                    I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                   </p>
                   <p>
                     My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -2455,7 +2694,7 @@ ShallowWrapper {
                     This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                   </p>
                   <p>
-                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                    I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                   </p>
                 </div>
               </div>
@@ -2485,7 +2724,7 @@ ShallowWrapper {
                     {Pro}Coders
                   </p>
                   <p>
-                    06/2018 - Present
+                    06/2018 - 03/2018
                   </p>
                 </div>
                 <div
@@ -2565,25 +2804,31 @@ ShallowWrapper {
                     HTML and CSS;
                   </li>
                   <li>
-                    SASS
+                    SASS;
                   </li>
                   <li>
-                    JavaScript
+                    JavaScript;
                   </li>
                   <li>
-                    Ruby (on Rails)
+                    Ruby (on Rails);
                   </li>
                   <li>
-                    Git and GitHub
+                    Git and GitHub;
+                  </li>
+                  <li>
+                    ReactJS;
+                  </li>
+                  <li>
+                    NextJS;
+                  </li>
+                  <li>
+                    Gulp;
                   </li>
                   <li>
                     Basic knowledge of Adobe InDesign;
                   </li>
                   <li>
                     Good knowledge of Photoshop - Photography and Web Design;
-                  </li>
-                  <li>
-                    Computer literate (Mac and PC);
                   </li>
                   <li>
                     Image processing and retouching;
@@ -2602,6 +2847,24 @@ ShallowWrapper {
                 <h3>
                   Work Experience
                 </h3>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Front End Developer - Shift Commerce
+                  </h4>
+                  <p>
+                    02/2018 - 03/2018
+                  </p>
+                  <ul>
+                    <li>
+                      Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                    </li>
+                    <li>
+                      I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                    </li>
+                  </ul>
+                </div>
                 <div
                   className="c-about-cv__category-info"
                 >
@@ -2709,7 +2972,7 @@ ShallowWrapper {
                     className="c-about__text"
                   >
                     <p>
-                      I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                      I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                     </p>
                     <p>
                       My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -2721,7 +2984,7 @@ ShallowWrapper {
                       This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                     </p>
                     <p>
-                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                     </p>
                   </div>
                 </div>,
@@ -2761,7 +3024,7 @@ ShallowWrapper {
                     className="c-about__text"
                   >
                     <p>
-                      I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                      I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                     </p>
                     <p>
                       My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -2773,7 +3036,7 @@ ShallowWrapper {
                       This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                     </p>
                     <p>
-                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                      I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                     </p>
                   </div>,
                   "className": "o-about-intro__container",
@@ -2786,7 +3049,7 @@ ShallowWrapper {
                   "props": Object {
                     "children": Array [
                       <p>
-                        I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.
+                        I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
                       </p>,
                       <p>
                         My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
@@ -2798,7 +3061,7 @@ ShallowWrapper {
                         This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                       </p>,
                       <p>
-                        I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.
+                        I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
                       </p>,
                     ],
                     "className": "c-about__text",
@@ -2810,10 +3073,10 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.",
+                        "children": "I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.",
                       },
                       "ref": null,
-                      "rendered": "I’m Paul and I am currently a student of the full stack web development course at {Pro}Coders in Leeds.",
+                      "rendered": "I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.",
                       "type": "p",
                     },
                     Object {
@@ -2854,10 +3117,10 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.",
+                        "children": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.",
                       },
                       "ref": null,
-                      "rendered": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a full-stack developer.",
+                      "rendered": "I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.",
                       "type": "p",
                     },
                   ],
@@ -2896,7 +3159,7 @@ ShallowWrapper {
                       {Pro}Coders
                     </p>
                     <p>
-                      06/2018 - Present
+                      06/2018 - 03/2018
                     </p>
                   </div>
                   <div
@@ -2976,25 +3239,31 @@ ShallowWrapper {
                       HTML and CSS;
                     </li>
                     <li>
-                      SASS
+                      SASS;
                     </li>
                     <li>
-                      JavaScript
+                      JavaScript;
                     </li>
                     <li>
-                      Ruby (on Rails)
+                      Ruby (on Rails);
                     </li>
                     <li>
-                      Git and GitHub
+                      Git and GitHub;
+                    </li>
+                    <li>
+                      ReactJS;
+                    </li>
+                    <li>
+                      NextJS;
+                    </li>
+                    <li>
+                      Gulp;
                     </li>
                     <li>
                       Basic knowledge of Adobe InDesign;
                     </li>
                     <li>
                       Good knowledge of Photoshop - Photography and Web Design;
-                    </li>
-                    <li>
-                      Computer literate (Mac and PC);
                     </li>
                     <li>
                       Image processing and retouching;
@@ -3013,6 +3282,24 @@ ShallowWrapper {
                   <h3>
                     Work Experience
                   </h3>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Front End Developer - Shift Commerce
+                    </h4>
+                    <p>
+                      02/2018 - 03/2018
+                    </p>
+                    <ul>
+                      <li>
+                        Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                      </li>
+                      <li>
+                        I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                      </li>
+                    </ul>
+                  </div>
                   <div
                     className="c-about-cv__category-info"
                   >
@@ -3141,7 +3428,7 @@ ShallowWrapper {
                         {Pro}Coders
                       </p>
                       <p>
-                        06/2018 - Present
+                        06/2018 - 03/2018
                       </p>
                     </div>,
                     <div
@@ -3238,7 +3525,7 @@ ShallowWrapper {
                           {Pro}Coders
                         </p>,
                         <p>
-                          06/2018 - Present
+                          06/2018 - 03/2018
                         </p>,
                       ],
                       "className": "c-about-cv__category-info",
@@ -3272,10 +3559,10 @@ ShallowWrapper {
                         "key": undefined,
                         "nodeType": "host",
                         "props": Object {
-                          "children": "06/2018 - Present",
+                          "children": "06/2018 - 03/2018",
                         },
                         "ref": null,
-                        "rendered": "06/2018 - Present",
+                        "rendered": "06/2018 - 03/2018",
                         "type": "p",
                       },
                     ],
@@ -3578,25 +3865,31 @@ ShallowWrapper {
                         HTML and CSS;
                       </li>
                       <li>
-                        SASS
+                        SASS;
                       </li>
                       <li>
-                        JavaScript
+                        JavaScript;
                       </li>
                       <li>
-                        Ruby (on Rails)
+                        Ruby (on Rails);
                       </li>
                       <li>
-                        Git and GitHub
+                        Git and GitHub;
+                      </li>
+                      <li>
+                        ReactJS;
+                      </li>
+                      <li>
+                        NextJS;
+                      </li>
+                      <li>
+                        Gulp;
                       </li>
                       <li>
                         Basic knowledge of Adobe InDesign;
                       </li>
                       <li>
                         Good knowledge of Photoshop - Photography and Web Design;
-                      </li>
-                      <li>
-                        Computer literate (Mac and PC);
                       </li>
                       <li>
                         Image processing and retouching;
@@ -3634,25 +3927,31 @@ ShallowWrapper {
                           HTML and CSS;
                         </li>,
                         <li>
-                          SASS
+                          SASS;
                         </li>,
                         <li>
-                          JavaScript
+                          JavaScript;
                         </li>,
                         <li>
-                          Ruby (on Rails)
+                          Ruby (on Rails);
                         </li>,
                         <li>
-                          Git and GitHub
+                          Git and GitHub;
+                        </li>,
+                        <li>
+                          ReactJS;
+                        </li>,
+                        <li>
+                          NextJS;
+                        </li>,
+                        <li>
+                          Gulp;
                         </li>,
                         <li>
                           Basic knowledge of Adobe InDesign;
                         </li>,
                         <li>
                           Good knowledge of Photoshop - Photography and Web Design;
-                        </li>,
-                        <li>
-                          Computer literate (Mac and PC);
                         </li>,
                         <li>
                           Image processing and retouching;
@@ -3683,10 +3982,10 @@ ShallowWrapper {
                         "key": undefined,
                         "nodeType": "host",
                         "props": Object {
-                          "children": "SASS",
+                          "children": "SASS;",
                         },
                         "ref": null,
-                        "rendered": "SASS",
+                        "rendered": "SASS;",
                         "type": "li",
                       },
                       Object {
@@ -3694,10 +3993,10 @@ ShallowWrapper {
                         "key": undefined,
                         "nodeType": "host",
                         "props": Object {
-                          "children": "JavaScript",
+                          "children": "JavaScript;",
                         },
                         "ref": null,
-                        "rendered": "JavaScript",
+                        "rendered": "JavaScript;",
                         "type": "li",
                       },
                       Object {
@@ -3705,10 +4004,10 @@ ShallowWrapper {
                         "key": undefined,
                         "nodeType": "host",
                         "props": Object {
-                          "children": "Ruby (on Rails)",
+                          "children": "Ruby (on Rails);",
                         },
                         "ref": null,
-                        "rendered": "Ruby (on Rails)",
+                        "rendered": "Ruby (on Rails);",
                         "type": "li",
                       },
                       Object {
@@ -3716,10 +4015,43 @@ ShallowWrapper {
                         "key": undefined,
                         "nodeType": "host",
                         "props": Object {
-                          "children": "Git and GitHub",
+                          "children": "Git and GitHub;",
                         },
                         "ref": null,
-                        "rendered": "Git and GitHub",
+                        "rendered": "Git and GitHub;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "ReactJS;",
+                        },
+                        "ref": null,
+                        "rendered": "ReactJS;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "NextJS;",
+                        },
+                        "ref": null,
+                        "rendered": "NextJS;",
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Gulp;",
+                        },
+                        "ref": null,
+                        "rendered": "Gulp;",
                         "type": "li",
                       },
                       Object {
@@ -3742,17 +4074,6 @@ ShallowWrapper {
                         },
                         "ref": null,
                         "rendered": "Good knowledge of Photoshop - Photography and Web Design;",
-                        "type": "li",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "Computer literate (Mac and PC);",
-                        },
-                        "ref": null,
-                        "rendered": "Computer literate (Mac and PC);",
                         "type": "li",
                       },
                       Object {
@@ -3803,6 +4124,24 @@ ShallowWrapper {
                     <h3>
                       Work Experience
                     </h3>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Front End Developer - Shift Commerce
+                      </h4>
+                      <p>
+                        02/2018 - 03/2018
+                      </p>
+                      <ul>
+                        <li>
+                          Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                        </li>
+                        <li>
+                          I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                        </li>
+                      </ul>
+                    </div>,
                     <div
                       className="c-about-cv__category-info"
                     >
@@ -3869,6 +4208,97 @@ ShallowWrapper {
                     "ref": null,
                     "rendered": "Work Experience",
                     "type": "h3",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Front End Developer - Shift Commerce
+                        </h4>,
+                        <p>
+                          02/2018 - 03/2018
+                        </p>,
+                        <ul>
+                          <li>
+                            Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                          </li>
+                          <li>
+                            I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Front End Developer - Shift Commerce",
+                        },
+                        "ref": null,
+                        "rendered": "Front End Developer - Shift Commerce",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "02/2018 - 03/2018",
+                        },
+                        "ref": null,
+                        "rendered": "02/2018 - 03/2018",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <li>
+                              Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                            </li>,
+                            <li>
+                              I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                            </li>,
+                          ],
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
+                            },
+                            "ref": null,
+                            "rendered": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
+                            "type": "li",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
+                            },
+                            "ref": null,
+                            "rendered": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
+                            "type": "li",
+                          },
+                        ],
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
                   },
                   Object {
                     "instance": null,
