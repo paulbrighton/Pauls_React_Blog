@@ -128,7 +128,7 @@ ShallowWrapper {
               >
                 Day Tripper Tours
               </a>
-               but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.
+               but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
             </p>
           </div>
         </div>
@@ -533,7 +533,7 @@ ShallowWrapper {
                 >
                   Day Tripper Tours
                 </a>
-                 but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.
+                 but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
               </p>
             </div>
           </div>,
@@ -1208,7 +1208,7 @@ ShallowWrapper {
                   >
                     Day Tripper Tours
                   </a>
-                   but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.
+                   but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
                 </p>
               </div>,
             ],
@@ -1265,7 +1265,7 @@ ShallowWrapper {
                     >
                       Day Tripper Tours
                     </a>
-                     but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.
+                     but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
                   </p>,
                 ],
                 "className": "c-portfolio-project__text",
@@ -1308,7 +1308,7 @@ ShallowWrapper {
                       >
                         Day Tripper Tours
                       </a>,
-                      " but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.",
+                      " but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.",
                     ],
                   },
                   "ref": null,
@@ -1328,7 +1328,7 @@ ShallowWrapper {
                       "rendered": "Day Tripper Tours",
                       "type": "a",
                     },
-                    " but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.",
+                    " but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.",
                   ],
                   "type": "p",
                 },
@@ -2780,7 +2780,7 @@ ShallowWrapper {
                 >
                   Day Tripper Tours
                 </a>
-                 but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.
+                 but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
               </p>
             </div>
           </div>
@@ -3185,7 +3185,7 @@ ShallowWrapper {
                   >
                     Day Tripper Tours
                   </a>
-                   but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.
+                   but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
                 </p>
               </div>
             </div>,
@@ -3860,7 +3860,7 @@ ShallowWrapper {
                     >
                       Day Tripper Tours
                     </a>
-                     but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.
+                     but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
                   </p>
                 </div>,
               ],
@@ -3917,7 +3917,7 @@ ShallowWrapper {
                       >
                         Day Tripper Tours
                       </a>
-                       but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.
+                       but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
                     </p>,
                   ],
                   "className": "c-portfolio-project__text",
@@ -3960,7 +3960,7 @@ ShallowWrapper {
                         >
                           Day Tripper Tours
                         </a>,
-                        " but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.",
+                        " but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.",
                       ],
                     },
                     "ref": null,
@@ -3980,7 +3980,7 @@ ShallowWrapper {
                         "rendered": "Day Tripper Tours",
                         "type": "a",
                       },
-                      " but sorry, you won't be able to book any of the tours for real as it's just a portfolio piece.",
+                      " but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.",
                     ],
                     "type": "p",
                   },
