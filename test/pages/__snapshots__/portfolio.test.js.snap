@@ -80,7 +80,7 @@ ShallowWrapper {
               Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.
             </p>
             <p>
-              If you want to try out the recipes or you’re interested travelling, checkout the 
+              If you want to try out the recipes or you’re interested in travelling, checkout the 
               <a
                 className="c-portfolio-project__link"
                 href="http://www.yummypixels.co.uk/"
@@ -93,7 +93,7 @@ ShallowWrapper {
           </div>
         </div>
         <h2>
-          Day Tripper Tours - Ecommerce Site
+          Day Tripper Tours - Example Ecommerce Site
         </h2>
         <div
           className="c-header-divider"
@@ -128,7 +128,7 @@ ShallowWrapper {
               >
                 Day Tripper Tours
               </a>
-               but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
+               but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.
             </p>
           </div>
         </div>
@@ -485,7 +485,7 @@ ShallowWrapper {
                 Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.
               </p>
               <p>
-                If you want to try out the recipes or you’re interested travelling, checkout the 
+                If you want to try out the recipes or you’re interested in travelling, checkout the 
                 <a
                   className="c-portfolio-project__link"
                   href="http://www.yummypixels.co.uk/"
@@ -498,7 +498,7 @@ ShallowWrapper {
             </div>
           </div>,
           <h2>
-            Day Tripper Tours - Ecommerce Site
+            Day Tripper Tours - Example Ecommerce Site
           </h2>,
           <div
             className="c-header-divider"
@@ -533,7 +533,7 @@ ShallowWrapper {
                 >
                   Day Tripper Tours
                 </a>
-                 but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
+                 but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.
               </p>
             </div>
           </div>,
@@ -1015,7 +1015,7 @@ ShallowWrapper {
                   Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.
                 </p>
                 <p>
-                  If you want to try out the recipes or you’re interested travelling, checkout the 
+                  If you want to try out the recipes or you’re interested in travelling, checkout the 
                   <a
                     className="c-portfolio-project__link"
                     href="http://www.yummypixels.co.uk/"
@@ -1072,7 +1072,7 @@ ShallowWrapper {
                     Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.
                   </p>,
                   <p>
-                    If you want to try out the recipes or you’re interested travelling, checkout the 
+                    If you want to try out the recipes or you’re interested in travelling, checkout the 
                     <a
                       className="c-portfolio-project__link"
                       href="http://www.yummypixels.co.uk/"
@@ -1115,7 +1115,7 @@ ShallowWrapper {
                   "nodeType": "host",
                   "props": Object {
                     "children": Array [
-                      "If you want to try out the recipes or you’re interested travelling, checkout the ",
+                      "If you want to try out the recipes or you’re interested in travelling, checkout the ",
                       <a
                         className="c-portfolio-project__link"
                         href="http://www.yummypixels.co.uk/"
@@ -1128,7 +1128,7 @@ ShallowWrapper {
                   },
                   "ref": null,
                   "rendered": Array [
-                    "If you want to try out the recipes or you’re interested travelling, checkout the ",
+                    "If you want to try out the recipes or you’re interested in travelling, checkout the ",
                     Object {
                       "instance": null,
                       "key": undefined,
@@ -1158,10 +1158,10 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": "Day Tripper Tours - Ecommerce Site",
+            "children": "Day Tripper Tours - Example Ecommerce Site",
           },
           "ref": null,
-          "rendered": "Day Tripper Tours - Ecommerce Site",
+          "rendered": "Day Tripper Tours - Example Ecommerce Site",
           "type": "h2",
         },
         Object {
@@ -1208,7 +1208,7 @@ ShallowWrapper {
                   >
                     Day Tripper Tours
                   </a>
-                   but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
+                   but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.
                 </p>
               </div>,
             ],
@@ -1265,7 +1265,7 @@ ShallowWrapper {
                     >
                       Day Tripper Tours
                     </a>
-                     but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
+                     but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.
                   </p>,
                 ],
                 "className": "c-portfolio-project__text",
@@ -1308,7 +1308,7 @@ ShallowWrapper {
                       >
                         Day Tripper Tours
                       </a>,
-                      " but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.",
+                      " but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.",
                     ],
                   },
                   "ref": null,
@@ -1328,7 +1328,7 @@ ShallowWrapper {
                       "rendered": "Day Tripper Tours",
                       "type": "a",
                     },
-                    " but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.",
+                    " but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.",
                   ],
                   "type": "p",
                 },
@@ -2732,7 +2732,7 @@ ShallowWrapper {
                 Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.
               </p>
               <p>
-                If you want to try out the recipes or you’re interested travelling, checkout the 
+                If you want to try out the recipes or you’re interested in travelling, checkout the 
                 <a
                   className="c-portfolio-project__link"
                   href="http://www.yummypixels.co.uk/"
@@ -2745,7 +2745,7 @@ ShallowWrapper {
             </div>
           </div>
           <h2>
-            Day Tripper Tours - Ecommerce Site
+            Day Tripper Tours - Example Ecommerce Site
           </h2>
           <div
             className="c-header-divider"
@@ -2780,7 +2780,7 @@ ShallowWrapper {
                 >
                   Day Tripper Tours
                 </a>
-                 but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
+                 but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.
               </p>
             </div>
           </div>
@@ -3137,7 +3137,7 @@ ShallowWrapper {
                   Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.
                 </p>
                 <p>
-                  If you want to try out the recipes or you’re interested travelling, checkout the 
+                  If you want to try out the recipes or you’re interested in travelling, checkout the 
                   <a
                     className="c-portfolio-project__link"
                     href="http://www.yummypixels.co.uk/"
@@ -3150,7 +3150,7 @@ ShallowWrapper {
               </div>
             </div>,
             <h2>
-              Day Tripper Tours - Ecommerce Site
+              Day Tripper Tours - Example Ecommerce Site
             </h2>,
             <div
               className="c-header-divider"
@@ -3185,7 +3185,7 @@ ShallowWrapper {
                   >
                     Day Tripper Tours
                   </a>
-                   but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
+                   but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.
                 </p>
               </div>
             </div>,
@@ -3667,7 +3667,7 @@ ShallowWrapper {
                     Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.
                   </p>
                   <p>
-                    If you want to try out the recipes or you’re interested travelling, checkout the 
+                    If you want to try out the recipes or you’re interested in travelling, checkout the 
                     <a
                       className="c-portfolio-project__link"
                       href="http://www.yummypixels.co.uk/"
@@ -3724,7 +3724,7 @@ ShallowWrapper {
                       Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.
                     </p>,
                     <p>
-                      If you want to try out the recipes or you’re interested travelling, checkout the 
+                      If you want to try out the recipes or you’re interested in travelling, checkout the 
                       <a
                         className="c-portfolio-project__link"
                         href="http://www.yummypixels.co.uk/"
@@ -3767,7 +3767,7 @@ ShallowWrapper {
                     "nodeType": "host",
                     "props": Object {
                       "children": Array [
-                        "If you want to try out the recipes or you’re interested travelling, checkout the ",
+                        "If you want to try out the recipes or you’re interested in travelling, checkout the ",
                         <a
                           className="c-portfolio-project__link"
                           href="http://www.yummypixels.co.uk/"
@@ -3780,7 +3780,7 @@ ShallowWrapper {
                     },
                     "ref": null,
                     "rendered": Array [
-                      "If you want to try out the recipes or you’re interested travelling, checkout the ",
+                      "If you want to try out the recipes or you’re interested in travelling, checkout the ",
                       Object {
                         "instance": null,
                         "key": undefined,
@@ -3810,10 +3810,10 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Day Tripper Tours - Ecommerce Site",
+              "children": "Day Tripper Tours - Example Ecommerce Site",
             },
             "ref": null,
-            "rendered": "Day Tripper Tours - Ecommerce Site",
+            "rendered": "Day Tripper Tours - Example Ecommerce Site",
             "type": "h2",
           },
           Object {
@@ -3860,7 +3860,7 @@ ShallowWrapper {
                     >
                       Day Tripper Tours
                     </a>
-                     but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
+                     but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.
                   </p>
                 </div>,
               ],
@@ -3917,7 +3917,7 @@ ShallowWrapper {
                       >
                         Day Tripper Tours
                       </a>
-                       but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.
+                       but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.
                     </p>,
                   ],
                   "className": "c-portfolio-project__text",
@@ -3960,7 +3960,7 @@ ShallowWrapper {
                         >
                           Day Tripper Tours
                         </a>,
-                        " but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.",
+                        " but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.",
                       ],
                     },
                     "ref": null,
@@ -3980,7 +3980,7 @@ ShallowWrapper {
                         "rendered": "Day Tripper Tours",
                         "type": "a",
                       },
-                      " but you will need to sign up for an account (using any fake email should be fine) and login for full functionality.",
+                      " but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.",
                     ],
                     "type": "p",
                   },
