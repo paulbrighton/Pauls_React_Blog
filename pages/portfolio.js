@@ -27,7 +27,7 @@ class Portfolio extends Component {
           <div className='c-portfolio-project__text'>
             <p>Yummy Pixels is a food and travel blog and contains recipes from the YummyEats cookbook along with some travel inspiration in the form of travel itineraries.</p>
             <p>Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.</p>
-            <p>If you want to try out the recipes or you’re interested travelling, checkout the <a href='http://www.yummypixels.co.uk/' className='c-portfolio-project__link' target='blank'>Yummy Pixels</a> website.</p>
+            <p>If you want to try out the recipes or you’re interested in travelling, checkout the <a href='http://www.yummypixels.co.uk/' className='c-portfolio-project__link' target='blank'>Yummy Pixels</a> website.</p>
           </div>
         </div>
 
