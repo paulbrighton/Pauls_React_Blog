@@ -40,7 +40,7 @@ class Portfolio extends Component {
           <div className='c-portfolio-project__text'>
             <p>I have been wanting to get into ecommerce web development for a while so decided to do the Wes Bos Full Stack Advanced React and Graphql course.</p>
             <p>The backend was built with Graphql Yoga and Prisma and the front end is ReactJS and NextJS with Apollo Client and tests were added using Jest. The site features include pagination, taking payments with Stripe and tour search functionality.</p>
-            <p>The site can be viewed at <a href='https://sick-fits-front-end.herokuapp.com/' className='c-portfolio-project__link' target='blank'>Day Tripper Tours</a> but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site.</p>
+            <p>The site can be viewed at <a href='https://sick-fits-front-end.herokuapp.com/' className='c-portfolio-project__link' target='blank'>Day Tripper Tours</a> but you will need to sign up for an account (using any fake email should be fine) to login or sign in using signin@signin.com for email and password for password to see the full functionality of the site. Day Tripper Tours is running on free Heroku dynos so may take some time to load, thanks for your patience.</p>
           </div>
         </div>
 
