@@ -44,6 +44,18 @@ class Portfolio extends Component {
           </div>
         </div>
 
+        <h2>Project Manager - React, Redux and Firebase</h2>
+        <div className='c-header-divider' />
+        <div className='c-portfolio-project'>
+          <a href='https://pauls-project-manager.firebaseapp.com/'>
+            <img src='/static/images/project-manager.png' alt='Yummy Pixels logo' className='c-portfolio-project__img' />
+          </a>
+          <div className='c-portfolio-project__text'>
+            <p>I built this project management app with ReactJS and Redux with Google's Firebase for the backend. It has functionality to enable users to sign up for an account, login, sign out and post projects to the app.</p>
+            <p>Checkout the <a href='https://pauls-project-manager.firebaseapp.com/' className='c-portfolio-project__link' target='blank'>My Project Manager</a> app. You will need to sign up for an account or you can just login with the email admin@admin.com and password for the password.</p>
+          </div>
+        </div>
+
         <h2>Rock, Paper, Scissors</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
