@@ -24,7 +24,7 @@ class Portfolio extends Component {
           <a href='http://www.yummypixels.co.uk/'>
             <img src='/static/images/yummypixels-logo.png' alt='Yummy Pixels logo' className='c-portfolio-project__img' />
           </a>
-          <div className='c-portfolio-project__text'>
+          <div className='c-portfolio-project__text' target='blank'>
             <p>Yummy Pixels is a food and travel blog and contains recipes from the YummyEats cookbook along with some travel inspiration in the form of travel itineraries.</p>
             <p>Originally, it was a WordPress template and was in some serious need of a redesign. I started by creating the wireframes for the site before taking those ideas and building the site with ReactJS along with NextJS for server-side rendering.</p>
             <p>If you want to try out the recipes or you’re interested in travelling, checkout the <a href='http://www.yummypixels.co.uk/' className='c-portfolio-project__link' target='blank'>Yummy Pixels</a> website.</p>
@@ -34,7 +34,7 @@ class Portfolio extends Component {
         <h2>Day Tripper Tours - Example Ecommerce Site</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://sick-fits-front-end.herokuapp.com/'>
+          <a href='https://sick-fits-front-end.herokuapp.com/' target='blank'>
             <img src='/static/images/day-trippers.jpg' alt='Ecommerce example' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
@@ -47,8 +47,8 @@ class Portfolio extends Component {
         <h2>Project Manager - React, Redux and Firebase</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://pauls-project-manager.firebaseapp.com/'>
-            <img src='/static/images/project-manager.png' alt='Yummy Pixels logo' className='c-portfolio-project__img' />
+          <a href='https://pauls-project-manager.firebaseapp.com/' target='blank'>
+            <img src='/static/images/project-manager.png' alt='project manager screenshot' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>I built this project management app with ReactJS and Redux with Google's Firebase for the backend. It has functionality to enable users to sign up for an account, login, sign out and post projects to the app.</p>
@@ -56,68 +56,80 @@ class Portfolio extends Component {
           </div>
         </div>
 
+        <h2>Pipeline TV - Search and Watch YouTube Videos</h2>
+        <div className='c-header-divider' />
+        <div className='c-portfolio-project'>
+          <a href='https://profile-tv.firebaseapp.com/' target='blank'>
+            <img src='/static/images/pipeline.png' alt='Pipeline tv screenshot' className='c-portfolio-project__img' />
+          </a>
+          <div className='c-portfolio-project__text'>
+            <p>This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.</p>
+            <p>Watch some cool YouTube videos on <a href='https://profile-tv.firebaseapp.com/' className='c-portfolio-project__link' target='blank'>Pipeline TV</a> app.</p>
+          </div>
+        </div>
+
         <h2>Rock, Paper, Scissors</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://codepen.io/paulbrighton/pen/ydpeea'>
+          <a href='https://codepen.io/paulbrighton/pen/ydpeea' target='blank'>
             <img src='/static/images/rock.png' alt='An animated rock' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>After completing the HTML and CSS part of the ProCoders course, I moved on to learning JavaScript and my first project was to build a Rock, Paper, Scissors game.</p>
             <p>This includes clickable images and a score board that updates and lets the player know whether they have won the game or lost to the computer, it will then ask the player if they want to play again.</p>
-            <p>Interested? You can play the <a href='https://codepen.io/paulbrighton/pen/ydpeea' className='c-portfolio-project__link'>Rock, Paper, Scissors game using this link</a> or clicking on the image above.</p>
+            <p>Interested? You can play the <a href='https://codepen.io/paulbrighton/pen/ydpeea' className='c-portfolio-project__link' target='blank'>Rock, Paper, Scissors game using this link</a> or clicking on the image above.</p>
           </div>
         </div>
 
         <h2>Etch-a-Sketch</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://codepen.io/paulbrighton/pen/rqOGYK'>
+          <a href='https://codepen.io/paulbrighton/pen/rqOGYK' target='blank'>
             <img src='/static/images/Etch A Sketch.png' alt='An animated etch a sketch' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>My second challenge was to use DOM manipulation to make a digital version of the popular Etch-A-Sketch toy. </p>
             <p>It uses many divs on the screen that can be filled in with a different colour in order to let the user create images with the mouse. It also gives the user the option to change the thickness of the line they want to use to draw their pictures.</p>
-            <p>Get arty with the <a href='https://codepen.io/paulbrighton/pen/rqOGYK' className='c-portfolio-project__link'>Etch-a-Sketch toy</a> and view the code on CodePen.</p>
+            <p>Get arty with the <a href='https://codepen.io/paulbrighton/pen/rqOGYK' className='c-portfolio-project__link' target='blank'>Etch-a-Sketch toy</a> and view the code on CodePen.</p>
           </div>
         </div>
 
         <h2>Calculator</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://codepen.io/paulbrighton/pen/VEvMRL'>
+          <a href='https://codepen.io/paulbrighton/pen/VEvMRL' target='blank'>
             <img src='/static/images/calculator.png' alt='An animated calculator' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>My final challenge was to create a simple calculator using CSS, HTML and JavaScript. The calculator allows you to add, subtract, divide and multiply numbers by clicking the buttons with a mouse.</p>
             <p>When styling the calculator, I used CSS Grid to layout the buttons, something I had not used before but is a very useful tool for laying out pages in CSS.</p>
-            <p>Need to do some sums, use my <a href='https://codepen.io/paulbrighton/pen/VEvMRL' className='c-portfolio-project__link'>JavaScript calculator</a> online on the CodePen website.</p>
+            <p>Need to do some sums, use my <a href='https://codepen.io/paulbrighton/pen/VEvMRL' className='c-portfolio-project__link' target='blank'>JavaScript calculator</a> online on the CodePen website.</p>
           </div>
         </div>
 
         <h2>Android Logo</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://codepen.io/paulbrighton/pen/XxmzJG'>
+          <a href='https://codepen.io/paulbrighton/pen/XxmzJG' target='blank'>
             <img src='/static/images/android.png' alt='An animated Android logo' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>I have to admit, I did use an online tutorial that can be viewed here to build the Android logo, but it was good experience as it was more complex than anything I had done before with CSS. If there’s one way to get better at CSS, it’s practice, practice, practice. </p>
             <p>It uses CSS transform to allow the head and arms to move when the mouse cursor is hovered over.</p>
-            <p>The code that was used to make The Android Logo is <a href='https://codepen.io/paulbrighton/pen/XxmzJG' className='c-portfolio-project__link'>available on CodePen</a>.</p>
+            <p>The code that was used to make The Android Logo is <a href='https://codepen.io/paulbrighton/pen/XxmzJG' className='c-portfolio-project__link' target='blank'>available on CodePen</a>.</p>
           </div>
         </div>
 
         <h2>Gnomegeddon</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://gnomegeddon.herokuapp.com/'>
+          <a href='https://gnomegeddon.herokuapp.com/' target='blank'>
             <img src='/static/images/gnomegeddon.png' alt='The Gnomegeddon logo' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>My final assignment at university was to design, market and build a website for a game called Gnomegeddon made by the game design students at the university centre.</p>
             <p>This was an improvement on my first website due to it being responsive and including things like a full screen video header, a dropdown navigation menu and it was designed as a single page website due to the amount of content that was available.</p>
-            <p>Checkout the <a href='https://gnomegeddon.herokuapp.com/' className='c-portfolio-project__link'>Gnomegeddon website</a> or download and play it for free, courtesy of <a href='https://angrydwarfstudios.itch.io/gnomegeddon-war-of-the-gardens' className='c-portfolio-project__link'>Angry Dwarf Studios</a>.</p>
+            <p>Checkout the <a href='https://gnomegeddon.herokuapp.com/' className='c-portfolio-project__link' target='blank'>Gnomegeddon website</a> or download and play it for free, courtesy of <a href='https://angrydwarfstudios.itch.io/gnomegeddon-war-of-the-gardens' className='c-portfolio-project__link' target='blank'>Angry Dwarf Studios</a>.</p>
           </div>
         </div>
 
@@ -137,25 +149,25 @@ class Portfolio extends Component {
         <h2>Yummy Eats Cookbook</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://itunes.apple.com/gb/book/yummy-eats/id1095148851?mt=11'>
+          <a href='https://itunes.apple.com/gb/book/yummy-eats/id1095148851?mt=11' target='blank'>
             <img src='/static/images/yummyeats.png' alt='Yummy Eats cookbook cover' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>I really wanted to make a cookbook and that is where I learned some design for print skills using Adobe InDesign. The cookbook is called Yummy Eats and contains 50 of my favourite dishes from around the world.</p>
             <p>All the recipes and photography are by myself apart from some Brazilian dishes that were written by my wife, Thais. Thais was also responsible for the food styling in all my food photography.</p>
-            <p>The book is available as a digital download at <a href='https://itunes.apple.com/gb/book/yummy-eats/id1095148851?mt=11' className='c-portfolio-project__link'>iBooks</a> and <a href='https://www.amazon.co.uk/dp/B01DFPXFEY' className='c-portfolio-project__link'>Amazon</a>.</p>
+            <p>The book is available as a digital download at <a href='https://itunes.apple.com/gb/book/yummy-eats/id1095148851?mt=11' className='c-portfolio-project__link' target='blank'>iBooks</a> and <a href='https://www.amazon.co.uk/dp/B01DFPXFEY' className='c-portfolio-project__link' target='blank'>Amazon</a>.</p>
           </div>
         </div>
 
         <h2>Stock Photography</h2>
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
-          <a href='https://www.shutterstock.com/g/paulbrighton76'>
+          <a href='https://www.shutterstock.com/g/paulbrighton76' target='blank'>
             <img src='/static/images/chickenskewers.jpg' alt='Chicken skewers with pepper and onion' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>I have been a photographer since 2011 and my interest in travel led me into food photography.</p>
-            <p>I have a <a href='https://www.shutterstock.com/g/paulbrighton76' className='c-portfolio-project__link'>portfolio on Shutterstock</a> of over 3400 images, mainly of food from around the world but there is some travel photography in there too. I also have my portfolio available on other stock photography sites such as iStock and Adobe Stock.</p>
+            <p>I have a <a href='https://www.shutterstock.com/g/paulbrighton76' className='c-portfolio-project__link' target='blank'>portfolio on Shutterstock</a> of over 3400 images, mainly of food from around the world but there is some travel photography in there too. I also have my portfolio available on other stock photography sites such as iStock and Adobe Stock.</p>
           </div>
         </div>
       </div>
