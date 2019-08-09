@@ -60,7 +60,7 @@ class Portfolio extends Component {
         <div className='c-header-divider' />
         <div className='c-portfolio-project'>
           <a href='https://profile-tv.firebaseapp.com/' target='blank'>
-            <img src='/static/images/pipeline.png' alt='Pipeline tv screenshot' className='c-portfolio-project__img' />
+            <img src='/static/images/pipeline.jpg' alt='Pipeline tv screenshot' className='c-portfolio-project__img' />
           </a>
           <div className='c-portfolio-project__text'>
             <p>This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.</p>

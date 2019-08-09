@@ -188,7 +188,7 @@ ShallowWrapper {
             <img
               alt="Pipeline tv screenshot"
               className="c-portfolio-project__img"
-              src="/static/images/pipeline.png"
+              src="/static/images/pipeline.jpg"
             />
           </a>
           <div
@@ -687,7 +687,7 @@ ShallowWrapper {
               <img
                 alt="Pipeline tv screenshot"
                 className="c-portfolio-project__img"
-                src="/static/images/pipeline.png"
+                src="/static/images/pipeline.jpg"
               />
             </a>
             <div
@@ -1735,7 +1735,7 @@ ShallowWrapper {
                 <img
                   alt="Pipeline tv screenshot"
                   className="c-portfolio-project__img"
-                  src="/static/images/pipeline.png"
+                  src="/static/images/pipeline.jpg"
                 />
               </a>,
               <div
@@ -1769,7 +1769,7 @@ ShallowWrapper {
                 "children": <img
                   alt="Pipeline tv screenshot"
                   className="c-portfolio-project__img"
-                  src="/static/images/pipeline.png"
+                  src="/static/images/pipeline.jpg"
                 />,
                 "href": "https://profile-tv.firebaseapp.com/",
                 "target": "blank",
@@ -1782,7 +1782,7 @@ ShallowWrapper {
                 "props": Object {
                   "alt": "Pipeline tv screenshot",
                   "className": "c-portfolio-project__img",
-                  "src": "/static/images/pipeline.png",
+                  "src": "/static/images/pipeline.jpg",
                 },
                 "ref": null,
                 "rendered": null,
@@ -3422,7 +3422,7 @@ ShallowWrapper {
               <img
                 alt="Pipeline tv screenshot"
                 className="c-portfolio-project__img"
-                src="/static/images/pipeline.png"
+                src="/static/images/pipeline.jpg"
               />
             </a>
             <div
@@ -3921,7 +3921,7 @@ ShallowWrapper {
                 <img
                   alt="Pipeline tv screenshot"
                   className="c-portfolio-project__img"
-                  src="/static/images/pipeline.png"
+                  src="/static/images/pipeline.jpg"
                 />
               </a>
               <div
@@ -4969,7 +4969,7 @@ ShallowWrapper {
                   <img
                     alt="Pipeline tv screenshot"
                     className="c-portfolio-project__img"
-                    src="/static/images/pipeline.png"
+                    src="/static/images/pipeline.jpg"
                   />
                 </a>,
                 <div
@@ -5003,7 +5003,7 @@ ShallowWrapper {
                   "children": <img
                     alt="Pipeline tv screenshot"
                     className="c-portfolio-project__img"
-                    src="/static/images/pipeline.png"
+                    src="/static/images/pipeline.jpg"
                   />,
                   "href": "https://profile-tv.firebaseapp.com/",
                   "target": "blank",
@@ -5016,7 +5016,7 @@ ShallowWrapper {
                   "props": Object {
                     "alt": "Pipeline tv screenshot",
                     "className": "c-portfolio-project__img",
-                    "src": "/static/images/pipeline.png",
+                    "src": "/static/images/pipeline.jpg",
                   },
                   "ref": null,
                   "rendered": null,
