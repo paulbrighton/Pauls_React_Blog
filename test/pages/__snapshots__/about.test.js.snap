@@ -36,16 +36,10 @@ ShallowWrapper {
               className="c-about__text"
             >
               <p>
-                I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
               </p>
               <p>
-                My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-              </p>
-              <p>
-                Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-              </p>
-              <p>
-                This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
               </p>
               <p>
                 I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -62,6 +56,103 @@ ShallowWrapper {
           <div
             className="c-header-divider"
           />
+          <div
+            className="c-about-cv__category"
+          >
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h3>
+                Work Experience
+              </h3>
+              <h4>
+                Web Developer - YummyPixels
+              </h4>
+              <p>
+                01/2020 - present
+              </p>
+              <ul>
+                <li>
+                  Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                </li>
+                <li>
+                  Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                </li>
+              </ul>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                UI Developer - Hitachi Capital (UK) PLC
+              </h4>
+              <p>
+                11/2019 - 01/2020
+              </p>
+              <ul>
+                <li>
+                  Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                </li>
+                <li>
+                  Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                </li>
+              </ul>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Front End Developer - Shift Commerce
+              </h4>
+              <p>
+                02/2018 - 03/2018
+              </p>
+              <ul>
+                <li>
+                  Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                </li>
+                <li>
+                  I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                </li>
+              </ul>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Stock Photographer - YummyPixels
+              </h4>
+              <p>
+                09/2011 - Present
+              </p>
+              <ul>
+                <li>
+                  Food Stock Photography
+                </li>
+                <li>
+                  Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                </li>
+                <li>
+                  Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                </li>
+              </ul>
+            </div>
+            <div
+              className="c-about-cv__category-info"
+            >
+              <h4>
+                Product Photographer - Trade Furniture Company
+              </h4>
+              <p>
+                03/2013 - 06/2015
+              </p>
+              <ul>
+                <li>
+                  Producing images of solid wood furniture.
+                </li>
+              </ul>
+            </div>
+          </div>
           <div
             className="c-about-cv__category"
           >
@@ -196,82 +287,6 @@ ShallowWrapper {
             </ul>
           </div>
           <div
-            className="c-about-cv__category"
-          >
-            <h3>
-              Work Experience
-            </h3>
-            <div
-              className="c-about-cv__category-info"
-            >
-              <h4>
-                Front End Developer - Shift Commerce
-              </h4>
-              <p>
-                02/2018 - 03/2018
-              </p>
-              <ul>
-                <li>
-                  Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                </li>
-                <li>
-                  I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                </li>
-              </ul>
-            </div>
-            <div
-              className="c-about-cv__category-info"
-            >
-              <h4>
-                Stock Photographer
-              </h4>
-              <p>
-                09/2011 - Present
-              </p>
-              <ul>
-                <li>
-                  Food Stock Photography
-                </li>
-                <li>
-                  Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                </li>
-                <li>
-                  Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                </li>
-              </ul>
-            </div>
-            <div
-              className="c-about-cv__category-info"
-            >
-              <h4>
-                Photographer - Everyscape
-              </h4>
-              <p>
-                02/2014 - 02/2015
-              </p>
-              <ul>
-                <li>
-                  Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                </li>
-              </ul>
-            </div>
-            <div
-              className="c-about-cv__category-info"
-            >
-              <h4>
-                Product Photographer - Trade Furniture Company
-              </h4>
-              <p>
-                03/2013 - 06/2015
-              </p>
-              <ul>
-                <li>
-                  Producing images of solid wood furniture.
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div
             className="c-about-cv__category c-about-cv__category-lists"
           >
             <h3>
@@ -327,16 +342,10 @@ ShallowWrapper {
                 className="c-about__text"
               >
                 <p>
-                  I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                  I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                 </p>
                 <p>
-                  My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                </p>
-                <p>
-                  Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                </p>
-                <p>
-                  This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                  I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                 </p>
                 <p>
                   I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -353,6 +362,103 @@ ShallowWrapper {
             <div
               className="c-header-divider"
             />
+            <div
+              className="c-about-cv__category"
+            >
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h3>
+                  Work Experience
+                </h3>
+                <h4>
+                  Web Developer - YummyPixels
+                </h4>
+                <p>
+                  01/2020 - present
+                </p>
+                <ul>
+                  <li>
+                    Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                  </li>
+                  <li>
+                    Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  UI Developer - Hitachi Capital (UK) PLC
+                </h4>
+                <p>
+                  11/2019 - 01/2020
+                </p>
+                <ul>
+                  <li>
+                    Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                  </li>
+                  <li>
+                    Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Front End Developer - Shift Commerce
+                </h4>
+                <p>
+                  02/2018 - 03/2018
+                </p>
+                <ul>
+                  <li>
+                    Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                  </li>
+                  <li>
+                    I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Stock Photographer - YummyPixels
+                </h4>
+                <p>
+                  09/2011 - Present
+                </p>
+                <ul>
+                  <li>
+                    Food Stock Photography
+                  </li>
+                  <li>
+                    Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                  </li>
+                  <li>
+                    Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Product Photographer - Trade Furniture Company
+                </h4>
+                <p>
+                  03/2013 - 06/2015
+                </p>
+                <ul>
+                  <li>
+                    Producing images of solid wood furniture.
+                  </li>
+                </ul>
+              </div>
+            </div>
             <div
               className="c-about-cv__category"
             >
@@ -487,82 +593,6 @@ ShallowWrapper {
               </ul>
             </div>
             <div
-              className="c-about-cv__category"
-            >
-              <h3>
-                Work Experience
-              </h3>
-              <div
-                className="c-about-cv__category-info"
-              >
-                <h4>
-                  Front End Developer - Shift Commerce
-                </h4>
-                <p>
-                  02/2018 - 03/2018
-                </p>
-                <ul>
-                  <li>
-                    Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                  </li>
-                  <li>
-                    I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                  </li>
-                </ul>
-              </div>
-              <div
-                className="c-about-cv__category-info"
-              >
-                <h4>
-                  Stock Photographer
-                </h4>
-                <p>
-                  09/2011 - Present
-                </p>
-                <ul>
-                  <li>
-                    Food Stock Photography
-                  </li>
-                  <li>
-                    Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                  </li>
-                  <li>
-                    Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                  </li>
-                </ul>
-              </div>
-              <div
-                className="c-about-cv__category-info"
-              >
-                <h4>
-                  Photographer - Everyscape
-                </h4>
-                <p>
-                  02/2014 - 02/2015
-                </p>
-                <ul>
-                  <li>
-                    Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                  </li>
-                </ul>
-              </div>
-              <div
-                className="c-about-cv__category-info"
-              >
-                <h4>
-                  Product Photographer - Trade Furniture Company
-                </h4>
-                <p>
-                  03/2013 - 06/2015
-                </p>
-                <ul>
-                  <li>
-                    Producing images of solid wood furniture.
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div
               className="c-about-cv__category c-about-cv__category-lists"
             >
               <h3>
@@ -617,16 +647,10 @@ ShallowWrapper {
                   className="c-about__text"
                 >
                   <p>
-                    I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                    I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                   </p>
                   <p>
-                    My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                  </p>
-                  <p>
-                    Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                  </p>
-                  <p>
-                    This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                    I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                   </p>
                   <p>
                     I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -669,16 +693,10 @@ ShallowWrapper {
                   className="c-about__text"
                 >
                   <p>
-                    I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                    I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                   </p>
                   <p>
-                    My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                  </p>
-                  <p>
-                    Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                  </p>
-                  <p>
-                    This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                    I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                   </p>
                   <p>
                     I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -694,16 +712,10 @@ ShallowWrapper {
                 "props": Object {
                   "children": Array [
                     <p>
-                      I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                      I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                     </p>,
                     <p>
-                      My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                    </p>,
-                    <p>
-                      Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                    </p>,
-                    <p>
-                      This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                      I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                     </p>,
                     <p>
                       I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -718,10 +730,10 @@ ShallowWrapper {
                     "key": undefined,
                     "nodeType": "host",
                     "props": Object {
-                      "children": "I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.",
+                      "children": "I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.",
                     },
                     "ref": null,
-                    "rendered": "I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.",
+                    "rendered": "I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.",
                     "type": "p",
                   },
                   Object {
@@ -729,32 +741,10 @@ ShallowWrapper {
                     "key": undefined,
                     "nodeType": "host",
                     "props": Object {
-                      "children": "My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.",
+                      "children": "I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
                     },
                     "ref": null,
-                    "rendered": "My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.",
-                    "type": "p",
-                  },
-                  Object {
-                    "instance": null,
-                    "key": undefined,
-                    "nodeType": "host",
-                    "props": Object {
-                      "children": "Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.",
-                    },
-                    "ref": null,
-                    "rendered": "Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.",
-                    "type": "p",
-                  },
-                  Object {
-                    "instance": null,
-                    "key": undefined,
-                    "nodeType": "host",
-                    "props": Object {
-                      "children": "This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
-                    },
-                    "ref": null,
-                    "rendered": "This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
+                    "rendered": "I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
                     "type": "p",
                   },
                   Object {
@@ -788,6 +778,103 @@ ShallowWrapper {
               <div
                 className="c-header-divider"
               />,
+              <div
+                className="c-about-cv__category"
+              >
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h3>
+                    Work Experience
+                  </h3>
+                  <h4>
+                    Web Developer - YummyPixels
+                  </h4>
+                  <p>
+                    01/2020 - present
+                  </p>
+                  <ul>
+                    <li>
+                      Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                    </li>
+                    <li>
+                      Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    UI Developer - Hitachi Capital (UK) PLC
+                  </h4>
+                  <p>
+                    11/2019 - 01/2020
+                  </p>
+                  <ul>
+                    <li>
+                      Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                    </li>
+                    <li>
+                      Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Front End Developer - Shift Commerce
+                  </h4>
+                  <p>
+                    02/2018 - 03/2018
+                  </p>
+                  <ul>
+                    <li>
+                      Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                    </li>
+                    <li>
+                      I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Stock Photographer - YummyPixels
+                  </h4>
+                  <p>
+                    09/2011 - Present
+                  </p>
+                  <ul>
+                    <li>
+                      Food Stock Photography
+                    </li>
+                    <li>
+                      Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                    </li>
+                    <li>
+                      Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Product Photographer - Trade Furniture Company
+                  </h4>
+                  <p>
+                    03/2013 - 06/2015
+                  </p>
+                  <ul>
+                    <li>
+                      Producing images of solid wood furniture.
+                    </li>
+                  </ul>
+                </div>
+              </div>,
               <div
                 className="c-about-cv__category"
               >
@@ -922,82 +1009,6 @@ ShallowWrapper {
                 </ul>
               </div>,
               <div
-                className="c-about-cv__category"
-              >
-                <h3>
-                  Work Experience
-                </h3>
-                <div
-                  className="c-about-cv__category-info"
-                >
-                  <h4>
-                    Front End Developer - Shift Commerce
-                  </h4>
-                  <p>
-                    02/2018 - 03/2018
-                  </p>
-                  <ul>
-                    <li>
-                      Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                    </li>
-                    <li>
-                      I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  className="c-about-cv__category-info"
-                >
-                  <h4>
-                    Stock Photographer
-                  </h4>
-                  <p>
-                    09/2011 - Present
-                  </p>
-                  <ul>
-                    <li>
-                      Food Stock Photography
-                    </li>
-                    <li>
-                      Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                    </li>
-                    <li>
-                      Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  className="c-about-cv__category-info"
-                >
-                  <h4>
-                    Photographer - Everyscape
-                  </h4>
-                  <p>
-                    02/2014 - 02/2015
-                  </p>
-                  <ul>
-                    <li>
-                      Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  className="c-about-cv__category-info"
-                >
-                  <h4>
-                    Product Photographer - Trade Furniture Company
-                  </h4>
-                  <p>
-                    03/2013 - 06/2015
-                  </p>
-                  <ul>
-                    <li>
-                      Producing images of solid wood furniture.
-                    </li>
-                  </ul>
-                </div>
-              </div>,
-              <div
                 className="c-about-cv__category c-about-cv__category-lists"
               >
                 <h3>
@@ -1052,6 +1063,578 @@ ShallowWrapper {
               },
               "ref": null,
               "rendered": null,
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h3>
+                      Work Experience
+                    </h3>
+                    <h4>
+                      Web Developer - YummyPixels
+                    </h4>
+                    <p>
+                      01/2020 - present
+                    </p>
+                    <ul>
+                      <li>
+                        Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                      </li>
+                      <li>
+                        Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                      </li>
+                    </ul>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      UI Developer - Hitachi Capital (UK) PLC
+                    </h4>
+                    <p>
+                      11/2019 - 01/2020
+                    </p>
+                    <ul>
+                      <li>
+                        Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                      </li>
+                      <li>
+                        Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                      </li>
+                    </ul>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Front End Developer - Shift Commerce
+                    </h4>
+                    <p>
+                      02/2018 - 03/2018
+                    </p>
+                    <ul>
+                      <li>
+                        Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                      </li>
+                      <li>
+                        I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                      </li>
+                    </ul>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Stock Photographer - YummyPixels
+                    </h4>
+                    <p>
+                      09/2011 - Present
+                    </p>
+                    <ul>
+                      <li>
+                        Food Stock Photography
+                      </li>
+                      <li>
+                        Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                      </li>
+                      <li>
+                        Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                      </li>
+                    </ul>
+                  </div>,
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Product Photographer - Trade Furniture Company
+                    </h4>
+                    <p>
+                      03/2013 - 06/2015
+                    </p>
+                    <ul>
+                      <li>
+                        Producing images of solid wood furniture.
+                      </li>
+                    </ul>
+                  </div>,
+                ],
+                "className": "c-about-cv__category",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h3>
+                        Work Experience
+                      </h3>,
+                      <h4>
+                        Web Developer - YummyPixels
+                      </h4>,
+                      <p>
+                        01/2020 - present
+                      </p>,
+                      <ul>
+                        <li>
+                          Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                        </li>
+                        <li>
+                          Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Work Experience",
+                      },
+                      "ref": null,
+                      "rendered": "Work Experience",
+                      "type": "h3",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Web Developer - YummyPixels",
+                      },
+                      "ref": null,
+                      "rendered": "Web Developer - YummyPixels",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "01/2020 - present",
+                      },
+                      "ref": null,
+                      "rendered": "01/2020 - present",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <li>
+                            Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                          </li>,
+                          <li>
+                            Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                          </li>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Working on changing the branding of YummyPixels from being a photography business into a web development business.",
+                          },
+                          "ref": null,
+                          "rendered": "Working on changing the branding of YummyPixels from being a photography business into a web development business.",
+                          "type": "li",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.",
+                          },
+                          "ref": null,
+                          "rendered": "Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.",
+                          "type": "li",
+                        },
+                      ],
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        UI Developer - Hitachi Capital (UK) PLC
+                      </h4>,
+                      <p>
+                        11/2019 - 01/2020
+                      </p>,
+                      <ul>
+                        <li>
+                          Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                        </li>
+                        <li>
+                          Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "UI Developer - Hitachi Capital (UK) PLC",
+                      },
+                      "ref": null,
+                      "rendered": "UI Developer - Hitachi Capital (UK) PLC",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "11/2019 - 01/2020",
+                      },
+                      "ref": null,
+                      "rendered": "11/2019 - 01/2020",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <li>
+                            Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                          </li>,
+                          <li>
+                            Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                          </li>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.",
+                          },
+                          "ref": null,
+                          "rendered": "Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.",
+                          "type": "li",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.",
+                          },
+                          "ref": null,
+                          "rendered": "Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.",
+                          "type": "li",
+                        },
+                      ],
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Front End Developer - Shift Commerce
+                      </h4>,
+                      <p>
+                        02/2018 - 03/2018
+                      </p>,
+                      <ul>
+                        <li>
+                          Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                        </li>
+                        <li>
+                          I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Front End Developer - Shift Commerce",
+                      },
+                      "ref": null,
+                      "rendered": "Front End Developer - Shift Commerce",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "02/2018 - 03/2018",
+                      },
+                      "ref": null,
+                      "rendered": "02/2018 - 03/2018",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <li>
+                            Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                          </li>,
+                          <li>
+                            I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                          </li>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
+                          },
+                          "ref": null,
+                          "rendered": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
+                          "type": "li",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
+                          },
+                          "ref": null,
+                          "rendered": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
+                          "type": "li",
+                        },
+                      ],
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Stock Photographer - YummyPixels
+                      </h4>,
+                      <p>
+                        09/2011 - Present
+                      </p>,
+                      <ul>
+                        <li>
+                          Food Stock Photography
+                        </li>
+                        <li>
+                          Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                        </li>
+                        <li>
+                          Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Stock Photographer - YummyPixels",
+                      },
+                      "ref": null,
+                      "rendered": "Stock Photographer - YummyPixels",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "09/2011 - Present",
+                      },
+                      "ref": null,
+                      "rendered": "09/2011 - Present",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <li>
+                            Food Stock Photography
+                          </li>,
+                          <li>
+                            Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                          </li>,
+                          <li>
+                            Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                          </li>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Food Stock Photography",
+                          },
+                          "ref": null,
+                          "rendered": "Food Stock Photography",
+                          "type": "li",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
+                          },
+                          "ref": null,
+                          "rendered": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
+                          "type": "li",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
+                          },
+                          "ref": null,
+                          "rendered": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
+                          "type": "li",
+                        },
+                      ],
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h4>
+                        Product Photographer - Trade Furniture Company
+                      </h4>,
+                      <p>
+                        03/2013 - 06/2015
+                      </p>,
+                      <ul>
+                        <li>
+                          Producing images of solid wood furniture.
+                        </li>
+                      </ul>,
+                    ],
+                    "className": "c-about-cv__category-info",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Product Photographer - Trade Furniture Company",
+                      },
+                      "ref": null,
+                      "rendered": "Product Photographer - Trade Furniture Company",
+                      "type": "h4",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "03/2013 - 06/2015",
+                      },
+                      "ref": null,
+                      "rendered": "03/2013 - 06/2015",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <li>
+                          Producing images of solid wood furniture.
+                        </li>,
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Producing images of solid wood furniture.",
+                        },
+                        "ref": null,
+                        "rendered": "Producing images of solid wood furniture.",
+                        "type": "li",
+                      },
+                      "type": "ul",
+                    },
+                  ],
+                  "type": "div",
+                },
+              ],
               "type": "div",
             },
             Object {
@@ -1767,442 +2350,6 @@ ShallowWrapper {
               "props": Object {
                 "children": Array [
                   <h3>
-                    Work Experience
-                  </h3>,
-                  <div
-                    className="c-about-cv__category-info"
-                  >
-                    <h4>
-                      Front End Developer - Shift Commerce
-                    </h4>
-                    <p>
-                      02/2018 - 03/2018
-                    </p>
-                    <ul>
-                      <li>
-                        Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                      </li>
-                      <li>
-                        I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                      </li>
-                    </ul>
-                  </div>,
-                  <div
-                    className="c-about-cv__category-info"
-                  >
-                    <h4>
-                      Stock Photographer
-                    </h4>
-                    <p>
-                      09/2011 - Present
-                    </p>
-                    <ul>
-                      <li>
-                        Food Stock Photography
-                      </li>
-                      <li>
-                        Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                      </li>
-                      <li>
-                        Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                      </li>
-                    </ul>
-                  </div>,
-                  <div
-                    className="c-about-cv__category-info"
-                  >
-                    <h4>
-                      Photographer - Everyscape
-                    </h4>
-                    <p>
-                      02/2014 - 02/2015
-                    </p>
-                    <ul>
-                      <li>
-                        Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                      </li>
-                    </ul>
-                  </div>,
-                  <div
-                    className="c-about-cv__category-info"
-                  >
-                    <h4>
-                      Product Photographer - Trade Furniture Company
-                    </h4>
-                    <p>
-                      03/2013 - 06/2015
-                    </p>
-                    <ul>
-                      <li>
-                        Producing images of solid wood furniture.
-                      </li>
-                    </ul>
-                  </div>,
-                ],
-                "className": "c-about-cv__category",
-              },
-              "ref": null,
-              "rendered": Array [
-                Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "host",
-                  "props": Object {
-                    "children": "Work Experience",
-                  },
-                  "ref": null,
-                  "rendered": "Work Experience",
-                  "type": "h3",
-                },
-                Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "host",
-                  "props": Object {
-                    "children": Array [
-                      <h4>
-                        Front End Developer - Shift Commerce
-                      </h4>,
-                      <p>
-                        02/2018 - 03/2018
-                      </p>,
-                      <ul>
-                        <li>
-                          Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                        </li>
-                        <li>
-                          I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                        </li>
-                      </ul>,
-                    ],
-                    "className": "c-about-cv__category-info",
-                  },
-                  "ref": null,
-                  "rendered": Array [
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "Front End Developer - Shift Commerce",
-                      },
-                      "ref": null,
-                      "rendered": "Front End Developer - Shift Commerce",
-                      "type": "h4",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "02/2018 - 03/2018",
-                      },
-                      "ref": null,
-                      "rendered": "02/2018 - 03/2018",
-                      "type": "p",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": Array [
-                          <li>
-                            Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                          </li>,
-                          <li>
-                            I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                          </li>,
-                        ],
-                      },
-                      "ref": null,
-                      "rendered": Array [
-                        Object {
-                          "instance": null,
-                          "key": undefined,
-                          "nodeType": "host",
-                          "props": Object {
-                            "children": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
-                          },
-                          "ref": null,
-                          "rendered": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
-                          "type": "li",
-                        },
-                        Object {
-                          "instance": null,
-                          "key": undefined,
-                          "nodeType": "host",
-                          "props": Object {
-                            "children": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
-                          },
-                          "ref": null,
-                          "rendered": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
-                          "type": "li",
-                        },
-                      ],
-                      "type": "ul",
-                    },
-                  ],
-                  "type": "div",
-                },
-                Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "host",
-                  "props": Object {
-                    "children": Array [
-                      <h4>
-                        Stock Photographer
-                      </h4>,
-                      <p>
-                        09/2011 - Present
-                      </p>,
-                      <ul>
-                        <li>
-                          Food Stock Photography
-                        </li>
-                        <li>
-                          Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                        </li>
-                        <li>
-                          Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                        </li>
-                      </ul>,
-                    ],
-                    "className": "c-about-cv__category-info",
-                  },
-                  "ref": null,
-                  "rendered": Array [
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "Stock Photographer",
-                      },
-                      "ref": null,
-                      "rendered": "Stock Photographer",
-                      "type": "h4",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "09/2011 - Present",
-                      },
-                      "ref": null,
-                      "rendered": "09/2011 - Present",
-                      "type": "p",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": Array [
-                          <li>
-                            Food Stock Photography
-                          </li>,
-                          <li>
-                            Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                          </li>,
-                          <li>
-                            Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                          </li>,
-                        ],
-                      },
-                      "ref": null,
-                      "rendered": Array [
-                        Object {
-                          "instance": null,
-                          "key": undefined,
-                          "nodeType": "host",
-                          "props": Object {
-                            "children": "Food Stock Photography",
-                          },
-                          "ref": null,
-                          "rendered": "Food Stock Photography",
-                          "type": "li",
-                        },
-                        Object {
-                          "instance": null,
-                          "key": undefined,
-                          "nodeType": "host",
-                          "props": Object {
-                            "children": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
-                          },
-                          "ref": null,
-                          "rendered": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
-                          "type": "li",
-                        },
-                        Object {
-                          "instance": null,
-                          "key": undefined,
-                          "nodeType": "host",
-                          "props": Object {
-                            "children": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
-                          },
-                          "ref": null,
-                          "rendered": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
-                          "type": "li",
-                        },
-                      ],
-                      "type": "ul",
-                    },
-                  ],
-                  "type": "div",
-                },
-                Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "host",
-                  "props": Object {
-                    "children": Array [
-                      <h4>
-                        Photographer - Everyscape
-                      </h4>,
-                      <p>
-                        02/2014 - 02/2015
-                      </p>,
-                      <ul>
-                        <li>
-                          Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                        </li>
-                      </ul>,
-                    ],
-                    "className": "c-about-cv__category-info",
-                  },
-                  "ref": null,
-                  "rendered": Array [
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "Photographer - Everyscape",
-                      },
-                      "ref": null,
-                      "rendered": "Photographer - Everyscape",
-                      "type": "h4",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "02/2014 - 02/2015",
-                      },
-                      "ref": null,
-                      "rendered": "02/2014 - 02/2015",
-                      "type": "p",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": <li>
-                          Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                        </li>,
-                      },
-                      "ref": null,
-                      "rendered": Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.",
-                        },
-                        "ref": null,
-                        "rendered": "Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.",
-                        "type": "li",
-                      },
-                      "type": "ul",
-                    },
-                  ],
-                  "type": "div",
-                },
-                Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "host",
-                  "props": Object {
-                    "children": Array [
-                      <h4>
-                        Product Photographer - Trade Furniture Company
-                      </h4>,
-                      <p>
-                        03/2013 - 06/2015
-                      </p>,
-                      <ul>
-                        <li>
-                          Producing images of solid wood furniture.
-                        </li>
-                      </ul>,
-                    ],
-                    "className": "c-about-cv__category-info",
-                  },
-                  "ref": null,
-                  "rendered": Array [
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "Product Photographer - Trade Furniture Company",
-                      },
-                      "ref": null,
-                      "rendered": "Product Photographer - Trade Furniture Company",
-                      "type": "h4",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "03/2013 - 06/2015",
-                      },
-                      "ref": null,
-                      "rendered": "03/2013 - 06/2015",
-                      "type": "p",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": <li>
-                          Producing images of solid wood furniture.
-                        </li>,
-                      },
-                      "ref": null,
-                      "rendered": Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "Producing images of solid wood furniture.",
-                        },
-                        "ref": null,
-                        "rendered": "Producing images of solid wood furniture.",
-                        "type": "li",
-                      },
-                      "type": "ul",
-                    },
-                  ],
-                  "type": "div",
-                },
-              ],
-              "type": "div",
-            },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": Array [
-                  <h3>
                     Hobbies and Interests
                   </h3>,
                   <ul>
@@ -2391,16 +2538,10 @@ ShallowWrapper {
                 className="c-about__text"
               >
                 <p>
-                  I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                  I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                 </p>
                 <p>
-                  My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                </p>
-                <p>
-                  Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                </p>
-                <p>
-                  This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                  I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                 </p>
                 <p>
                   I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -2417,6 +2558,103 @@ ShallowWrapper {
             <div
               className="c-header-divider"
             />
+            <div
+              className="c-about-cv__category"
+            >
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h3>
+                  Work Experience
+                </h3>
+                <h4>
+                  Web Developer - YummyPixels
+                </h4>
+                <p>
+                  01/2020 - present
+                </p>
+                <ul>
+                  <li>
+                    Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                  </li>
+                  <li>
+                    Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  UI Developer - Hitachi Capital (UK) PLC
+                </h4>
+                <p>
+                  11/2019 - 01/2020
+                </p>
+                <ul>
+                  <li>
+                    Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                  </li>
+                  <li>
+                    Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Front End Developer - Shift Commerce
+                </h4>
+                <p>
+                  02/2018 - 03/2018
+                </p>
+                <ul>
+                  <li>
+                    Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                  </li>
+                  <li>
+                    I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Stock Photographer - YummyPixels
+                </h4>
+                <p>
+                  09/2011 - Present
+                </p>
+                <ul>
+                  <li>
+                    Food Stock Photography
+                  </li>
+                  <li>
+                    Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                  </li>
+                  <li>
+                    Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                  </li>
+                </ul>
+              </div>
+              <div
+                className="c-about-cv__category-info"
+              >
+                <h4>
+                  Product Photographer - Trade Furniture Company
+                </h4>
+                <p>
+                  03/2013 - 06/2015
+                </p>
+                <ul>
+                  <li>
+                    Producing images of solid wood furniture.
+                  </li>
+                </ul>
+              </div>
+            </div>
             <div
               className="c-about-cv__category"
             >
@@ -2551,82 +2789,6 @@ ShallowWrapper {
               </ul>
             </div>
             <div
-              className="c-about-cv__category"
-            >
-              <h3>
-                Work Experience
-              </h3>
-              <div
-                className="c-about-cv__category-info"
-              >
-                <h4>
-                  Front End Developer - Shift Commerce
-                </h4>
-                <p>
-                  02/2018 - 03/2018
-                </p>
-                <ul>
-                  <li>
-                    Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                  </li>
-                  <li>
-                    I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                  </li>
-                </ul>
-              </div>
-              <div
-                className="c-about-cv__category-info"
-              >
-                <h4>
-                  Stock Photographer
-                </h4>
-                <p>
-                  09/2011 - Present
-                </p>
-                <ul>
-                  <li>
-                    Food Stock Photography
-                  </li>
-                  <li>
-                    Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                  </li>
-                  <li>
-                    Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                  </li>
-                </ul>
-              </div>
-              <div
-                className="c-about-cv__category-info"
-              >
-                <h4>
-                  Photographer - Everyscape
-                </h4>
-                <p>
-                  02/2014 - 02/2015
-                </p>
-                <ul>
-                  <li>
-                    Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                  </li>
-                </ul>
-              </div>
-              <div
-                className="c-about-cv__category-info"
-              >
-                <h4>
-                  Product Photographer - Trade Furniture Company
-                </h4>
-                <p>
-                  03/2013 - 06/2015
-                </p>
-                <ul>
-                  <li>
-                    Producing images of solid wood furniture.
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div
               className="c-about-cv__category c-about-cv__category-lists"
             >
               <h3>
@@ -2682,16 +2844,10 @@ ShallowWrapper {
                   className="c-about__text"
                 >
                   <p>
-                    I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                    I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                   </p>
                   <p>
-                    My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                  </p>
-                  <p>
-                    Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                  </p>
-                  <p>
-                    This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                    I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                   </p>
                   <p>
                     I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -2708,6 +2864,103 @@ ShallowWrapper {
               <div
                 className="c-header-divider"
               />
+              <div
+                className="c-about-cv__category"
+              >
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h3>
+                    Work Experience
+                  </h3>
+                  <h4>
+                    Web Developer - YummyPixels
+                  </h4>
+                  <p>
+                    01/2020 - present
+                  </p>
+                  <ul>
+                    <li>
+                      Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                    </li>
+                    <li>
+                      Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    UI Developer - Hitachi Capital (UK) PLC
+                  </h4>
+                  <p>
+                    11/2019 - 01/2020
+                  </p>
+                  <ul>
+                    <li>
+                      Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                    </li>
+                    <li>
+                      Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Front End Developer - Shift Commerce
+                  </h4>
+                  <p>
+                    02/2018 - 03/2018
+                  </p>
+                  <ul>
+                    <li>
+                      Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                    </li>
+                    <li>
+                      I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Stock Photographer - YummyPixels
+                  </h4>
+                  <p>
+                    09/2011 - Present
+                  </p>
+                  <ul>
+                    <li>
+                      Food Stock Photography
+                    </li>
+                    <li>
+                      Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                    </li>
+                    <li>
+                      Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  className="c-about-cv__category-info"
+                >
+                  <h4>
+                    Product Photographer - Trade Furniture Company
+                  </h4>
+                  <p>
+                    03/2013 - 06/2015
+                  </p>
+                  <ul>
+                    <li>
+                      Producing images of solid wood furniture.
+                    </li>
+                  </ul>
+                </div>
+              </div>
               <div
                 className="c-about-cv__category"
               >
@@ -2842,82 +3095,6 @@ ShallowWrapper {
                 </ul>
               </div>
               <div
-                className="c-about-cv__category"
-              >
-                <h3>
-                  Work Experience
-                </h3>
-                <div
-                  className="c-about-cv__category-info"
-                >
-                  <h4>
-                    Front End Developer - Shift Commerce
-                  </h4>
-                  <p>
-                    02/2018 - 03/2018
-                  </p>
-                  <ul>
-                    <li>
-                      Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                    </li>
-                    <li>
-                      I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  className="c-about-cv__category-info"
-                >
-                  <h4>
-                    Stock Photographer
-                  </h4>
-                  <p>
-                    09/2011 - Present
-                  </p>
-                  <ul>
-                    <li>
-                      Food Stock Photography
-                    </li>
-                    <li>
-                      Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                    </li>
-                    <li>
-                      Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  className="c-about-cv__category-info"
-                >
-                  <h4>
-                    Photographer - Everyscape
-                  </h4>
-                  <p>
-                    02/2014 - 02/2015
-                  </p>
-                  <ul>
-                    <li>
-                      Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                    </li>
-                  </ul>
-                </div>
-                <div
-                  className="c-about-cv__category-info"
-                >
-                  <h4>
-                    Product Photographer - Trade Furniture Company
-                  </h4>
-                  <p>
-                    03/2013 - 06/2015
-                  </p>
-                  <ul>
-                    <li>
-                      Producing images of solid wood furniture.
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div
                 className="c-about-cv__category c-about-cv__category-lists"
               >
                 <h3>
@@ -2972,16 +3149,10 @@ ShallowWrapper {
                     className="c-about__text"
                   >
                     <p>
-                      I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                      I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                     </p>
                     <p>
-                      My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                    </p>
-                    <p>
-                      Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                    </p>
-                    <p>
-                      This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                      I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                     </p>
                     <p>
                       I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -3024,16 +3195,10 @@ ShallowWrapper {
                     className="c-about__text"
                   >
                     <p>
-                      I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                      I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                     </p>
                     <p>
-                      My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                    </p>
-                    <p>
-                      Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                    </p>
-                    <p>
-                      This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                      I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                     </p>
                     <p>
                       I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -3049,16 +3214,10 @@ ShallowWrapper {
                   "props": Object {
                     "children": Array [
                       <p>
-                        I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.
+                        I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.
                       </p>,
                       <p>
-                        My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.
-                      </p>,
-                      <p>
-                        Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.
-                      </p>,
-                      <p>
-                        This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
+                        I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.
                       </p>,
                       <p>
                         I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the {Pro}Coders course covered the skills I would need to pursue a career as a developer.
@@ -3073,10 +3232,10 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.",
+                        "children": "I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.",
                       },
                       "ref": null,
-                      "rendered": "I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.",
+                      "rendered": "I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.",
                       "type": "p",
                     },
                     Object {
@@ -3084,32 +3243,10 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.",
+                        "children": "I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
                       },
                       "ref": null,
-                      "rendered": "My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.",
-                      "type": "p",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.",
-                      },
-                      "ref": null,
-                      "rendered": "Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.",
-                      "type": "p",
-                    },
-                    Object {
-                      "instance": null,
-                      "key": undefined,
-                      "nodeType": "host",
-                      "props": Object {
-                        "children": "This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
-                      },
-                      "ref": null,
-                      "rendered": "This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
+                      "rendered": "I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.",
                       "type": "p",
                     },
                     Object {
@@ -3143,6 +3280,103 @@ ShallowWrapper {
                 <div
                   className="c-header-divider"
                 />,
+                <div
+                  className="c-about-cv__category"
+                >
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h3>
+                      Work Experience
+                    </h3>
+                    <h4>
+                      Web Developer - YummyPixels
+                    </h4>
+                    <p>
+                      01/2020 - present
+                    </p>
+                    <ul>
+                      <li>
+                        Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                      </li>
+                      <li>
+                        Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                      </li>
+                    </ul>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      UI Developer - Hitachi Capital (UK) PLC
+                    </h4>
+                    <p>
+                      11/2019 - 01/2020
+                    </p>
+                    <ul>
+                      <li>
+                        Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                      </li>
+                      <li>
+                        Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                      </li>
+                    </ul>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Front End Developer - Shift Commerce
+                    </h4>
+                    <p>
+                      02/2018 - 03/2018
+                    </p>
+                    <ul>
+                      <li>
+                        Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                      </li>
+                      <li>
+                        I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                      </li>
+                    </ul>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Stock Photographer - YummyPixels
+                    </h4>
+                    <p>
+                      09/2011 - Present
+                    </p>
+                    <ul>
+                      <li>
+                        Food Stock Photography
+                      </li>
+                      <li>
+                        Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                      </li>
+                      <li>
+                        Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                      </li>
+                    </ul>
+                  </div>
+                  <div
+                    className="c-about-cv__category-info"
+                  >
+                    <h4>
+                      Product Photographer - Trade Furniture Company
+                    </h4>
+                    <p>
+                      03/2013 - 06/2015
+                    </p>
+                    <ul>
+                      <li>
+                        Producing images of solid wood furniture.
+                      </li>
+                    </ul>
+                  </div>
+                </div>,
                 <div
                   className="c-about-cv__category"
                 >
@@ -3277,82 +3511,6 @@ ShallowWrapper {
                   </ul>
                 </div>,
                 <div
-                  className="c-about-cv__category"
-                >
-                  <h3>
-                    Work Experience
-                  </h3>
-                  <div
-                    className="c-about-cv__category-info"
-                  >
-                    <h4>
-                      Front End Developer - Shift Commerce
-                    </h4>
-                    <p>
-                      02/2018 - 03/2018
-                    </p>
-                    <ul>
-                      <li>
-                        Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                      </li>
-                      <li>
-                        I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                      </li>
-                    </ul>
-                  </div>
-                  <div
-                    className="c-about-cv__category-info"
-                  >
-                    <h4>
-                      Stock Photographer
-                    </h4>
-                    <p>
-                      09/2011 - Present
-                    </p>
-                    <ul>
-                      <li>
-                        Food Stock Photography
-                      </li>
-                      <li>
-                        Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                      </li>
-                      <li>
-                        Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                      </li>
-                    </ul>
-                  </div>
-                  <div
-                    className="c-about-cv__category-info"
-                  >
-                    <h4>
-                      Photographer - Everyscape
-                    </h4>
-                    <p>
-                      02/2014 - 02/2015
-                    </p>
-                    <ul>
-                      <li>
-                        Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                      </li>
-                    </ul>
-                  </div>
-                  <div
-                    className="c-about-cv__category-info"
-                  >
-                    <h4>
-                      Product Photographer - Trade Furniture Company
-                    </h4>
-                    <p>
-                      03/2013 - 06/2015
-                    </p>
-                    <ul>
-                      <li>
-                        Producing images of solid wood furniture.
-                      </li>
-                    </ul>
-                  </div>
-                </div>,
-                <div
                   className="c-about-cv__category c-about-cv__category-lists"
                 >
                   <h3>
@@ -3407,6 +3565,578 @@ ShallowWrapper {
                 },
                 "ref": null,
                 "rendered": null,
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h3>
+                        Work Experience
+                      </h3>
+                      <h4>
+                        Web Developer - YummyPixels
+                      </h4>
+                      <p>
+                        01/2020 - present
+                      </p>
+                      <ul>
+                        <li>
+                          Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                        </li>
+                        <li>
+                          Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                        </li>
+                      </ul>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        UI Developer - Hitachi Capital (UK) PLC
+                      </h4>
+                      <p>
+                        11/2019 - 01/2020
+                      </p>
+                      <ul>
+                        <li>
+                          Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                        </li>
+                        <li>
+                          Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                        </li>
+                      </ul>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Front End Developer - Shift Commerce
+                      </h4>
+                      <p>
+                        02/2018 - 03/2018
+                      </p>
+                      <ul>
+                        <li>
+                          Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                        </li>
+                        <li>
+                          I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                        </li>
+                      </ul>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Stock Photographer - YummyPixels
+                      </h4>
+                      <p>
+                        09/2011 - Present
+                      </p>
+                      <ul>
+                        <li>
+                          Food Stock Photography
+                        </li>
+                        <li>
+                          Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                        </li>
+                        <li>
+                          Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                        </li>
+                      </ul>
+                    </div>,
+                    <div
+                      className="c-about-cv__category-info"
+                    >
+                      <h4>
+                        Product Photographer - Trade Furniture Company
+                      </h4>
+                      <p>
+                        03/2013 - 06/2015
+                      </p>
+                      <ul>
+                        <li>
+                          Producing images of solid wood furniture.
+                        </li>
+                      </ul>
+                    </div>,
+                  ],
+                  "className": "c-about-cv__category",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h3>
+                          Work Experience
+                        </h3>,
+                        <h4>
+                          Web Developer - YummyPixels
+                        </h4>,
+                        <p>
+                          01/2020 - present
+                        </p>,
+                        <ul>
+                          <li>
+                            Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                          </li>
+                          <li>
+                            Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Work Experience",
+                        },
+                        "ref": null,
+                        "rendered": "Work Experience",
+                        "type": "h3",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Web Developer - YummyPixels",
+                        },
+                        "ref": null,
+                        "rendered": "Web Developer - YummyPixels",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "01/2020 - present",
+                        },
+                        "ref": null,
+                        "rendered": "01/2020 - present",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <li>
+                              Working on changing the branding of YummyPixels from being a photography business into a web development business.
+                            </li>,
+                            <li>
+                              Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.
+                            </li>,
+                          ],
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Working on changing the branding of YummyPixels from being a photography business into a web development business.",
+                            },
+                            "ref": null,
+                            "rendered": "Working on changing the branding of YummyPixels from being a photography business into a web development business.",
+                            "type": "li",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.",
+                            },
+                            "ref": null,
+                            "rendered": "Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.",
+                            "type": "li",
+                          },
+                        ],
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          UI Developer - Hitachi Capital (UK) PLC
+                        </h4>,
+                        <p>
+                          11/2019 - 01/2020
+                        </p>,
+                        <ul>
+                          <li>
+                            Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                          </li>
+                          <li>
+                            Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "UI Developer - Hitachi Capital (UK) PLC",
+                        },
+                        "ref": null,
+                        "rendered": "UI Developer - Hitachi Capital (UK) PLC",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "11/2019 - 01/2020",
+                        },
+                        "ref": null,
+                        "rendered": "11/2019 - 01/2020",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <li>
+                              Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.
+                            </li>,
+                            <li>
+                              Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.
+                            </li>,
+                          ],
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.",
+                            },
+                            "ref": null,
+                            "rendered": "Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.",
+                            "type": "li",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.",
+                            },
+                            "ref": null,
+                            "rendered": "Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.",
+                            "type": "li",
+                          },
+                        ],
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Front End Developer - Shift Commerce
+                        </h4>,
+                        <p>
+                          02/2018 - 03/2018
+                        </p>,
+                        <ul>
+                          <li>
+                            Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                          </li>
+                          <li>
+                            I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Front End Developer - Shift Commerce",
+                        },
+                        "ref": null,
+                        "rendered": "Front End Developer - Shift Commerce",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "02/2018 - 03/2018",
+                        },
+                        "ref": null,
+                        "rendered": "02/2018 - 03/2018",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <li>
+                              Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
+                            </li>,
+                            <li>
+                              I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
+                            </li>,
+                          ],
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
+                            },
+                            "ref": null,
+                            "rendered": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
+                            "type": "li",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
+                            },
+                            "ref": null,
+                            "rendered": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
+                            "type": "li",
+                          },
+                        ],
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Stock Photographer - YummyPixels
+                        </h4>,
+                        <p>
+                          09/2011 - Present
+                        </p>,
+                        <ul>
+                          <li>
+                            Food Stock Photography
+                          </li>
+                          <li>
+                            Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                          </li>
+                          <li>
+                            Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Stock Photographer - YummyPixels",
+                        },
+                        "ref": null,
+                        "rendered": "Stock Photographer - YummyPixels",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "09/2011 - Present",
+                        },
+                        "ref": null,
+                        "rendered": "09/2011 - Present",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <li>
+                              Food Stock Photography
+                            </li>,
+                            <li>
+                              Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
+                            </li>,
+                            <li>
+                              Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
+                            </li>,
+                          ],
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Food Stock Photography",
+                            },
+                            "ref": null,
+                            "rendered": "Food Stock Photography",
+                            "type": "li",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
+                            },
+                            "ref": null,
+                            "rendered": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
+                            "type": "li",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
+                            },
+                            "ref": null,
+                            "rendered": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
+                            "type": "li",
+                          },
+                        ],
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h4>
+                          Product Photographer - Trade Furniture Company
+                        </h4>,
+                        <p>
+                          03/2013 - 06/2015
+                        </p>,
+                        <ul>
+                          <li>
+                            Producing images of solid wood furniture.
+                          </li>
+                        </ul>,
+                      ],
+                      "className": "c-about-cv__category-info",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Product Photographer - Trade Furniture Company",
+                        },
+                        "ref": null,
+                        "rendered": "Product Photographer - Trade Furniture Company",
+                        "type": "h4",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "03/2013 - 06/2015",
+                        },
+                        "ref": null,
+                        "rendered": "03/2013 - 06/2015",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <li>
+                            Producing images of solid wood furniture.
+                          </li>,
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Producing images of solid wood furniture.",
+                          },
+                          "ref": null,
+                          "rendered": "Producing images of solid wood furniture.",
+                          "type": "li",
+                        },
+                        "type": "ul",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                ],
                 "type": "div",
               },
               Object {
@@ -4111,442 +4841,6 @@ ShallowWrapper {
                       },
                     ],
                     "type": "ul",
-                  },
-                ],
-                "type": "div",
-              },
-              Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "host",
-                "props": Object {
-                  "children": Array [
-                    <h3>
-                      Work Experience
-                    </h3>,
-                    <div
-                      className="c-about-cv__category-info"
-                    >
-                      <h4>
-                        Front End Developer - Shift Commerce
-                      </h4>
-                      <p>
-                        02/2018 - 03/2018
-                      </p>
-                      <ul>
-                        <li>
-                          Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                        </li>
-                        <li>
-                          I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                        </li>
-                      </ul>
-                    </div>,
-                    <div
-                      className="c-about-cv__category-info"
-                    >
-                      <h4>
-                        Stock Photographer
-                      </h4>
-                      <p>
-                        09/2011 - Present
-                      </p>
-                      <ul>
-                        <li>
-                          Food Stock Photography
-                        </li>
-                        <li>
-                          Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                        </li>
-                        <li>
-                          Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                        </li>
-                      </ul>
-                    </div>,
-                    <div
-                      className="c-about-cv__category-info"
-                    >
-                      <h4>
-                        Photographer - Everyscape
-                      </h4>
-                      <p>
-                        02/2014 - 02/2015
-                      </p>
-                      <ul>
-                        <li>
-                          Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                        </li>
-                      </ul>
-                    </div>,
-                    <div
-                      className="c-about-cv__category-info"
-                    >
-                      <h4>
-                        Product Photographer - Trade Furniture Company
-                      </h4>
-                      <p>
-                        03/2013 - 06/2015
-                      </p>
-                      <ul>
-                        <li>
-                          Producing images of solid wood furniture.
-                        </li>
-                      </ul>
-                    </div>,
-                  ],
-                  "className": "c-about-cv__category",
-                },
-                "ref": null,
-                "rendered": Array [
-                  Object {
-                    "instance": null,
-                    "key": undefined,
-                    "nodeType": "host",
-                    "props": Object {
-                      "children": "Work Experience",
-                    },
-                    "ref": null,
-                    "rendered": "Work Experience",
-                    "type": "h3",
-                  },
-                  Object {
-                    "instance": null,
-                    "key": undefined,
-                    "nodeType": "host",
-                    "props": Object {
-                      "children": Array [
-                        <h4>
-                          Front End Developer - Shift Commerce
-                        </h4>,
-                        <p>
-                          02/2018 - 03/2018
-                        </p>,
-                        <ul>
-                          <li>
-                            Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                          </li>
-                          <li>
-                            I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                          </li>
-                        </ul>,
-                      ],
-                      "className": "c-about-cv__category-info",
-                    },
-                    "ref": null,
-                    "rendered": Array [
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "Front End Developer - Shift Commerce",
-                        },
-                        "ref": null,
-                        "rendered": "Front End Developer - Shift Commerce",
-                        "type": "h4",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "02/2018 - 03/2018",
-                        },
-                        "ref": null,
-                        "rendered": "02/2018 - 03/2018",
-                        "type": "p",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": Array [
-                            <li>
-                              Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.
-                            </li>,
-                            <li>
-                              I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.
-                            </li>,
-                          ],
-                        },
-                        "ref": null,
-                        "rendered": Array [
-                          Object {
-                            "instance": null,
-                            "key": undefined,
-                            "nodeType": "host",
-                            "props": Object {
-                              "children": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
-                            },
-                            "ref": null,
-                            "rendered": "Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.",
-                            "type": "li",
-                          },
-                          Object {
-                            "instance": null,
-                            "key": undefined,
-                            "nodeType": "host",
-                            "props": Object {
-                              "children": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
-                            },
-                            "ref": null,
-                            "rendered": "I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.",
-                            "type": "li",
-                          },
-                        ],
-                        "type": "ul",
-                      },
-                    ],
-                    "type": "div",
-                  },
-                  Object {
-                    "instance": null,
-                    "key": undefined,
-                    "nodeType": "host",
-                    "props": Object {
-                      "children": Array [
-                        <h4>
-                          Stock Photographer
-                        </h4>,
-                        <p>
-                          09/2011 - Present
-                        </p>,
-                        <ul>
-                          <li>
-                            Food Stock Photography
-                          </li>
-                          <li>
-                            Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                          </li>
-                          <li>
-                            Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                          </li>
-                        </ul>,
-                      ],
-                      "className": "c-about-cv__category-info",
-                    },
-                    "ref": null,
-                    "rendered": Array [
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "Stock Photographer",
-                        },
-                        "ref": null,
-                        "rendered": "Stock Photographer",
-                        "type": "h4",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "09/2011 - Present",
-                        },
-                        "ref": null,
-                        "rendered": "09/2011 - Present",
-                        "type": "p",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": Array [
-                            <li>
-                              Food Stock Photography
-                            </li>,
-                            <li>
-                              Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.
-                            </li>,
-                            <li>
-                              Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.
-                            </li>,
-                          ],
-                        },
-                        "ref": null,
-                        "rendered": Array [
-                          Object {
-                            "instance": null,
-                            "key": undefined,
-                            "nodeType": "host",
-                            "props": Object {
-                              "children": "Food Stock Photography",
-                            },
-                            "ref": null,
-                            "rendered": "Food Stock Photography",
-                            "type": "li",
-                          },
-                          Object {
-                            "instance": null,
-                            "key": undefined,
-                            "nodeType": "host",
-                            "props": Object {
-                              "children": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
-                            },
-                            "ref": null,
-                            "rendered": "Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.",
-                            "type": "li",
-                          },
-                          Object {
-                            "instance": null,
-                            "key": undefined,
-                            "nodeType": "host",
-                            "props": Object {
-                              "children": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
-                            },
-                            "ref": null,
-                            "rendered": "Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.",
-                            "type": "li",
-                          },
-                        ],
-                        "type": "ul",
-                      },
-                    ],
-                    "type": "div",
-                  },
-                  Object {
-                    "instance": null,
-                    "key": undefined,
-                    "nodeType": "host",
-                    "props": Object {
-                      "children": Array [
-                        <h4>
-                          Photographer - Everyscape
-                        </h4>,
-                        <p>
-                          02/2014 - 02/2015
-                        </p>,
-                        <ul>
-                          <li>
-                            Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                          </li>
-                        </ul>,
-                      ],
-                      "className": "c-about-cv__category-info",
-                    },
-                    "ref": null,
-                    "rendered": Array [
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "Photographer - Everyscape",
-                        },
-                        "ref": null,
-                        "rendered": "Photographer - Everyscape",
-                        "type": "h4",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "02/2014 - 02/2015",
-                        },
-                        "ref": null,
-                        "rendered": "02/2014 - 02/2015",
-                        "type": "p",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": <li>
-                            Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.
-                          </li>,
-                        },
-                        "ref": null,
-                        "rendered": Object {
-                          "instance": null,
-                          "key": undefined,
-                          "nodeType": "host",
-                          "props": Object {
-                            "children": "Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.",
-                          },
-                          "ref": null,
-                          "rendered": "Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.",
-                          "type": "li",
-                        },
-                        "type": "ul",
-                      },
-                    ],
-                    "type": "div",
-                  },
-                  Object {
-                    "instance": null,
-                    "key": undefined,
-                    "nodeType": "host",
-                    "props": Object {
-                      "children": Array [
-                        <h4>
-                          Product Photographer - Trade Furniture Company
-                        </h4>,
-                        <p>
-                          03/2013 - 06/2015
-                        </p>,
-                        <ul>
-                          <li>
-                            Producing images of solid wood furniture.
-                          </li>
-                        </ul>,
-                      ],
-                      "className": "c-about-cv__category-info",
-                    },
-                    "ref": null,
-                    "rendered": Array [
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "Product Photographer - Trade Furniture Company",
-                        },
-                        "ref": null,
-                        "rendered": "Product Photographer - Trade Furniture Company",
-                        "type": "h4",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": "03/2013 - 06/2015",
-                        },
-                        "ref": null,
-                        "rendered": "03/2013 - 06/2015",
-                        "type": "p",
-                      },
-                      Object {
-                        "instance": null,
-                        "key": undefined,
-                        "nodeType": "host",
-                        "props": Object {
-                          "children": <li>
-                            Producing images of solid wood furniture.
-                          </li>,
-                        },
-                        "ref": null,
-                        "rendered": Object {
-                          "instance": null,
-                          "key": undefined,
-                          "nodeType": "host",
-                          "props": Object {
-                            "children": "Producing images of solid wood furniture.",
-                          },
-                          "ref": null,
-                          "rendered": "Producing images of solid wood furniture.",
-                          "type": "li",
-                        },
-                        "type": "ul",
-                      },
-                    ],
-                    "type": "div",
                   },
                 ],
                 "type": "div",

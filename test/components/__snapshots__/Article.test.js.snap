@@ -45,14 +45,6 @@ ShallowWrapper {
             Article by: 
             Paul Brighton
           </h3>
-          <time
-            className="c-article__published"
-          >
-            <p>
-              Published on: 
-              2018-12-12 10:20:46 UTC
-            </p>
-          </time>
           <figure>
             <img
               className="c-article__main-img"
@@ -105,14 +97,6 @@ ShallowWrapper {
               Article by: 
               Paul Brighton
             </h3>,
-            <time
-              className="c-article__published"
-            >
-              <p>
-                Published on: 
-                2018-12-12 10:20:46 UTC
-              </p>
-            </time>,
             <figure>
               <img
                 className="c-article__main-img"
@@ -171,37 +155,6 @@ ShallowWrapper {
               "Paul Brighton",
             ],
             "type": "h3",
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": <p>
-                Published on: 
-                2018-12-12 10:20:46 UTC
-              </p>,
-              "className": "c-article__published",
-            },
-            "ref": null,
-            "rendered": Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": Array [
-                  "Published on: ",
-                  "2018-12-12 10:20:46 UTC",
-                ],
-              },
-              "ref": null,
-              "rendered": Array [
-                "Published on: ",
-                "2018-12-12 10:20:46 UTC",
-              ],
-              "type": "p",
-            },
-            "type": "time",
           },
           Object {
             "instance": null,
@@ -328,14 +281,6 @@ ShallowWrapper {
               Article by: 
               Paul Brighton
             </h3>
-            <time
-              className="c-article__published"
-            >
-              <p>
-                Published on: 
-                2018-12-12 10:20:46 UTC
-              </p>
-            </time>
             <figure>
               <img
                 className="c-article__main-img"
@@ -388,14 +333,6 @@ ShallowWrapper {
                 Article by: 
                 Paul Brighton
               </h3>,
-              <time
-                className="c-article__published"
-              >
-                <p>
-                  Published on: 
-                  2018-12-12 10:20:46 UTC
-                </p>
-              </time>,
               <figure>
                 <img
                   className="c-article__main-img"
@@ -454,37 +391,6 @@ ShallowWrapper {
                 "Paul Brighton",
               ],
               "type": "h3",
-            },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": <p>
-                  Published on: 
-                  2018-12-12 10:20:46 UTC
-                </p>,
-                "className": "c-article__published",
-              },
-              "ref": null,
-              "rendered": Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "host",
-                "props": Object {
-                  "children": Array [
-                    "Published on: ",
-                    "2018-12-12 10:20:46 UTC",
-                  ],
-                },
-                "ref": null,
-                "rendered": Array [
-                  "Published on: ",
-                  "2018-12-12 10:20:46 UTC",
-                ],
-                "type": "p",
-              },
-              "type": "time",
             },
             Object {
               "instance": null,

@@ -6,6 +6,9 @@
   "repository": "https://github.com/affinity-digital-ltd/Pauls_React_Blog.git",
   "author": "Paul Brighton",
   "license": "MIT",
+  "engines": {
+    "node": "10.16.0"
+  },
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "apollo-client-preset": "^1.0.8",

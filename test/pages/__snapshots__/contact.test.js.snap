@@ -33,10 +33,10 @@ ShallowWrapper {
             Connect with me
           </h3>
           <p>
-            I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.
+            I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.
           </p>
           <p>
-            I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.
+            I am looking to work for a creative design agency as a front end developer.
           </p>
           <p>
             Feel free to contact me with any comments or inquires using the contact form or connect with me on social media.
@@ -95,10 +95,10 @@ ShallowWrapper {
               Connect with me
             </h3>
             <p>
-              I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.
+              I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.
             </p>
             <p>
-              I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.
+              I am looking to work for a creative design agency as a front end developer.
             </p>
             <p>
               Feel free to contact me with any comments or inquires using the contact form or connect with me on social media.
@@ -172,10 +172,10 @@ ShallowWrapper {
                 Connect with me
               </h3>,
               <p>
-                I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.
+                I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.
               </p>,
               <p>
-                I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.
+                I am looking to work for a creative design agency as a front end developer.
               </p>,
               <p>
                 Feel free to contact me with any comments or inquires using the contact form or connect with me on social media.
@@ -231,10 +231,10 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.",
+                "children": "I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.",
               },
               "ref": null,
-              "rendered": "I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.",
+              "rendered": "I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.",
               "type": "p",
             },
             Object {
@@ -242,10 +242,10 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.",
+                "children": "I am looking to work for a creative design agency as a front end developer.",
               },
               "ref": null,
-              "rendered": "I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.",
+              "rendered": "I am looking to work for a creative design agency as a front end developer.",
               "type": "p",
             },
             Object {
@@ -443,10 +443,10 @@ ShallowWrapper {
               Connect with me
             </h3>
             <p>
-              I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.
+              I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.
             </p>
             <p>
-              I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.
+              I am looking to work for a creative design agency as a front end developer.
             </p>
             <p>
               Feel free to contact me with any comments or inquires using the contact form or connect with me on social media.
@@ -505,10 +505,10 @@ ShallowWrapper {
                 Connect with me
               </h3>
               <p>
-                I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.
+                I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.
               </p>
               <p>
-                I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.
+                I am looking to work for a creative design agency as a front end developer.
               </p>
               <p>
                 Feel free to contact me with any comments or inquires using the contact form or connect with me on social media.
@@ -582,10 +582,10 @@ ShallowWrapper {
                   Connect with me
                 </h3>,
                 <p>
-                  I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.
+                  I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.
                 </p>,
                 <p>
-                  I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.
+                  I am looking to work for a creative design agency as a front end developer.
                 </p>,
                 <p>
                   Feel free to contact me with any comments or inquires using the contact form or connect with me on social media.
@@ -641,10 +641,10 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "host",
                 "props": Object {
-                  "children": "I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.",
+                  "children": "I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.",
                 },
                 "ref": null,
-                "rendered": "I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.",
+                "rendered": "I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.",
                 "type": "p",
               },
               Object {
@@ -652,10 +652,10 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "host",
                 "props": Object {
-                  "children": "I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.",
+                  "children": "I am looking to work for a creative design agency as a front end developer.",
                 },
                 "ref": null,
-                "rendered": "I will be actively looking for work as a web developer as soon as I finish my course at {Pro}Coders.",
+                "rendered": "I am looking to work for a creative design agency as a front end developer.",
                 "type": "p",
               },
               Object {
