@@ -10,10 +10,8 @@ class About extends Component {
           <div className='c-header-divider' />
           <div className='o-about-intro__container'>
             <div className='c-about__text'>
-              <p>I’m Paul and I am currently seeking my first role as a Front-End Developer after studying web design and development for the last couple of years.</p>
-              <p>My background for the last 7 years is working as a food and commercial photographer mainly with a focus on food and travel and I have my portfolio of over 3000 images on some of the main stock photography sites including Shutterstock and Adobe Stock.</p>
-              <p>Although photography is a passion of mine, after releasing my first cookbook (Yummy Eats) which I put together using InDesign I found that I really loved graphic design and wanted to pursue it further.</p>
-              <p>This led me into the world of web development in which I have been studying ever since. I have passed my Adobe Dreamweaver CC ACA exam and completed a Level 3 RQF course in web design and development. I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.</p>
+              <p>I’m Paul and I am currently seeking a role hopefully in a creative digital agency as a Front-End Developer. I have worked for Hitachi Capital as a UI Developer and I also did three weeks commercial experience at Shift Commerce working on the Matalan website as part of the ProCoders course I did.</p>
+              <p>I passed a Level 3 RQF course in web design and development and I also completed the first year of the FdA Creative and Digital Industries course at the University Centre at Wakefield College in which I passed with merit.</p>
               <p>I decided not to do my second year at university due to the lecturer leaving the course and a suitable lecturer not been available for the second year. This led me into looking for other web development courses and I found that the &#123;Pro&#125;Coders course covered the skills I would need to pursue a career as a developer.</p>
             </div>
           </div>
@@ -22,6 +20,49 @@ class About extends Component {
         <section className='c-about-cv'>
           <h2>CV</h2>
           <div className='c-header-divider' />
+          <div className='c-about-cv__category'>
+            <div className='c-about-cv__category-info'>
+              <h3>Work Experience</h3>
+              <h4>Web Developer - YummyPixels</h4>
+              <p>01/2020 - present</p>
+              <ul>
+                <li>Working on changing the branding of YummyPixels from being a photography business into a web development business.</li>
+                <li>Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.</li>
+              </ul>
+            </div>
+            <div className='c-about-cv__category-info'>
+              <h4>UI Developer - Hitachi Capital (UK) PLC</h4>
+              <p>11/2019 - 01/2020</p>
+              <ul>
+                <li>Front end development using technologies that include JavaScript, AngularJS, Sass and HTML.</li>
+                <li>Translating designs and style guides provided by the web designers into functional user interfaces, ensuring compatibility and performance and also working on various app improvements.</li>
+              </ul>
+            </div>
+            <div className='c-about-cv__category-info'>
+              <h4>Front End Developer - Shift Commerce</h4>
+              <p>02/2018 - 03/2018</p>
+              <ul>
+                <li>Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.</li>
+                <li>I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.</li>
+              </ul>
+            </div>
+            <div className='c-about-cv__category-info'>
+              <h4>Stock Photographer - YummyPixels</h4>
+              <p>09/2011 - Present</p>
+              <ul>
+                <li>Food Stock Photography</li>
+                <li>Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.</li>
+                <li>Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.</li>
+              </ul>
+            </div>
+            <div className='c-about-cv__category-info'>
+              <h4>Product Photographer - Trade Furniture Company</h4>
+              <p>03/2013 - 06/2015</p>
+              <ul>
+                <li>Producing images of solid wood furniture.</li>
+              </ul>
+            </div>
+          </div>
           <div className='c-about-cv__category'>
             <h3>Education</h3>
             <div className='c-about-cv__category-info'>
@@ -72,40 +113,6 @@ class About extends Component {
               <li>Good communication skills;</li>
               <li>Ability to prioritise work to meet schedules;</li>
             </ul>
-          </div>
-          <div className='c-about-cv__category'>
-            <h3>Work Experience</h3>
-            <div className='c-about-cv__category-info'>
-              <h4>Front End Developer - Shift Commerce</h4>
-              <p>02/2018 - 03/2018</p>
-              <ul>
-                <li>Three weeks commercial/work experience asisting the Ruby on Rails front end development team, working on a large uk retail company ecommerce website.</li>
-                <li>I also got to contribute to daily stand-ups and weekly retrospectives and learnt new skills such as Gulp and working with content management systems.</li>
-              </ul>
-            </div>
-            <div className='c-about-cv__category-info'>
-              <h4>Stock Photographer</h4>
-              <p>09/2011 - Present</p>
-              <ul>
-                <li>Food Stock Photography</li>
-                <li>Contributor with an extensive portfolio focusing on Commercial and Food Photography available in various stock websites such as iStock (Getty), Shutterstock and Adobe Stock.</li>
-                <li>Designer and author of Yummy Eats cookbook ePub available for sale on iBooks and Amazon.</li>
-              </ul>
-            </div>
-            <div className='c-about-cv__category-info'>
-              <h4>Photographer - Everyscape</h4>
-              <p>02/2014 - 02/2015</p>
-              <ul>
-                <li>Photographing 360 degree panorama images used to produce virtual tours for businesses in the UK.</li>
-              </ul>
-            </div>
-            <div className='c-about-cv__category-info'>
-              <h4>Product Photographer - Trade Furniture Company</h4>
-              <p>03/2013 - 06/2015</p>
-              <ul>
-                <li>Producing images of solid wood furniture.</li>
-              </ul>
-            </div>
           </div>
           <div className='c-about-cv__category c-about-cv__category-lists'>
             <h3>Hobbies and Interests</h3>

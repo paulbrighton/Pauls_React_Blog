@@ -195,7 +195,7 @@ ShallowWrapper {
             className="c-portfolio-project__text"
           >
             <p>
-              This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.
+              This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.
             </p>
             <p>
               Watch some cool YouTube videos on 
@@ -694,7 +694,7 @@ ShallowWrapper {
               className="c-portfolio-project__text"
             >
               <p>
-                This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.
+                This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.
               </p>
               <p>
                 Watch some cool YouTube videos on 
@@ -1742,7 +1742,7 @@ ShallowWrapper {
                 className="c-portfolio-project__text"
               >
                 <p>
-                  This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.
+                  This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.
                 </p>
                 <p>
                   Watch some cool YouTube videos on 
@@ -1797,7 +1797,7 @@ ShallowWrapper {
               "props": Object {
                 "children": Array [
                   <p>
-                    This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.
+                    This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.
                   </p>,
                   <p>
                     Watch some cool YouTube videos on 
@@ -1820,10 +1820,10 @@ ShallowWrapper {
                   "key": undefined,
                   "nodeType": "host",
                   "props": Object {
-                    "children": "This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.",
+                    "children": "This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.",
                   },
                   "ref": null,
-                  "rendered": "This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.",
+                  "rendered": "This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.",
                   "type": "p",
                 },
                 Object {
@@ -3429,7 +3429,7 @@ ShallowWrapper {
               className="c-portfolio-project__text"
             >
               <p>
-                This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.
+                This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.
               </p>
               <p>
                 Watch some cool YouTube videos on 
@@ -3928,7 +3928,7 @@ ShallowWrapper {
                 className="c-portfolio-project__text"
               >
                 <p>
-                  This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.
+                  This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.
                 </p>
                 <p>
                   Watch some cool YouTube videos on 
@@ -4976,7 +4976,7 @@ ShallowWrapper {
                   className="c-portfolio-project__text"
                 >
                   <p>
-                    This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.
+                    This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.
                   </p>
                   <p>
                     Watch some cool YouTube videos on 
@@ -5031,7 +5031,7 @@ ShallowWrapper {
                 "props": Object {
                   "children": Array [
                     <p>
-                      This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.
+                      This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.
                     </p>,
                     <p>
                       Watch some cool YouTube videos on 
@@ -5054,10 +5054,10 @@ ShallowWrapper {
                     "key": undefined,
                     "nodeType": "host",
                     "props": Object {
-                      "children": "This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.",
+                      "children": "This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.",
                     },
                     "ref": null,
-                    "rendered": "This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouRube. The main reason that I built this app was to get more used to pulling in data from external APIs.",
+                    "rendered": "This was a simple app built with ReactJS that lets you search for videos on YouTube and watch in the player or click through to watch on YouTube. The main reason that I built this app was to get more used to pulling in data from external APIs.",
                     "type": "p",
                   },
                   Object {

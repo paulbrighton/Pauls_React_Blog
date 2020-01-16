@@ -64,7 +64,7 @@ class Articles extends Component {
       {({loading, data: { article }}) => {
         if (loading) {
           return <Layout {...this.props}>
-            <p>Loading...</p>
+            <p className='loading'>Loading...</p>
           </Layout>
         } else {
           return <Layout {...this.props}>

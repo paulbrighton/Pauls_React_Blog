@@ -27,7 +27,7 @@ class Index extends Component {
       {({ loading, error, data: { articles } }) => {
         if (loading) {
           return <Layout {...this.props}>
-            <p>Loading...</p>
+            <p className='loading'>Loading...</p>
           </Layout>
         } else if (error) {
           return <Layout {...this.props.data.error}>

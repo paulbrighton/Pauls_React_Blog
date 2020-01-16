@@ -11,8 +11,8 @@ class Contact extends Component {
         <div className='c-header-divider' />
         <section className='c-contact-details'>
           <h3>Connect with me</h3>
-          <p>I am conveniently situated between Wakefield and Doncaster in Fitzwilliam, Wakefield and have access to the train station that connects to Leeds and Sheffield.</p>
-          <p>I will be actively looking for work as a web developer as soon as I finish my course at &#123;Pro&#125;Coders.</p>
+          <p>I am conveniently situated between Wakefield and Doncaster in Fitzwilliam and have access to the train station that connects to Leeds and Sheffield.</p>
+          <p>I am looking to work for a creative design agency as a front end developer.</p>
           <p>Feel free to contact me with any comments or inquires using the contact form or connect with me on social media.</p>
           <ul>
             <li><a href='https://twitter.com/paulbrighton_'>Twitter</a></li>
