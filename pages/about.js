@@ -26,8 +26,8 @@ class About extends Component {
               <h4>Web Developer - YummyPixels</h4>
               <p>01/2020 - present</p>
               <ul>
-                <li>Working on changing the branding of YummyPixels from being a photography business into a web development business.</li>
-                <li>Looking to provide small to medium sized businesses with a range of web development services including web design along with the option of a unique WordPress site or a standard HTML/CSS/JavaScript website.</li>
+                <li>Working on updating my portfolio with websites for small to medium sized businesses with the aim of hopefully gaining a role in a creative digital agency.</li>
+                <li>Currently adding WordPress and PHP to my skill set so I can provide unique WordPress sites along with HTML/CSS/JavaScript/ReactJS websites.</li>
               </ul>
             </div>
             <div className='c-about-cv__category-info'>
